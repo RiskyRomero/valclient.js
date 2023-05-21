@@ -15,7 +15,6 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Prism III Odin": "72e724e9-4ba4-2d12-ce1a-8db1a528b9d3",
         "Smite Odin": "9e648b20-4ed5-1f34-87a9-979cbe9a958a",
         "Coalition: Cobra Odin": "5c13101a-45e4-d568-aade-d6b0dadedcd1",
-        "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
         "Lightwave Odin": "57523cf0-4574-968b-9f17-168e3bdb6d0d",
         "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
         "Schema Odin": "02cce94a-4dc2-d11a-33cf-d8aba4e36202",
@@ -749,9 +748,6 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Coalition: Cobra Odin": {
         "Level 1": "dd2acfca-4366-7ac0-c13e-1eb2f1948273",
-    },
-    "Sensation Odin": {
-        "Level 1": "1bfea917-4262-37ba-3a76-04b937f2d0be",
     },
     "Lightwave Odin": {
         "Level 1": "162beb92-4ab7-4383-da51-4b94ba90bd5d",
@@ -3233,9 +3229,6 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Blue: "4a405c13-4440-94de-e894-82970565b71e",
         Red: "b49c9d6f-46c8-3689-01c1-bd81beb4050d",
         Orange: "c1e53748-4a97-c0a8-6759-59925fae909b",
-    },
-    "Sensation Odin": {
-        Default: "53ce97ed-47e0-4856-0446-f7bc86e869e0",
     },
     "Lightwave Odin": {
         Default: "156158a5-4eb2-79ef-49e9-16a680fe93a9",
