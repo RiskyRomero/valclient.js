@@ -7,12 +7,12 @@ jobs:
     update-types:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v2
+            - uses: actions/checkout@v3
               with:
                   persist-credentials: false
 
             - name: Cache node modules
-              uses: actions/cache@v2
+              uses: actions/cache@v3
               id: cache-node-modules
               env:
                   cache-name: cache-node-modules
