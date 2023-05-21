@@ -12,7 +12,6 @@ export type OdinSkin =
     | "Prism III Odin"
     | "Smite Odin"
     | "Coalition: Cobra Odin"
-    | "Sensation Odin"
     | "Lightwave Odin"
     | "Sensation Odin"
     | "Schema Odin"
@@ -51,7 +50,6 @@ export type AresSkin =
     | "Sentinels of Light Ares"
     | "Sakura Ares"
     | "Snowfall Ares"
-    | "Sentinels of Light Ares"
     | "Titanmail Ares"
     | "Standard Ares";
 
@@ -150,7 +148,6 @@ export type PhantomSkin =
     | "Task Force 809 Phantom"
     | "RGX 11z Pro Phantom"
     | "Xenohunter Phantom"
-    | "RGX 11z Pro Phantom"
     | "VALORANT GO! Vol. 1 Phantom"
     | "Radiant Entertainment System Phantom"
     | "Spectrum Phantom"
@@ -422,7 +419,6 @@ export type ShortySkin =
     | "Karabasan Shorty"
     | "Rune Stone Shorty"
     | "Prelude to Chaos Shorty"
-    | "Karabasan Shorty"
     | "Doodle Buds Shorty"
     | "Hivemind Shorty"
     | "Velocity Shorty"
