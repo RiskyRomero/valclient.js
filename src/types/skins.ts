@@ -80,7 +80,6 @@ export type VandalSkin =
     | "Team Ace Vandal"
     | "Ruin Vandal"
     | ".EXE Vandal"
-    | "dot EXE Vandal"
     | ".SYS Vandal"
     | "Horizon Vandal"
     | "Prime Vandal"

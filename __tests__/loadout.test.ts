@@ -194,7 +194,7 @@ const mockedYourItemsBuddy: YourItems<"buddy"> = {
             InstanceID: "test",
         },
         {
-            ItemID: buddyLevelIdMappedByName["2021 VCT Masters Winner Buddy"]["1"],
+            ItemID: buddyLevelIdMappedByName["VCT Masters Winner Buddy"]["1"],
             TypeID: "test",
             InstanceID: "id_instance",
         },
@@ -442,8 +442,8 @@ test("change a skin buddy", async () => {
             {
                 ...mockedCurrentLoadout.Guns[1],
                 ID: gunsIdMappedByName["Guardian"],
-                CharmID: buddyIdMappedByName["2021 VCT Masters Winner Buddy"],
-                CharmLevelID: buddyLevelIdMappedByName["2021 VCT Masters Winner Buddy"]["1"],
+                CharmID: buddyIdMappedByName["VCT Masters Winner Buddy"],
+                CharmLevelID: buddyLevelIdMappedByName["VCT Masters Winner Buddy"]["1"],
                 CharmInstanceID: "id_instance",
             },
         ],
@@ -464,7 +464,7 @@ test("change a skin buddy", async () => {
     httpService.fetch.mockResolvedValueOnce(mockedCurrentLoadoutWithGuardian);
     httpService.put.mockResolvedValueOnce(mockedGunChangedLoadout);
 
-    const data = await loadout.addSkinBuddy("Guardian", "2021 VCT Masters Winner Buddy");
+    const data = await loadout.addSkinBuddy("Guardian", "VCT Masters Winner Buddy");
 
     expect(data).toEqual(mockedGunChangedLoadout);
 });
