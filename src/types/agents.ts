@@ -1,6 +1,7 @@
 /* FILE GENERATED AUTOMATICALLY */
 
 export type Agents =
+    | "Gekko"
     | "Fade"
     | "Breach"
     | "Raze"
@@ -10,6 +11,7 @@ export type Agents =
     | "Cypher"
     | "Sova"
     | "Killjoy"
+    | "Harbor"
     | "Viper"
     | "Phoenix"
     | "Astra"
