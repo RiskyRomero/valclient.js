@@ -97,6 +97,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "ChronoVoid Buddy": "b681b5cf-4394-1af7-7ccb-b8a412d05010",
     "Dalgona Coffee Buddy": "a1e75ddf-47ab-ae85-e223-90b94563c702",
     "Dance Fever Buddy": "29372ece-48ee-8b64-d0e7-98afe80e4244",
+    "Dalgona Coffee Buddy": "a1e75ddf-47ab-ae85-e223-90b94563c702",
     "Danger Lizard Buddy": "d5b10115-43ea-42e7-8843-5bb5c1e73c6e",
     "Prelude to Chaos Buddy": "cd1500f0-470c-9753-1cb9-43924c98fc84",
     "Lucky Dice Buddy": "b0e6b3db-45fe-f622-52f2-51811650560e",
@@ -623,6 +624,10 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Dance Fever Buddy": {
         "1": "95199f7a-4d45-8793-e320-0491dcf782d8",
+    },
+=======
+    "Dalgona Coffee Buddy": {
+        "1": "35608d62-4f08-dc80-7211-ce94ec8b7508",
     },
     "Danger Lizard Buddy": {
         "1": "28227664-476a-72db-adaa-159084fbd149",

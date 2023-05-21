@@ -95,6 +95,7 @@ export type BuddyType =
     | "ChronoVoid Buddy"
     | "Dalgona Coffee Buddy"
     | "Dance Fever Buddy"
+    | "Dalgona Coffee Buddy"
     | "Danger Lizard Buddy"
     | "Prelude to Chaos Buddy"
     | "Lucky Dice Buddy"

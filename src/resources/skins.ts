@@ -15,6 +15,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Prism III Odin": "72e724e9-4ba4-2d12-ce1a-8db1a528b9d3",
         "Smite Odin": "9e648b20-4ed5-1f34-87a9-979cbe9a958a",
         "Coalition: Cobra Odin": "5c13101a-45e4-d568-aade-d6b0dadedcd1",
+        "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
         "Lightwave Odin": "57523cf0-4574-968b-9f17-168e3bdb6d0d",
         "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
         "Schema Odin": "02cce94a-4dc2-d11a-33cf-d8aba4e36202",
@@ -53,6 +54,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Sentinels of Light Ares": "9f3e2ba6-428f-c635-67e0-b8b7d9e3c2fc",
         "Sakura Ares": "2666f98d-4f88-8cb9-4927-629d75a6a7ad",
         "Snowfall Ares": "43538e40-48bf-0262-d4a7-bbba3c56df77",
+        "Sentinels of Light Ares": "9f3e2ba6-428f-c635-67e0-b8b7d9e3c2fc",
         "Titanmail Ares": "d29d764d-41ce-5a4d-0a96-7b8b91da16fd",
         "Standard Ares": "5305d9c4-4f46-fbf4-9e9a-dea772c263b5",
     },
@@ -81,6 +83,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Team Ace Vandal": "25980352-4407-60ff-eb27-058c1ea696cc",
         "Ruin Vandal": "948d31a0-4c2a-9c82-2b89-fe9f2ec65036",
         ".EXE Vandal": "6f3a2a08-4f32-dbdc-8dca-628a5c840052",
+        "dot EXE Vandal": "6f3a2a08-4f32-dbdc-8dca-628a5c840052",
         ".SYS Vandal": "23d61dbb-457a-5590-2e91-38a67a52c332",
         "Horizon Vandal": "9d71edb0-453c-defa-507d-57aa2935b379",
         "Prime Vandal": "b9ee2457-481c-6776-3f5b-0ca8e8f90c89",
@@ -150,6 +153,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Task Force 809 Phantom": "3d71065e-4f0b-19a8-26d5-129cddeb013b",
         "RGX 11z Pro Phantom": "499acf05-4f79-e345-3714-57bf7aa163ea",
         "Xenohunter Phantom": "fac0cea1-45a9-1549-c120-af8f0150e562",
+        "RGX 11z Pro Phantom": "499acf05-4f79-e345-3714-57bf7aa163ea",
         "VALORANT GO! Vol. 1 Phantom": "0acbabbe-4f4c-f643-284b-f69029abb54e",
         "Radiant Entertainment System Phantom": "4eb45d71-4fa4-be4f-7409-cf92123f1d22",
         "Spectrum Phantom": "980fa063-436e-e51f-c38d-70a5b93a0f1c",
@@ -421,6 +425,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Karabasan Shorty": "0581fb92-4b2d-0ede-6bfc-8d93fde11f74",
         "Rune Stone Shorty": "acedb6db-407b-5d62-9c27-07bbb2313fe3",
         "Prelude to Chaos Shorty": "c9572061-4ee1-ff7d-b60c-ebac198d3706",
+        "Karabasan Shorty": "0581fb92-4b2d-0ede-6bfc-8d93fde11f74",
         "Doodle Buds Shorty": "9a37b09b-4768-b368-52ef-58ac62564637",
         "Hivemind Shorty": "3a921c7b-4e8f-8543-bee8-01ba6da86874",
         "Velocity Shorty": "15588213-4d09-344b-c7e1-28af37374c82",
@@ -744,6 +749,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Coalition: Cobra Odin": {
         "Level 1": "dd2acfca-4366-7ac0-c13e-1eb2f1948273",
+    },
+    "Sensation Odin": {
+        "Level 1": "1bfea917-4262-37ba-3a76-04b937f2d0be",
     },
     "Lightwave Odin": {
         "Level 1": "162beb92-4ab7-4383-da51-4b94ba90bd5d",
@@ -1746,6 +1754,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Titanmail Frenzy": {
         "Level 1": "47ee5cb6-4059-df8b-6d40-5daaa01ff49f",
     },
+    "Titanmail Frenzy": {
+        "Level 1": "47ee5cb6-4059-df8b-6d40-5daaa01ff49f",
+    },
     "Live Wire Frenzy": {
         "Level 1": "08e6ba32-4a6e-8680-df58-39af9c32cdac",
     },
@@ -2177,6 +2188,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "a0708cc3-4f93-228c-fba0-b3938c5efea5",
         "Level 3": "c977106d-4dc7-bbcd-74e4-efab54475915",
         "Level 4": "8ca69aa7-451a-1af5-e897-3b9d309e82a4",
+    },
+    "Karabasan Shorty": {
+        "Level 1": "f1f9cde8-4810-86a0-1c95-4ab214d4f6b8",
     },
     "Doodle Buds Shorty": {
         "Level 1": "deb200a8-447c-0e47-5b92-e8aeb9cd5525",
@@ -3220,6 +3234,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "b49c9d6f-46c8-3689-01c1-bd81beb4050d",
         Orange: "c1e53748-4a97-c0a8-6759-59925fae909b",
     },
+    "Sensation Odin": {
+        Default: "53ce97ed-47e0-4856-0446-f7bc86e869e0",
+    },
     "Lightwave Odin": {
         Default: "156158a5-4eb2-79ef-49e9-16a680fe93a9",
         Blue: "a5a25319-4159-072f-5555-48824316ef00",
@@ -3875,6 +3892,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Raze: "4712da6a-4591-a4e8-c9a5-3c89ce573b73",
         Reyna: "b6ac6e3a-4710-f2d6-98f7-71892096401a",
         Viper: "01ee628c-411a-e345-e7a5-918e1dcf8d02",
+    },
+    "Hue Shift Phantom": {
+        Default: "3948f41b-4239-40b6-5a04-6ba0202a0ce0",
     },
     "Hue Shift Phantom": {
         Default: "3948f41b-4239-40b6-5a04-6ba0202a0ce0",
@@ -4753,6 +4773,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Green: "b63b0226-40d0-f52d-1a7c-b6a7555d703d",
         White: "51e5bab7-48d8-b8e3-3cf6-cbb1994eae0a",
         Blue: "0164afa0-47dc-3c61-cd5b-8794b73c2540",
+    },
+    "Karabasan Shorty": {
+        Default: "74019079-43d3-2757-bf40-9792c930034e",
     },
     "Doodle Buds Shorty": {
         Default: "8341e29e-4faa-e5c6-b6db-c2bcfbdfbc55",
