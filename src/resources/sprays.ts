@@ -414,6 +414,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "All Good Spray": "d16b0b8c-4106-493b-f231-ac9b4d56372f",
     "Pulse Check Spray": "6410980b-493b-63bf-0860-31940c553ead",
     "Tigris Spray": "5cbab592-4571-be90-e1fa-268898ebd23c",
+    "No Spray Equipped": "d7efbdd5-4a77-f858-a133-cfb8956ca1fe",
     "V for VALORANT Spray": "5d88fd45-434d-b0d6-2331-e8b3d47b8395",
     "Can't Teach That Spray": "48601754-442d-98cb-2109-3fb2075500ec",
     "Reyna Spray": "0c342c8c-492e-e20e-cf06-c694ec4a386f",
@@ -1662,6 +1663,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Tigris Spray": {
         "1": "e93166d8-4485-59e7-f065-82be40c7899a",
+    },
+    "No Spray Equipped": {
+        "1": "d1537344-4fe7-79bb-2689-a293e49dd094",
     },
     "V for VALORANT Spray": {
         "1": "280b9b3f-4bfa-9cf5-c72b-78ab277c30e7",

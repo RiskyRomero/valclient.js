@@ -99,6 +99,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Dance Fever Buddy": "29372ece-48ee-8b64-d0e7-98afe80e4244",
     "Dalgona Coffee Buddy": "a1e75ddf-47ab-ae85-e223-90b94563c702",
     "Danger Lizard Buddy": "d5b10115-43ea-42e7-8843-5bb5c1e73c6e",
+    "Daruma Charm Buddy": "b3066549-4b2a-f7d4-d655-3784181db732",
     "Prelude to Chaos Buddy": "cd1500f0-470c-9753-1cb9-43924c98fc84",
     "Lucky Dice Buddy": "b0e6b3db-45fe-f622-52f2-51811650560e",
     "Discotech Buddy": "42afb96b-4d11-e465-55a4-0b87bdfbf244",
@@ -183,6 +184,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "New Year's Knot Buddy": "dee125e1-413c-02c1-7925-b6bd0cc70701",
     "Celestial Buddy": "9f6bada3-4911-7863-ff39-6984140e0201",
     "Magepunk Buddy": "7b7d715a-48ff-ce97-4d7f-6cb75d763f7f",
+    "Magepunk, Ep 6 Buddy": "2d250f34-47d9-58ce-f734-16ae122660c8",
     "Magic Hummingbird Buddy": "52f2b3de-4f8d-76ba-3231-ea9cf4a37687",
     "Spline Buddy": "f696f391-4b0e-804c-0069-02a0d67dd170",
     "On The Case Buddy": "7516ebb5-405d-e0ff-0fd9-67b8135b7821",
@@ -632,6 +634,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Danger Lizard Buddy": {
         "1": "28227664-476a-72db-adaa-159084fbd149",
     },
+    "Daruma Charm Buddy": {
+        "1": "23ac846f-4a76-b338-94e6-d9bed52f07ce",
+    },
     "Prelude to Chaos Buddy": {
         "1": "ced74427-4530-5a19-9c55-cbb81c150bcc",
     },
@@ -883,6 +888,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Magepunk Buddy": {
         "1": "03b6fbf7-4228-0712-3d91-da847f958b1b",
+    },
+    "Magepunk, Ep 6 Buddy": {
+        "1": "9342e22f-4570-6449-3983-01b5023fc1a3",
     },
     "Magic Hummingbird Buddy": {
         "1": "6941800f-4055-394c-0bc0-1d9bbff03f8e",

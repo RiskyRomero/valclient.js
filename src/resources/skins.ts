@@ -93,6 +93,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Monstrocity Vandal": "b3a65992-469c-bab8-736e-49bbda91c650",
         "Nunca Olvidados Vandal": "6460e252-48ef-8312-6f4f-2cb5f1b56972",
         "Luxe Vandal": "30fd16af-4560-b2e2-7780-ee8148a0946a",
+        "Magepunk Vandal": "148d7f02-4259-9c17-a1a4-6fa220a56551",
         "Silvanus Vandal": "d758abc0-4d99-62d3-b22b-0db0e57de881",
         "Crimsonbeast Vandal": "8b688de6-42d3-9430-8f38-32b0b3d1c2c6",
         "Ion Vandal": "596ce51d-40e3-dc21-b02d-b08d070a7883",
@@ -182,6 +183,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Kohaku & Matsuba Phantom": "8f82cff0-44b9-b792-8dd2-b2be8538421b",
         "Smite Phantom": "8d3ead4a-4421-f1f2-4292-ecac859fc135",
         "Celestial Phantom": "8c0cc1e8-4c1b-20a0-122d-16b4334d1b80",
+        "Magepunk Phantom": "f2531d6f-40d8-ad18-4e74-ed812e0a6b1f",
         "Spline Phantom": "13f553a1-4124-7c29-05e9-e7932fdeabb6",
         "Minima Phantom": "2e3538f1-450f-cfe6-f93e-73862cd39314",
         "Galleria Phantom": "41892314-4a99-0048-1838-e38cd680ea26",
@@ -677,6 +679,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Luxe Knife": "4af88517-4949-9caa-9dda-1980f07202a4",
         "Magepunk Electroblade": "c18e781e-40a0-80e6-256a-54ae7355e7eb",
         "Magepunk Shock Gauntlet": "59f627f1-42f3-670d-5323-3499c2913289",
+        "Magepunk Sparkswitch": "6029ac35-4eca-8428-26d5-0896013e4c63",
         "Spline Dagger": "f6cfd500-4eab-3c1d-9eeb-188e90731692",
         "Crimsonbeast Hammer": "ec04e1a4-4067-bb9c-c18b-46a80e5f3f1f",
         "Genesis Arc": "3209e2af-4703-088b-ebef-8da89b4cef87",
@@ -1027,6 +1030,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Luxe Vandal": {
         "Level 1": "1878bbc9-409e-66b4-346b-c3997a54df57",
     },
+    "Magepunk Vandal": {
+        "Level 1": "a0801408-4a88-3bc7-df50-0baaecf5040b",
+        "Level 2": "c863d31a-4e01-44eb-5bf6-2f8f937f0e0f",
+        "Level 3": "9d247029-4d6f-5814-58bb-3c86759fbc94",
+        "Level 4": "052ee955-42eb-810a-f3dc-aabaa38d56bd",
+    },
     "Silvanus Vandal": {
         "Level 1": "9d501eec-4084-5d44-32ef-6e8ed5b0ed49",
     },
@@ -1348,6 +1357,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Celestial Phantom": {
         "Level 1": "aa610521-4bea-bc0e-1bd4-94b67fd90db6",
+    },
+    "Magepunk Phantom": {
+        "Level 1": "82da0235-41c6-4a04-8296-e9baaa8f12a0",
+        "Level 2": "c2970e2c-4783-96e1-2fac-1aa7bf41e413",
+        "Level 3": "34005566-4b64-c21d-36ea-2a8f25fbdb23",
+        "Level 4": "9b866c42-4201-9c1c-86b0-5e95b7e4c3cd",
     },
     "Spline Phantom": {
         "Level 1": "04dbf8e5-44fc-73f7-0655-8ca05a47739c",
@@ -3084,6 +3099,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "c5ec6a47-40c2-66ed-d546-5bad1eef6fd5",
         "Level 2": "4379ef43-451a-a1eb-7c69-919abaff068b",
     },
+    "Magepunk Sparkswitch": {
+        "Level 1": "35792a19-4e62-f3bc-f5df-289599d6cafc",
+        "Level 2": "c5a76fcd-405f-a78b-7212-fab0e58ec5fb",
+    },
     "Spline Dagger": {
         "Level 1": "d6e93360-46a2-0103-afa0-8b91e78b6fe8",
     },
@@ -3526,6 +3545,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Luxe Vandal": {
         Default: "86f3352f-49b1-603f-6752-60bdfcddf318",
     },
+    "Magepunk Vandal": {
+        Default: "71c769ce-48d7-fe22-2d4b-a996afd0a076",
+        Green: "5c79f324-43d6-99a2-7089-6b9a34d41a6c",
+        "Black/Red": "241b0bd7-4573-e632-1cd4-a3afb216ec28",
+        Yellow: "db0a8a44-4aa1-16fc-5b35-cc9146743c87",
+    },
     "Silvanus Vandal": {
         Default: "d5327938-46fb-929c-e117-59888b3516df",
     },
@@ -3855,6 +3880,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Celestial Phantom": {
         Default: "f78791cf-4084-55c2-9205-9aa2533284a8",
+    },
+    "Magepunk Phantom": {
+        Default: "0f3ac4e7-4723-6069-4875-f89c32db7894",
+        Green: "648ec235-4708-a36e-c102-c787d489d3fa",
+        "Black/Red": "181ab093-46e5-34b2-494f-d0938a29ee22",
+        Yellow: "899279bf-46e0-10ed-4e40-e8aee16977d7",
     },
     "Spline Phantom": {
         Default: "c755dcd9-4ce8-86b5-4f1f-ab96a32de2f1",
@@ -5720,6 +5751,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Magepunk Shock Gauntlet": {
         Default: "2b032d73-4916-ea28-8692-84a66f231208",
+    },
+    "Magepunk Sparkswitch": {
+        Default: "64344670-4e0d-cc45-6f4e-88ba4b17f7a7",
+        Green: "c45ddd12-4787-f8a0-0952-fc8a4a7f6cb2",
+        "Black/Red": "8853576a-4697-b970-3619-aa8ae560b663",
+        Yellow: "ab198343-436d-72b7-1ad7-eb822b5068a4",
     },
     "Spline Dagger": {
         Default: "a31fc599-4de8-a3cd-11fe-36ba7990832b",
