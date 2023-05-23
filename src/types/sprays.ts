@@ -412,6 +412,7 @@ export type SprayType =
     | "All Good Spray"
     | "Pulse Check Spray"
     | "Tigris Spray"
+    | "No Spray Equipped"
     | "V for VALORANT Spray"
     | "Can't Teach That Spray"
     | "Reyna Spray"
