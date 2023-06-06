@@ -110,6 +110,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Cavalier Vandal": "1eb7639f-4e90-5b5b-9f53-a792103d6f29",
         "Titanmail Vandal": "e8dc658b-4c7c-2338-facd-7d8d2813560a",
         "Standard Vandal": "27f21d97-4c4b-bd1c-1f08-31830ab0be84",
+        "NO LIMITS Vandal": "44a98286-4e42-6976-937f-c982c5a31a79",
         "Depths Vandal": "f2871246-441c-5f41-3dac-13947139adec",
         "Ego Vandal": "8c22a4b2-4da0-f2f2-9bd1-c89d106cd646",
         "Wasteland Vandal": "32b87592-45ad-c5a6-44ae-a9b844137c58",
@@ -145,6 +146,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Standard Bulldog": "724a7f42-4315-eccf-0e76-77bdd3ec2e09",
         "Tilde Bulldog": "006d6b0a-47ba-a909-ade5-0cba66dd5829",
         "Gridcrash Bulldog": "0c0cbd13-4601-e6c1-0180-2181e2461c36",
+        "NO LIMITS Bulldog": "8c7238c8-4161-a5ac-69f2-129f8a4ce5fa",
         "Convex Bulldog": "f580899d-49c4-8bf8-9718-c9a6a38dd503",
         "Depths Bulldog": "4e6341f9-4851-603d-daff-9185f007d3dc",
         "Varnish Bulldog": "9bba8d9a-461e-9783-fcb7-f1a92192fb3a",
@@ -374,6 +376,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Cavalier Ghost": "153b2b33-4e6c-fb98-42dd-5a9819649dc7",
         "Standard Ghost": "1c63b43b-43c4-04e4-01c9-7aa1bffa5ac1",
         "Gridcrash Ghost": "fbba3f7e-402a-92f3-b3d6-a69d653e5204",
+        "NO LIMITS Ghost": "3f59b69f-4391-b0ee-705e-329175931502",
         "Depths Ghost": "69addb00-4eb5-eebb-c4c5-2296549cba6f",
         "Ego Ghost": "b84df096-4096-e9c4-0869-8e83e7fc5476",
         "Vendetta Ghost": "0a6edcf0-4a64-0ed5-1b10-0e96c2eb4cb4",
@@ -592,6 +595,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Infinity Spectre": "53ab2a6a-46c5-32b9-e045-6781e677d7ff",
         "Standard Spectre": "f01d1307-4299-42f5-2c5e-7dab7e69ab19",
         "Tigris Spectre": "910991b7-40de-183d-12ea-d99e67cfa910",
+        "NO LIMITS Spectre": "ddbead4d-40b1-afe4-e44f-eca9e2022458",
         "Convex Spectre": "c8a5ba23-4f0d-c7de-8e2f-c184e2fc27ba",
         "BlastX Spectre": "b4e5bb69-4e12-113f-c43b-efa5b13cb96d",
         "Wasteland Spectre": "f7da43d8-450b-a03f-ceb7-c4b20f738392",
@@ -705,6 +709,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         Melee: "12cc9ed2-4430-d2fe-3064-f7a19b1ba7c7",
         "Tilde Knife": "be489303-4aa4-ba46-e6a8-02ae4c7a7b3a",
         "Hu Else": "5724cd18-458b-af3d-b60a-239c5a8c081a",
+        "NO LIMITS Bat": "b6d1788f-4ef6-6b05-3650-43bd455ba744",
         "BlastX Polymer KnifeTech Coated Knife": "5844ccd5-4a8d-e84d-b5b1-dfaaa8f34d84",
         "Ego Knife": "c52fe5d7-4500-ffc0-cbcd-bfa29b7ea040",
         "Winterwunderland Candy Cane": "e49c0fd2-435c-2c41-9164-4996080f455b",
@@ -1099,6 +1104,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Standard Vandal": {
         "Level 1": "1ab72e66-4da3-33a0-164f-908113e075a4",
     },
+    "NO LIMITS Vandal": {
+        "Level 1": "cb931d7a-48c9-f349-6276-1b9aba1ef3e9",
+    },
     "Depths Vandal": {
         "Level 1": "bd1b4801-4bf2-1444-82ce-3ca3636159d4",
     },
@@ -1219,6 +1227,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Gridcrash Bulldog": {
         "Level 1": "06168395-458e-25f5-7866-80a6a19d1977",
+    },
+    "NO LIMITS Bulldog": {
+        "Level 1": "79249ad0-4ae3-1ec3-a18a-c28521f21a51",
     },
     "Convex Bulldog": {
         "Level 1": "84f8d0f4-4442-5892-6a20-8f83e65a5e96",
@@ -2024,6 +2035,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Gridcrash Ghost": {
         "Level 1": "232f93cb-4c6e-512c-9961-db9b90929400",
     },
+    "NO LIMITS Ghost": {
+        "Level 1": "85d45183-4cb8-0e04-8610-bb817318eda0",
+    },
     "Depths Ghost": {
         "Level 1": "bb0450c4-47db-4fc7-d0c3-a8a5320d673b",
     },
@@ -2802,6 +2816,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Tigris Spectre": {
         "Level 1": "e041ba88-452e-d907-1a83-f6b7631cd053",
     },
+    "NO LIMITS Spectre": {
+        "Level 1": "3de643cb-457b-e0a7-3aa4-5f8f4b799e38",
+    },
     "Convex Spectre": {
         "Level 1": "fbe265cf-4e3d-9891-791e-5089f1f7f102",
     },
@@ -3190,6 +3207,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Hu Else": {
         "Level 1": "d3a228df-4eb5-09c4-0e32-93b50c9ec842",
+    },
+    "NO LIMITS Bat": {
+        "Level 1": "6359a802-440e-b775-4ba4-fa88d3bddb07",
     },
     "BlastX Polymer KnifeTech Coated Knife": {
         "Level 1": "708abbc6-4579-4452-4293-07ba45e78979",
@@ -3611,6 +3631,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Standard Vandal": {
         Default: "19629ae1-4996-ae98-7742-24a240d41f99",
     },
+    "NO LIMITS Vandal": {
+        Default: "d774ce6b-4749-ae3b-9111-a2b5e36799ab",
+    },
     "Depths Vandal": {
         Default: "02a02a39-43d9-ea9b-417f-25b3e0a4da86",
     },
@@ -3746,6 +3769,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Gridcrash Bulldog": {
         Default: "6a8c8af7-4e22-0f4e-e78a-19b32dacc8da",
+    },
+    "NO LIMITS Bulldog": {
+        Default: "5b1afe39-404b-3d9a-2375-09a45096eb60",
     },
     "Convex Bulldog": {
         Default: "1789be1e-42fb-a43a-2f40-eb9b793481b0",
@@ -4614,6 +4640,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Gridcrash Ghost": {
         Default: "914f4435-4abc-e89d-e698-369cae3a8a4c",
     },
+    "NO LIMITS Ghost": {
+        Default: "9e1d4dcf-43f9-4f6a-9374-06b9071be48f",
+    },
     "Depths Ghost": {
         Default: "02cc5691-4a5f-76b2-a73c-7ca6a1f5efda",
     },
@@ -5448,6 +5477,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Tigris Spectre": {
         Default: "976c0258-41df-b35c-e053-87b501278957",
     },
+    "NO LIMITS Spectre": {
+        Default: "cba0b54e-4a6c-9cb4-66c9-3ca967e88d0c",
+    },
     "Convex Spectre": {
         Default: "b6a4a45d-4592-8216-21ac-c7bc26e947ba",
     },
@@ -5850,6 +5882,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Hu Else": {
         Default: "73190072-4d75-df43-9906-27b5dbad3d88",
+    },
+    "NO LIMITS Bat": {
+        Default: "650191fd-4ac7-691e-f2e1-0d83b8be4702",
     },
     "BlastX Polymer KnifeTech Coated Knife": {
         Default: "4805ee17-4f88-b9b7-b009-8c9986bee2f3",

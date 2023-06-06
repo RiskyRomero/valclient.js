@@ -322,6 +322,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Radianite Orb Buddy": "cd1ef501-476d-e9fb-3944-a6b0e2a79878",
     "Tigris Buddy": "d3cc1856-4df9-ca86-deee-3f80af0edf79",
     "Toaster Buddy": "22481bd6-45d7-55a9-db2f-f4a7b86c0d05",
+    "NO LIMITS Buddy": "533c84ee-405e-42aa-2f1e-54a60436259e",
     "Scuttle Trash Buddy": "476e2d56-46a1-3607-aa61-3487cf9ae80f",
     "Fist Bump Buddy": "ad508aeb-44b7-46bf-f923-959267483e78",
     "Champions 2022 Buddy": "86a16990-4eeb-9d25-e8d0-cfbe2f532443",
@@ -1302,6 +1303,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Toaster Buddy": {
         "1": "7944b081-4b0f-81c8-e41f-3aa5c634b782",
+    },
+    "NO LIMITS Buddy": {
+        "1": "ab0d9c89-4b57-b072-ed0c-cda7c040b5e7",
     },
     "Scuttle Trash Buddy": {
         "1": "00f129a0-47f3-27a8-5d5b-9fb07ce39a05",
