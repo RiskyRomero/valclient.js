@@ -6,6 +6,7 @@ export const agentsMappedById: Record<Agents, string> = {
     Gekko: "e370fa57-4757-3604-3648-499e1f642d3f",
     Fade: "dade69b4-4f5a-8528-247b-219e5a1facd6",
     Breach: "5f8d3a7f-467b-97f3-062c-13acf203c006",
+    Deadlock: "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
     Raze: "f94c3b30-42be-e959-889c-5aa313dba261",
     Chamber: "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
     "KAY/O": "601dbbe7-43ce-be57-2a40-4abd24953621",
