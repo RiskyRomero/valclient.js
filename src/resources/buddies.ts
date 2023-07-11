@@ -149,6 +149,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Gimbap Buddy": "bb6a39bd-4486-7fda-a2d5-48af18882f73",
     "Tall Tales Buddy": "c839377c-4c9a-9562-28be-91805c2d94f9",
     "Give Back Buddy": "11059586-411c-38e4-cc25-25aeb31eae02",
+    "Give Back // 2023 Buddy": "f2bda332-4920-a2f7-86da-a982150de91f",
     "Shimmer Buddy": "75737d35-41e9-373d-c179-239b942bb350",
     "Caught Buddy": "500e6c02-4005-ebb9-528b-219b57a9cfd2",
     "Ruin Watcher Buddy": "41859a85-4344-aeee-483a-468bad39e5fd",
@@ -241,7 +242,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Take on the Tundra Buddy": "f2b96400-4663-c2cf-699d-029e8b52836f",
     "Pay Respects Buddy": "839c6e7d-4821-157b-fd38-71b3debc874f",
     "One Direction Buddy": "ce82d434-477f-43a3-963b-95b6657c46b6",
-    "Pride 2022 Buddy": "2e7eaec5-4acd-6d51-4e73-a9bb30450480",
+    "Pride Buddy": "2e7eaec5-4acd-6d51-4e73-a9bb30450480",
     "Protocol 781-A Buddy": "c628b79a-494b-fa32-fd4d-91bfe0b6206a",
     "Original Protractor Buddy": "769ab062-4483-d3ba-659d-50b6c36b1ad2",
     "Lovebyte Gun Buddy": "42cb4b6a-45e3-8a83-2f52-0d90c7ca306d",
@@ -806,6 +807,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Give Back Buddy": {
         "1": "bdd36e5e-4574-85e3-6f64-62ba3319a9d1",
     },
+    "Give Back // 2023 Buddy": {
+        "1": "a35bfe0c-45c3-494c-8b2d-70b8c8c56dee",
+    },
     "Shimmer Buddy": {
         "1": "cb6f46bf-404f-3f04-1aa5-f18e5f2d25fc",
     },
@@ -1082,7 +1086,7 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "One Direction Buddy": {
         "1": "b7a05430-4ae1-b88e-0b0b-d6956bf7f9ad",
     },
-    "Pride 2022 Buddy": {
+    "Pride Buddy": {
         "1": "1a3a11bc-4477-4724-b804-3b9cdbf234d2",
     },
     "Protocol 781-A Buddy": {

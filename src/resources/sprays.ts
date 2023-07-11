@@ -46,6 +46,8 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "K.O. Spray": "dcc8f0df-46b9-0a3e-7a0f-74a7558ddafc",
     "Guns Out Spray": "92641409-4113-b674-f95d-fc85f29bf921",
     "FTW Spray": "36ee876c-4918-69c7-9ce4-9dac0b4b929a",
+    "Ignite: Huang Spray": "634aaf2f-4f08-aef2-5f97-f5b5b939d6ad",
+    "Ignite: Feng Spray ": "53ab4493-4b0b-07d4-3dd3-92838abc99e5",
     "Deadlock Spray": "2ec48842-4a7e-c15e-4d6a-18a50ac0f124",
     "Crossed Wires Spray": "5d9b029f-4321-2025-65a9-02a774d498f4",
     "Cyber Oak Spray": "656d82ab-499e-fc2d-5cf9-229a9699a882",
@@ -324,6 +326,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "GG Shooter Spray": "b520005e-42cf-169c-ab30-a7a60d7f29f1",
     "GLHF Spray": "6983ae7c-4cb5-835c-8f62-b7affbaae20e",
     "Give Back // 2022 Spray": "777dd75b-4de9-1c2f-a645-e2a6df175838",
+    "Give Back // 2023 Spray": "78cc63ef-4789-3a69-49f6-f7b43b07b29d",
     "Googly Moogly Spray": "85637987-4961-177a-28f0-f3acf8facb6a",
     "KAY/O Spray": "0abec7c8-4fc7-4fc2-af4c-22ad4802b937",
     "Drained Spray": "e1f79c8d-4dd1-0541-e5f1-75a5c1e8e7cd",
@@ -580,6 +583,12 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "FTW Spray": {
         "1": "78ec70fb-4c00-3e98-9b58-0888020a7890",
+    },
+    "Ignite: Huang Spray": {
+        "1": "1a66a85b-4492-43f0-73f1-aab530e8fe2a",
+    },
+    "Ignite: Feng Spray ": {
+        "1": "1fe98542-470a-3e23-5ca6-0c8c19472e79",
     },
     "Deadlock Spray": {
         "1": "fd158597-4105-b938-03b8-408c1e731533",
@@ -1414,6 +1423,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Give Back // 2022 Spray": {
         "1": "593e8a6e-4870-2c32-4475-aa9dcf255eee",
+    },
+    "Give Back // 2023 Spray": {
+        "1": "c5d7aa3c-4972-43f8-4edb-6694de865e57",
     },
     "Googly Moogly Spray": {
         "1": "b7bb11d4-46af-31db-737e-308d128a14e4",

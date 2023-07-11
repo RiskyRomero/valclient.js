@@ -731,6 +731,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "NO LIMITS Bat": "b6d1788f-4ef6-6b05-3650-43bd455ba744",
         "BlastX Polymer KnifeTech Coated Knife": "5844ccd5-4a8d-e84d-b5b1-dfaaa8f34d84",
         "Ego Knife": "c52fe5d7-4500-ffc0-cbcd-bfa29b7ea040",
+        "Ignite Fan": "1cd09fbd-43cb-a5f6-90fa-08994342d747",
         "Winterwunderland Candy Cane": "e49c0fd2-435c-2c41-9164-4996080f455b",
     },
 };
@@ -3306,6 +3307,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Ego Knife": {
         "Level 1": "5bf17117-4ead-a0a8-2961-288d38985e93",
+    },
+    "Ignite Fan": {
+        "Level 1": "445de3d7-4833-5bf7-ef75-aeb4a0212229",
+        "Level 2": "dd64265f-4d93-7778-af37-74bb45df1774",
     },
     "Winterwunderland Candy Cane": {
         "Level 1": "b577585f-4171-19a1-2899-848460de8089",
@@ -6070,6 +6075,10 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "6af4123b-4266-d051-a27f-d5ab7d97e2ff",
         Tan: "a392d2bd-46df-7723-bb14-a58e05f33f12",
         Pink: "4201457d-4144-bf26-55cc-fe979ed827f0",
+    },
+    "Ignite Fan": {
+        Default: "dbf9de3d-4cb7-4dc3-1ed1-94bddd1d07f0",
+        Purple: "4bba1de9-4586-8694-3d9c-01b4dcb0e390",
     },
     "Winterwunderland Candy Cane": {
         Default: "cf790c7c-42d7-23ee-69da-ebaccffac718",
