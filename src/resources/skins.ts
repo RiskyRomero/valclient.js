@@ -70,6 +70,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Gaia's Vengeance Vandal": "000ad7b1-44b0-9345-ea47-9cbd7dcdbb38",
         "Endeavour Vandal": "d3733bfe-48d7-b119-3195-249d3b46b528",
         "Champions 2021 Vandal": "9bf19b77-4b33-7203-9f2c-16932970622f",
+        "Champions 2023 Vandal": "b0f65660-4c51-13b7-9d01-e29a1e2879b0",
         "Origin Vandal": "6c4315b8-4ff1-baaa-5aac-5790c7443353",
         "Starlit Odyssey Vandal": "ffb65a92-4654-a7f8-1908-bf9bb18995a3",
         "Glitchpop Vandal": "74789f33-4632-8052-96d7-258538721a32",
@@ -661,6 +662,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Composite Knife": "093e3c69-4e14-6f75-1ee4-fc92efb91f9a",
         "Champions 2021 Karambit": "1ea64c8d-43c4-fce8-7354-01bdd6c0ee17",
         "Champions 2022 Butterfly Knife": "6946cd0e-4e4a-ec4f-9238-dfb71715722b",
+        "Champions 2023 Kunai": "27f27500-491c-32d4-1db6-1f85e479c103",
         "Origin Crescent Blade": "ac687fc4-40c5-4c41-6a7c-5eb59adabd60",
         "Striker Knife": "31309f0b-49cd-295c-490d-96821a21c72f",
         "Radiant Crisis 001 Baseball Bat": "71020826-483d-34f8-8da7-928f87942c10",
@@ -969,6 +971,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "f96ed262-4280-2363-2542-38b5620bfbb5",
         "Level 3": "78c44470-4dd0-eb4c-72f6-86961be3d856",
         "Level 4": "4c8a49bd-4118-9523-6612-4a924651b4a9",
+    },
+    "Champions 2023 Vandal": {
+        "Level 1": "69f94fda-4603-744a-87fe-2391be7462e8",
+        "Level 2": "71eaf031-4f82-4482-7500-d698fa2ec81f",
+        "Level 3": "8b981630-4001-2ca9-9b1c-bb8630e75df0",
+        "Level 4": "1eed6526-43de-2266-85e1-d8822d849788",
     },
     "Origin Vandal": {
         "Level 1": "1969e379-40ae-b28a-6fb3-819873a24fb9",
@@ -3062,6 +3070,11 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "08caa8e3-47a6-e8b9-2411-56ad2182a140",
         "Level 3": "781ee669-4036-0481-c1a5-1881df718881",
     },
+    "Champions 2023 Kunai": {
+        "Level 1": "19c97db0-4ea8-d0de-d2a9-398eecb07298",
+        "Level 2": "17971a73-4c53-4135-ffdf-c7a22ef0c4f2",
+        "Level 3": "2a950ff7-4668-bed2-cad4-2f9b223a852d",
+    },
     "Origin Crescent Blade": {
         "Level 1": "5f059d7e-413c-445c-e36f-9a9791fba5b0",
         "Level 2": "2bca8df3-4e1f-bdd4-9a33-8bbc51c2cfb7",
@@ -3571,6 +3584,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Champions 2021 Vandal": {
         Default: "140a48ad-4daf-a6f8-027c-a5b890eac738",
+    },
+    "Champions 2023 Vandal": {
+        Default: "681caac1-4a61-999a-6880-e3a9ed6acf6d",
     },
     "Origin Vandal": {
         Default: "de2a2b29-4a65-459e-a822-ccacbff53d46",
@@ -5811,6 +5827,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Champions 2022 Butterfly Knife": {
         Default: "579c78dc-405e-8e01-949f-d6afb4fb1bc3",
+    },
+    "Champions 2023 Kunai": {
+        Default: "13efd2df-4efe-5f22-7558-45894486df06",
     },
     "Origin Crescent Blade": {
         Default: "3d37799a-4ec1-61c1-ac3a-8db96119897e",

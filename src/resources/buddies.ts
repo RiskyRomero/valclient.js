@@ -120,6 +120,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Singularity Buddy": "2de08c48-4aa1-0c32-138d-4b834c21aee2",
     "Songsteel Buddy": "3c9bfa19-4688-39ff-5377-3cac9d396a32",
     "Together Forever Buddy": "149f276c-474d-2171-43b3-41a6fc43dcc7",
+    "Champions Cube Buddy": "94d60045-461f-94b0-5f7b-1385c8c93118",
     "VCT LOCK//IN Winner Buddy": "0556c983-462c-1f6b-1bef-b1979aa07a7f",
     "VCT Champions Winner Buddy": "e96e6f84-4315-409a-09bf-788e0cf13ecf",
     "VCT Masters Winner Buddy": "82bdb8b5-40bf-9b65-272e-4eb7dad1264e",
@@ -345,6 +346,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Tigris Buddy": "d3cc1856-4df9-ca86-deee-3f80af0edf79",
     "Toaster Buddy": "22481bd6-45d7-55a9-db2f-f4a7b86c0d05",
     "NO LIMITS Buddy": "533c84ee-405e-42aa-2f1e-54a60436259e",
+    "Octobuddy Buddy": "934164fc-49dd-1e67-0896-6c8e645fd081",
     "Scuttle Trash Buddy": "476e2d56-46a1-3607-aa61-3487cf9ae80f",
     "Fist Bump Buddy": "ad508aeb-44b7-46bf-f923-959267483e78",
     "Champions 2022 Buddy": "86a16990-4eeb-9d25-e8d0-cfbe2f532443",
@@ -719,6 +721,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Together Forever Buddy": {
         "1": "ba3035e0-4eee-5059-64ed-d2943f3f624e",
+    },
+    "Champions Cube Buddy": {
+        "1": "d81f2040-45ec-5f81-5f2a-deaec1f8c20a",
     },
     "VCT LOCK//IN Winner Buddy": {
         "1": "5ae9ea33-4c89-ce02-2962-63b92f59654d",
@@ -1394,6 +1399,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "NO LIMITS Buddy": {
         "1": "ab0d9c89-4b57-b072-ed0c-cda7c040b5e7",
+    },
+    "Octobuddy Buddy": {
+        "1": "bb19dd92-4d45-cb6a-51fd-718eeb08d1a1",
     },
     "Scuttle Trash Buddy": {
         "1": "00f129a0-47f3-27a8-5d5b-9fb07ce39a05",

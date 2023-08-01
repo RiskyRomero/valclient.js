@@ -53,7 +53,9 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Cyber Oak Spray": "656d82ab-499e-fc2d-5cf9-229a9699a882",
     "Camper Spray": "71e8fdca-4099-af1c-fabf-09a35684e2d0",
     "Excuse Me? Spray": "500da6bd-4cf1-3362-be2b-1487ec286b91",
+    "Steal The Win Spray": "6337b11c-4e2e-e466-ae0a-4882e0fbb8dc",
     "Gekko Diff Spray": "8080ba65-4089-3487-dcf5-f298be03a470",
+    "Octobuddy Spray": "06099513-40e7-5c2c-998f-cc9e345446bd",
     "Cheesy Shot Spray": "254e3d77-40b8-cfae-232a-f7a36ee27d61",
     "Raze Spray": "186cadc9-4356-bcae-4cbb-ce83f8b15e4f",
     "BoomShaka Spray": "32fc4bfd-4897-ce74-55d2-9bb008f0decb",
@@ -605,8 +607,14 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Excuse Me? Spray": {
         "1": "25741009-4ce6-f6b4-9b76-b38006925758",
     },
+    "Steal The Win Spray": {
+        "1": "64398c2b-4235-39bd-dfb5-7d9591a8ee40",
+    },
     "Gekko Diff Spray": {
         "1": "a43a6e2c-4755-bfe9-94a9-5f8a36c0cdb1",
+    },
+    "Octobuddy Spray": {
+        "1": "83ebbf09-453f-fb7b-5c73-418175e75961",
     },
     "Cheesy Shot Spray": {
         "1": "fa7763e1-4f67-7ee5-7890-79936ee6ae3f",
