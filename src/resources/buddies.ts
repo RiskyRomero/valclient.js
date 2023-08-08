@@ -170,6 +170,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Prime//2.0 Buddy": "32910c32-45e3-4959-9322-1a9fda1126ca",
     "Frozen Solid Buddy": "14b87153-4fc2-707f-46e5-15b5ffe2f529",
     "Icy Crate Buddy": "90c69d6b-4cd2-9d0c-8c3f-ada26e881ea9",
+    "Premier Ignition Champion Buddy": "ac306edc-49bd-0f04-0104-afa2ae783b99",
     "Bound Buddy": "44e9059a-4098-868c-eb8f-3d89f9d49010",
     "Mi Goreng Buddy": "35083ec3-427e-d4f3-b7fc-1ca79fcb5703",
     "VCT LOCK//IN Dad Hat Buddy": "d2b317f7-4f19-7052-cd50-33a32f210da0",
@@ -190,6 +191,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Kohaku & Matsuba Buddy": "e052f69c-48e2-4d3f-6616-6695d419a3e7",
     "Dance of Luck Buddy": "90b6b7eb-4960-5a26-7d49-7cbab0d7cfb2",
     "Blush Buddy": "89d92aa5-4d95-d65a-c515-a1aee5b64657",
+    "Daydreams Buddy": "343f1f02-4cf8-271c-9f35-82b9aa06cc0d",
     "Iridian Thorn Buddy": "8cb32887-48f3-2dad-d954-38ac7bacf8a9",
     "Star Lotus Buddy": "9c190c73-4fff-0e1f-8910-4bb993abd90a",
     "GL Have Cat Buddy": "d8c85cae-44fd-8d97-a948-25acfe80b109",
@@ -313,6 +315,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Fishbones Buddy": "912110cb-4f40-ada7-e338-518244fff9b2",
     "Pocket Sized Sheriff Buddy": "03b64957-4034-30a6-1c37-4e9016f3ab48",
     "Epilogue: Pocket Sized Sheriff Buddy": "3826b22c-4f99-587f-a06d-e48db47d3fc4",
+    "Knight's Market Buddy": "f99da793-4f3c-c551-caa8-9b995bea1aa1",
     "Swinging Shumai Buddy": "95d55177-4cad-93d0-ba2a-2cb3648904a8",
     "Lycan's Bane Buddy": "35570627-49fd-ad5d-6745-48868f031269",
     "All-purpose Slipper Buddy": "99f75010-444e-e009-014b-4ead5d1deee3",
@@ -872,6 +875,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Icy Crate Buddy": {
         "1": "2497a841-4545-f706-f6a5-c086d0713a75",
     },
+    "Premier Ignition Champion Buddy": {
+        "1": "7a301c16-4c51-3980-71c8-99946b790acf",
+    },
     "Bound Buddy": {
         "1": "daeacb38-4ef2-d597-77e2-3698043bbdf0",
     },
@@ -931,6 +937,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Blush Buddy": {
         "1": "7dee58c2-427b-779a-cb08-a8905afccff8",
+    },
+    "Daydreams Buddy": {
+        "1": "8c39612b-4d7f-7caa-6b7b-68967897e508",
     },
     "Iridian Thorn Buddy": {
         "1": "9ae93ca9-41e8-10cd-8ba8-1eab23deec28",
@@ -1300,6 +1309,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Epilogue: Pocket Sized Sheriff Buddy": {
         "1": "21e67b07-4d0a-e438-88ee-93a8af385b06",
+    },
+    "Knight's Market Buddy": {
+        "1": "a196a73f-4506-cf41-3962-b795114af25a",
     },
     "Swinging Shumai Buddy": {
         "1": "87c38998-4ff0-6360-5f35-adb68d2d7e49",
