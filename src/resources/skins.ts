@@ -186,6 +186,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Kingdom Phantom": "e13afe1e-4734-2094-fee8-9db016e4d54a",
         "Kohaku & Matsuba Phantom": "8f82cff0-44b9-b792-8dd2-b2be8538421b",
         "Smite Phantom": "8d3ead4a-4421-f1f2-4292-ecac859fc135",
+        "Daydreams Phantom": "228192a7-4d45-0a11-1439-b8b110141a43",
         "Celestial Phantom": "8c0cc1e8-4c1b-20a0-122d-16b4334d1b80",
         "Magepunk Phantom": "f2531d6f-40d8-ad18-4e74-ed812e0a6b1f",
         "Spline Phantom": "13f553a1-4124-7c29-05e9-e7932fdeabb6",
@@ -229,6 +230,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Serenity Judge": "3a1c857a-4671-0667-8efe-ee90b8ba1e5a",
         "Kohaku & Matsuba Judge": "da3cedea-4f2e-c501-ec79-438433ffabdf",
         "Smite Judge": "5324bc65-44aa-1a16-ede4-0e9b56f35d0e",
+        "Daydreams Judge": "fab8bdfa-49c1-dfe1-5a15-538dc3f288af",
         "Iridian Thorn Judge": "0cba5a5f-41ab-ed7d-158e-4fb92ab25c47",
         "Celestial Judge": "57ad1e5d-4289-4de0-7926-899cef10db37",
         "Luxe Judge": "5237cfca-4d83-6190-a7f9-d2bdc117ea67",
@@ -336,6 +338,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Kingdom Classic": "e72d72ab-4284-1469-b544-478a811a29a6",
         "Kohaku & Matsuba Classic": "be7cf362-4993-b9e4-9ba9-cdac6c99b8e4",
         "Smite Classic": "22fdc42d-4ad6-2bec-8033-8a8bdf178826",
+        "Daydreams Classic": "9a890a05-4173-c5af-743c-f2b423fae42d",
         "Spline Classic": "750d4f04-4fea-391b-fa8b-539815a63164",
         "Galleria Classic": "2f9f4637-4377-b55f-97a1-1e8974e29b27",
         "Cryostasis Classic": "edb386a1-4d02-4fd0-2f84-f8bf6434e5c4",
@@ -476,6 +479,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "K/TAC Operator": "9ffd45c4-4fa4-dca0-f46f-2d99ad1eae20",
         "Kohaku & Matsuba Operator": "403cce8c-4484-a796-a6f6-a0a07d9832e0",
         "Blush Operator": "201918d4-4c69-a91e-6a4f-6b86b084df1e",
+        "Daydreams Operator": "64380fcd-43d2-5d91-dacb-f2becbfafb46",
         "Iridian Thorn Operator": "cb07878f-484f-50dd-ab6b-5380640b13c5",
         "Luxe Operator": "0bd5da19-491f-dd4a-27e2-c9959b10a87a",
         "Magepunk Operator": "7e831918-4580-5e2a-089a-84ad58fe1aae",
@@ -693,6 +697,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "K/TAC Blade": "83e8641b-41d0-821d-5eeb-5999e9294a0c",
         Equilibrium: "2e4300f9-49b3-6bbe-af7c-94a6f56ff12e",
         "Smite Knife": "46163791-47b9-2ef0-d255-aaa5146051bb",
+        "Daydreams Crowbar": "80735f79-4eeb-76d4-f390-88898e819d76",
         Catrina: "8e760310-4d95-354b-a910-049eaa4d2fc6",
         "Iridian Thorn Blade": "16da5cca-49bc-2516-8ee6-c98d93e2d911",
         "Celestial Fan": "7d45aaad-4ac9-77b1-e7ca-3991be5721dd",
@@ -1407,6 +1412,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Smite Phantom": {
         "Level 1": "19b20b51-472b-e837-e5da-f8a348110dbf",
     },
+    "Daydreams Phantom": {
+        "Level 1": "07c6ce42-4435-180a-421c-7c951fcd2380",
+    },
     "Celestial Phantom": {
         "Level 1": "aa610521-4bea-bc0e-1bd4-94b67fd90db6",
     },
@@ -1560,6 +1568,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Smite Judge": {
         "Level 1": "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc",
+    },
+    "Daydreams Judge": {
+        "Level 1": "9caa6c99-4082-8366-1067-af9088e5fbe7",
     },
     "Iridian Thorn Judge": {
         "Level 1": "7fa021e2-4881-d71e-f7a1-a6947b4b48d9",
@@ -1928,6 +1939,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Smite Classic": {
         "Level 1": "eb35e4e1-4138-9ece-08e2-69bd414cf598",
+    },
+    "Daydreams Classic": {
+        "Level 1": "66277a52-44e4-b7c1-d597-9b83e02c5f2d",
     },
     "Spline Classic": {
         "Level 1": "1b300b91-41bb-d468-f65f-f68ec0861bd6",
@@ -2412,6 +2426,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Blush Operator": {
         "Level 1": "93f788fa-4fb5-b372-ce71-b6b413ce0902",
+    },
+    "Daydreams Operator": {
+        "Level 1": "8462f057-4ca6-8288-3638-389c8d38465c",
     },
     "Iridian Thorn Operator": {
         "Level 1": "d4a5f5a7-4831-f240-fac7-bfa06b50cd73",
@@ -3183,6 +3200,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Smite Knife": {
         "Level 1": "b6768f01-4d72-f0f1-65b5-71b751536490",
+    },
+    "Daydreams Crowbar": {
+        "Level 1": "606560ae-4ccf-767a-0f2f-0599d85abaee",
     },
     Catrina: {
         "Level 1": "dc5e3cfc-466a-4819-e93b-2ba5f1847915",
@@ -4024,6 +4044,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Smite Phantom": {
         Default: "3af79e9d-4e55-425e-22da-dcab4985706a",
     },
+    "Daydreams Phantom": {
+        Default: "acc7cfc9-43b7-900c-263b-adafd69635e5",
+    },
     "Celestial Phantom": {
         Default: "f78791cf-4084-55c2-9205-9aa2533284a8",
     },
@@ -4201,6 +4224,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Smite Judge": {
         Default: "b56dc59c-4b76-bee2-9896-a5b778041865",
+    },
+    "Daydreams Judge": {
+        Default: "ae7e76a0-43f8-91da-6cf9-1ca58d3f5c4e",
     },
     "Iridian Thorn Judge": {
         Default: "18c824c6-4074-96d4-67ed-13a51309ee71",
@@ -4598,6 +4624,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Smite Classic": {
         Default: "6853e4e7-4241-a574-f4cd-0d9949008cfe",
+    },
+    "Daydreams Classic": {
+        Default: "241d4e4c-4786-a795-4a1d-24a59109a71c",
     },
     "Spline Classic": {
         Default: "8f71e44b-4eae-3963-c71b-11a2167d34dc",
@@ -5117,6 +5146,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Blush Operator": {
         Default: "3dd94127-48c5-be65-c621-bf8f0d0fea4b",
+    },
+    "Daydreams Operator": {
+        Default: "98a855cb-40bf-0ee3-cec9-1ba52e0ce38e",
     },
     "Iridian Thorn Operator": {
         Default: "1fd790ca-42a2-4dd2-ebce-60a88735b3e3",
@@ -5934,6 +5966,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Smite Knife": {
         Default: "9c0fc8e8-4e36-86b7-8905-ee848916ea03",
+    },
+    "Daydreams Crowbar": {
+        Default: "8ba3fe09-4dd9-d4d6-60f3-8b8c97d40c72",
     },
     Catrina: {
         Default: "95d2e7aa-4121-9db5-8a9a-54a0c18410d8",

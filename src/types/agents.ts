@@ -4,6 +4,7 @@ export type Agents =
     | "Gekko"
     | "Fade"
     | "Breach"
+    | "Deadlock"
     | "Raze"
     | "Chamber"
     | "KAY/O"
