@@ -74,6 +74,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Doodle Buds // Agents Spray": "2e7b49d2-4022-a474-1feb-91872e6e2523",
     "Elderflame Spray": "0221e96d-49be-a601-52d6-ef8270773276",
     "Quack!! Spray": "3036069d-46c6-98ca-759f-9bb7f4c9ba15",
+    "Imperium Spray": "229d49b4-4e8f-cb5a-12c9-39a5ed45e7ed",
     "That's a Blowout Spray": "01d4de2a-4eda-dbed-2051-4cabb86d7c26",
     "A Perfect Score Spray": "1a617656-4208-9da3-98c4-be8430df45ca",
     "Just Jokin' Spray": "f52e0361-444e-b8b6-f549-8787f396c662",
@@ -316,6 +317,21 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Pancake Pile-up Spray": "5d9fe2ce-4e8e-cfb8-982f-ac9b61f35f4a",
     "Box Hijinks Spray": "ce53f1eb-433e-bef9-fb3b-25811fd9cdf2",
     "Rush Forward Spray": "07fa3add-4304-648e-2120-a8b9cae634f5",
+    "Crane Blossom Spray": "69d2f762-42e6-da52-58fa-3285fb19549f",
+    "Loyal Look Spray": "a31edf55-42aa-355a-cbb7-108340de30cb",
+    "Exit Wound Spray": "0a0b6c8f-4821-bb43-4d76-01931bef4c53",
+    "Wave Rider Spray": "690a7561-47fd-c460-cae1-2c9a6cdea43b",
+    "The Great Responsibility Spray": "466da1a3-4dd8-a63c-364b-8f806b30a605",
+    "Oh I See Spray": "f760cf96-4cd8-5dc3-c67e-d996a793db68",
+    "Techie's Trouble Spray": "aa0b10d7-4ca5-54ab-49e5-2ca893c153d1",
+    "Scribble Squad Spray": "b224ec30-47c7-b9a0-e764-899ac8c6b6e6",
+    "Purrfect Pat Spray": "00a9ac92-4628-b92e-69bb-eaa799ca57d9",
+    "Panoramic Spray": "15a3d098-42c5-9ca1-028c-e1a42d85a3c5",
+    "Roll On Spray": "9b9ad52d-426c-e9a9-6e18-df882646fa55",
+    "Transition Spray": "bd6c211b-4b0c-e557-3084-7bbffd8c3ee3",
+    "Defuse Deception Spray": "b85c679a-496a-2188-df96-7ba134422121",
+    "Freehand Spray": "964ab501-499d-872d-66a3-14aacb5d3d42",
+    "Power Punch Spray": "d7e96c11-403c-8c0e-782e-239546be7c9e",
     "Champions 2022 Jett Diff Spray": "556008f0-41bb-d752-3747-1aabc73499c8",
     "VCT 2021 Spark Spray": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
     "Fakeout Spray": "076630c8-4bc9-d953-eb13-6e81e341840c",
@@ -368,6 +384,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Sic' Em Spray": "166a3fb6-492c-9437-417d-b8852128f73c",
     "Give Back Spray": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
     "Ego or Eco Spray": "5a328cd4-4cb5-4e64-60c2-6487281390ff",
+    "Secret Sequence Spray": "174b7f71-40a2-f090-3806-008f25d38d30",
     "Shreddy Teddy Spray": "6aff01b3-443c-d98c-820e-05852efc075f",
     "Pity Party Spray": "2d9be381-4686-b392-310e-8bb2a6707f7e",
     "Predicament Pals Spray": "770cbcca-40bd-0c68-0aae-b2a98747c8f0",
@@ -669,6 +686,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Quack!! Spray": {
         "1": "8dd8f61d-4066-40d5-7bd3-419cb53274a6",
+    },
+    "Imperium Spray": {
+        "1": "5b46934c-47c7-c47f-0084-6ba89d342afe",
     },
     "That's a Blowout Spray": {
         "1": "69cedbf1-4be7-5fef-8b49-bbad4954b37d",
@@ -1396,6 +1416,51 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Rush Forward Spray": {
         "1": "423fcca9-4622-bde2-1faa-0f94922b3333",
     },
+    "Crane Blossom Spray": {
+        "1": "7c211b2a-46d2-6007-c44f-22a7f5fdfbf6",
+    },
+    "Loyal Look Spray": {
+        "1": "36562449-4250-a27e-32f1-13b8c26ca51f",
+    },
+    "Exit Wound Spray": {
+        "1": "af279f8a-4702-86b2-6b3a-f3b85b9741d1",
+    },
+    "Wave Rider Spray": {
+        "1": "ad189b99-4fc2-f4a9-9e61-5e932e41dc82",
+    },
+    "The Great Responsibility Spray": {
+        "1": "ab4853ae-4319-f4d4-11a4-6e941a3a6816",
+    },
+    "Oh I See Spray": {
+        "1": "56e7b45b-462f-eeb7-2c16-94be3bbd7be2",
+    },
+    "Techie's Trouble Spray": {
+        "1": "4827da75-4543-8bec-771e-c983846220ba",
+    },
+    "Scribble Squad Spray": {
+        "1": "9ea9283a-4325-a980-63be-cc9fa44ce787",
+    },
+    "Purrfect Pat Spray": {
+        "1": "a081c611-4d43-c537-459d-a38173ba5c92",
+    },
+    "Panoramic Spray": {
+        "1": "d6dd0976-4679-7d9f-3b28-0ebcfdf72a42",
+    },
+    "Roll On Spray": {
+        "1": "82321a00-4333-61d6-ca9d-0cb2a8607799",
+    },
+    "Transition Spray": {
+        "1": "85b18ff4-4836-c0ba-b813-5eac0941575e",
+    },
+    "Defuse Deception Spray": {
+        "1": "f408dcbb-483f-8877-86ce-74a49ea4f65a",
+    },
+    "Freehand Spray": {
+        "1": "d6deb524-4a59-6945-a32c-e4b13afca800",
+    },
+    "Power Punch Spray": {
+        "1": "95c5016d-4242-caf6-c54d-8ea380e7eedf",
+    },
     "Champions 2022 Jett Diff Spray": {
         "1": "39ee62f9-4aa1-6331-85d1-fe8c9116c960",
     },
@@ -1551,6 +1616,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Ego or Eco Spray": {
         "1": "72bf87ce-46b7-6666-5bcf-e1af202bba38",
+    },
+    "Secret Sequence Spray": {
+        "1": "a1a56cb1-45c5-00ae-2c49-0eadcf1617c7",
     },
     "Shreddy Teddy Spray": {
         "1": "b710df76-41ae-1fd5-8553-dfad259c1910",

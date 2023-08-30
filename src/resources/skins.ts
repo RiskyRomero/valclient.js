@@ -21,6 +21,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Lycan's Bane Odin": "468fdc95-443f-f1c2-bd22-fc8e1af0de39",
         "Reaver Odin": "8dda01a6-4237-f430-ac70-c3ba677963e9",
         "Standard Odin": "f454efd1-49cb-372f-7096-d394df615308",
+        "Freehand Odin": "14796249-4f23-9d52-4ea1-d8878099c01e",
         "Aerosol Odin": "befa2f32-410f-a418-d8d3-b194dcf2ec6d",
         "BlastX Odin": "85ed3f9d-4e59-a709-8faf-bc86effb3a07",
     },
@@ -75,6 +76,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "ChronoVoid Vandal": "8e762a1f-4102-b7ce-d6a0-9690c5bfe160",
         "Prelude to Chaos Vandal": "522a264e-4ca7-adb0-6cf1-28b2ef938727",
         "Elderflame Vandal": "18609205-4edb-5966-cff8-0fba0230ba1e",
+        "Imperium Vandal": "917ca6e8-403e-3691-78d9-a8aa6118385f",
         "Sarmad Vandal": "5b6b1eee-4185-8f83-9374-3391d0f0f742",
         "Nitro Vandal": "9b62faf1-416c-b736-0edb-39b890f1f18d",
         "Hivemind Vandal": "f7f63b78-4b12-b21e-a0e7-6bafbad81509",
@@ -105,6 +107,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Sakura Vandal": "f946ef5c-46ab-e146-a712-1d99a1651356",
         "Schema Vandal": "9a6c6db7-4f56-12d6-8339-6386f12090e8",
         "Lycan's Bane Vandal": "6b58163f-4426-8abf-8f55-f79e3a2045df",
+        "Transition Vandal": "b788270a-420f-b824-2cdb-4d90dc7e9b22",
         "Reaver Vandal": "30388628-42f0-606c-82c0-73ad43de997f",
         "Tethered Realms Vandal": "f2b034e0-4b54-5abc-25c8-d293b6f1d247",
         "Cavalier Vandal": "1eb7639f-4e90-5b5b-9f53-a792103d6f29",
@@ -143,6 +146,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "POLYfox Bulldog": "dbf7b813-4931-3b45-db2b-ea8d418b2b1d",
         "Protocol 781-A Bulldog": "1daefbff-4581-aef3-5ed6-da894d7e4cc7",
         "Premiere Collision Bulldog": "fbf8ca06-41c9-6293-24cc-b6b292db5cf7",
+        "Transition Bulldog": "b778fd63-4e21-b400-db3b-d1807e3f4edb",
         "Infinity Bulldog": "decd0962-453a-1551-47e1-1287aafb5a27",
         "Standard Bulldog": "724a7f42-4315-eccf-0e76-77bdd3ec2e09",
         "Tilde Bulldog": "006d6b0a-47ba-a909-ade5-0cba66dd5829",
@@ -187,6 +191,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Kohaku & Matsuba Phantom": "8f82cff0-44b9-b792-8dd2-b2be8538421b",
         "Smite Phantom": "8d3ead4a-4421-f1f2-4292-ecac859fc135",
         "Daydreams Phantom": "228192a7-4d45-0a11-1439-b8b110141a43",
+        "RDVR Phantom": "b294ba9c-4e05-ebb4-b2be-4e8799ee3fc7",
         "Celestial Phantom": "8c0cc1e8-4c1b-20a0-122d-16b4334d1b80",
         "Magepunk Phantom": "f2531d6f-40d8-ad18-4e74-ed812e0a6b1f",
         "Spline Phantom": "13f553a1-4124-7c29-05e9-e7932fdeabb6",
@@ -217,6 +222,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Glitchpop Judge": "28a659a4-439e-fcd0-6236-d39979ee5c51",
         "ChronoVoid Judge": "4d2ec3f4-446e-a501-74d8-5ab750f50984",
         "Elderflame Judge": "0221b120-444b-6d1b-fc50-e4a98e470eb2",
+        "Imperium Judge": "e661e655-421f-0f19-3092-c8a668036ac4",
         "Rush Judge": "f6db3976-4c70-c3bf-01f8-dca6d335319a",
         "Team Ace Judge": "fdf7fef7-43db-9409-be4c-44bc0b5084f6",
         "Shimmer Judge": "ce38c32d-43e6-e840-3981-668454383e22",
@@ -272,6 +278,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Artisan Bucky": "1a97f146-4fcf-5a04-140e-4390feafaa73",
         "Lightwave Bucky": "26582dc8-43dd-15b6-a31c-739b90302bea",
         "Gravitational Uranium Neuroblaster Bucky": "0dc9a874-41c5-e582-9a36-37946043346c",
+        "Panoramic Bucky": "058322eb-44fc-8dee-947c-8b95a550ba10",
         "Cavalier Bucky": "e6eefed6-4d10-5794-4859-6d9ab5ff1d66",
         "Titanmail Bucky": "1ecb1abc-41a4-f789-39a5-4583f043d688",
         "Standard Bucky": "70c97fb2-4d79-d4bb-5173-a1888cd4bfd9",
@@ -345,6 +352,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "9 Lives Classic": "f3f962bd-4a19-b363-e939-6a91b897a28c",
         "Premiere Collision Classic": "c4c0edc9-4ce3-3945-81f5-1bb80aeb22fe",
         "Gravitational Uranium Neuroblaster Classic": "81ddbfcd-4081-8341-ff76-ad8cdb26ce4c",
+        "Panoramic Classic": "223852c7-4898-01e7-c813-5db4f1769e3f",
         "Sakura Classic": "6ba7a7a0-4057-4d5c-7c98-579f232db298",
         "Snowfall Classic": "464887be-4a07-690e-2d02-e187c8bbe8d5",
         "Infinity Classic": "706f4a29-4a95-7370-c983-1a8b167e38b7",
@@ -384,6 +392,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Recon Ghost": "bb28991f-4ca9-ca54-962d-31b68c838625",
         "Cavalier Ghost": "153b2b33-4e6c-fb98-42dd-5a9819649dc7",
         "Standard Ghost": "1c63b43b-43c4-04e4-01c9-7aa1bffa5ac1",
+        "Freehand Ghost": "35dfbae0-4be6-3f47-2a1d-4aa0c5599e1b",
         "Gridcrash Ghost": "fbba3f7e-402a-92f3-b3d6-a69d653e5204",
         "NO LIMITS Ghost": "3f59b69f-4391-b0ee-705e-329175931502",
         "Depths Ghost": "69addb00-4eb5-eebb-c4c5-2296549cba6f",
@@ -401,6 +410,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Nebula Sheriff": "55ef0ffa-44fe-03ac-dcf0-1982df0857aa",
         "ChronoVoid Sheriff": "e1fdd246-4a6c-af26-f0a0-65a48f2586da",
         "Abyssal Sheriff": "79a78823-41dd-a2e8-7586-12bc8154d2d9",
+        "Imperium Sheriff": "9eba83e5-4084-300e-d001-fd8152dc6522",
         "Singularity Sheriff": "bfd9e773-4376-1f6a-98f2-dc93f0c0607c",
         "Surge Sheriff": "2674c385-4397-0383-04df-988d8d6fd2c8",
         ".SYS Sheriff": "3850ea5a-4e51-d913-7a44-48b2589e06b9",
@@ -451,6 +461,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Oni Shorty": "b36dad11-4105-6c08-0486-17ba96d0f2a4",
         "Snakebite Shorty": "9428e52d-4611-c8ff-1b63-7b8e386fe8cb",
         "Hue Shift Shorty": "df0e23fe-4529-a9d5-c4c6-eaae086bda65",
+        "Transition Shorty": "73ade1d7-47d1-680b-defe-268df2ad073b",
         "Standard Shorty": "48ad078a-4dae-2b85-a945-f4b6d1efecbb",
         "Aerosol Shorty": "a39bd1bb-4b17-4d57-c505-7eb15caffa4d",
         "Tilde Shorty": "ae2ea89b-495e-2902-f67f-3490c1a03754",
@@ -470,6 +481,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Glitchpop Operator": "a491b943-43e3-4e98-64a6-fc87fca43605",
         "Prelude to Chaos Operator": "b450a73d-431e-56b7-5b7f-67bddd38ee66",
         "Elderflame Operator": "d722313d-43cb-b38d-7841-75880a3ed2cb",
+        "Imperium Operator": "76f1d9e7-4675-6913-ca31-03a70815ee0e",
         "Nitro Operator": "44064b11-4e74-19c9-80a4-9f80875adaf5",
         "Forsaken Operator": "c692e38e-4f38-0141-d0c9-aa99fab9362a",
         "Team Ace Operator": "279a54f8-4344-cd72-1d5b-15aa0e86a630",
@@ -529,6 +541,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Aero Guardian": "93309ef5-4f43-411a-5759-c794eb584c7c",
         "POLYfox Guardian": "96679876-4d41-683c-2e5c-2ea25ddd8fdf",
         "Jigsaw Guardian": "23a16911-4cb1-2794-2d4c-3f99f1e2516b",
+        "Panoramic Guardian": "ee649b57-4811-332f-c484-aea45aada288",
         "Reaver Guardian": "db348da1-49f2-0bad-b70a-e4ade9d31655",
         "Tethered Realms Guardian": "77187a8f-4020-da44-a775-7a91ab814cdf",
         "Sovereign Guardian": "7122d78b-4e60-eb4d-5f65-738d7c1ce9ae",
@@ -566,6 +579,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Sovereign Marshal": "5211efa8-4efd-09bb-6cee-72b86a8a5972",
         "Reverie Marshal": "0dfc1800-4ddc-85fd-8382-32a2824135fa",
         "Standard Marshal": "fd44b2d5-49ee-77ab-fa56-588f3ac0c268",
+        "Freehand Marshal": "9cba5b54-4d68-e13c-932e-4aac83e21e64",
         "Wasteland Marshal": "19f06522-40c8-8dc6-a0cd-92808b24751f",
         "Winterwunderland Marshal": "c31856f4-4ae1-cfb8-14cc-10a92b81e7c3",
     },
@@ -610,6 +624,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Recon Spectre": "26b1c794-4370-f354-ff4d-3a8b95edff79",
         "Infinity Spectre": "53ab2a6a-46c5-32b9-e045-6781e677d7ff",
         "Standard Spectre": "f01d1307-4299-42f5-2c5e-7dab7e69ab19",
+        "Freehand Spectre": "70f4a686-42e0-5800-b09b-8cbce7fc2f8d",
         "Tigris Spectre": "910991b7-40de-183d-12ea-d99e67cfa910",
         "NO LIMITS Spectre": "ddbead4d-40b1-afe4-e44f-eca9e2022458",
         "Convex Spectre": "c8a5ba23-4f0d-c7de-8e2f-c184e2fc27ba",
@@ -636,6 +651,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Sakura Stinger": "1cd6f578-483b-37a1-a7ef-9a907fac416a",
         "Schema Stinger": "46c8b165-4ba5-d42c-79e9-4fba8951ca48",
         "Lycan's Bane Stinger": "3d6eb464-4193-a8c6-5aff-d593520163b3",
+        "Transition Stinger": "7858961c-47ae-f109-2f70-f0b78ea99aaf",
         "Sovereign Stinger": "8fb27bb1-4080-581d-bcd3-53ae01861654",
         "Cavalier Stinger": "51e2b876-4339-521d-8d68-9aaec119bc1f",
         "Standard Stinger": "940fb417-4a9c-3004-41f5-3e8f1f4178b2",
@@ -673,6 +689,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         Caeruleus: "cd6ce089-43fa-c4dc-3f8f-0391cb604b5d",
         "Blade of Chaos": "6e0496c1-4c98-7abe-16c4-7ca3653e5cd8",
         "Elderflame Dagger": "94b40026-4efb-39ea-69d7-fca60be39c56",
+        "Blades of Imperium": "d7eaba36-4f20-9685-7c5a-dabe6d31d81c",
         "Singularity Knife": "151ee26c-4e82-e7ca-dad1-099e7fb34774",
         "Blade of Serket": "6417e12d-4f03-13d4-8704-20bf3a1bcb5b",
         Songsteel: "45129867-4977-e2a5-bead-cb828101b623",
@@ -719,6 +736,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Random Favorite Skin": "b5f42a00-425a-6fdf-61af-bb9a564c3d79",
         "Gravitational Uranium Neuroblaster Baton": "0357caf1-41a9-cb1c-c080-38aab13d9a7e",
         "Relic of the Sentinel": "6fd8cc46-48b3-f02c-46e3-cba372e7a328",
+        "Transition Knife": "4e2fd704-4372-a082-8423-c4a1da4d62f1",
         "Snowfall Wand": "52a1647c-42d9-b40e-16cf-a7821566ad81",
         "Reaver Knife": "0aecb2b8-49cc-560e-42c7-6cbce44f05cf",
         "Reaver Karambit": "b73d7b16-4652-bc5b-5c4c-068aabb19d0a",
@@ -805,6 +823,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Standard Odin": {
         "Level 1": "d91fb318-4e40-b4c9-8c0b-bb9da28bac55",
+    },
+    "Freehand Odin": {
+        "Level 1": "7d9adf46-48c5-9247-7121-1ba9e328e70c",
     },
     "Aerosol Odin": {
         "Level 1": "657b3476-4919-7b4b-be54-aeaedad999e6",
@@ -1008,6 +1029,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "77569f90-4e7f-7d91-bd18-2aa12bdba709",
         "Level 4": "4fb025db-471f-3891-6e30-b98866abb2f9",
     },
+    "Imperium Vandal": {
+        "Level 1": "43e7b969-4d2b-6d7b-6430-81bb37767481",
+        "Level 2": "a183cae8-4b25-e07c-cd07-988de33e9a50",
+        "Level 3": "c285ae65-4add-2ddc-6c40-fba078aaf8b9",
+        "Level 4": "fa329f15-474d-b041-ec98-6b9ab56c81e6",
+    },
     "Sarmad Vandal": {
         "Level 1": "becdafdf-4d4b-0a8c-75d1-b8908db15ce5",
     },
@@ -1119,6 +1146,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Lycan's Bane Vandal": {
         "Level 1": "f158e7d9-4404-1e88-747e-bf98da9a744b",
+    },
+    "Transition Vandal": {
+        "Level 1": "3c64689e-4bee-6e6e-8681-fdb9ee6b110f",
     },
     "Reaver Vandal": {
         "Level 1": "ba42fe63-457a-78ce-4499-47950a698129",
@@ -1252,6 +1282,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Premiere Collision Bulldog": {
         "Level 1": "94eda9e6-47cf-a0dc-a1f9-03a41f50e5d3",
+    },
+    "Transition Bulldog": {
+        "Level 1": "49b2e3c2-447c-7aba-ca50-a8993a72d969",
     },
     "Infinity Bulldog": {
         "Level 1": "5fc3c5e8-470e-7683-b594-6580d5e3d624",
@@ -1415,6 +1448,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Daydreams Phantom": {
         "Level 1": "07c6ce42-4435-180a-421c-7c951fcd2380",
     },
+    "RDVR Phantom": {
+        "Level 1": "21e0eb12-4211-3346-f01b-7b82c7931320",
+    },
     "Celestial Phantom": {
         "Level 1": "aa610521-4bea-bc0e-1bd4-94b67fd90db6",
     },
@@ -1529,6 +1565,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "640764d8-495d-3663-27ab-b99f5f2466d6",
         "Level 3": "d95e4b3c-4081-4005-cae7-14b890046b4f",
         "Level 4": "d41a4383-4c15-4c3f-1f16-4fbb4fb36ed8",
+    },
+    "Imperium Judge": {
+        "Level 1": "4f44cdaa-4810-efd2-0531-5d9565a4ec39",
+        "Level 2": "cce823d9-4f16-d58a-6d1a-a1a2a8853ed4",
+        "Level 3": "aae7d9be-4caa-5a15-8193-8ea9afb9a5b4",
+        "Level 4": "70df1959-4412-f563-b44c-66b99078c0c4",
     },
     "Rush Judge": {
         "Level 1": "33d3c906-4305-19cf-8770-1eb5207482cc",
@@ -1708,6 +1750,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Gravitational Uranium Neuroblaster Bucky": {
         "Level 1": "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe",
         "Level 2": "c91875e5-48a9-0820-6b65-aba73bf3479d",
+    },
+    "Panoramic Bucky": {
+        "Level 1": "7f56c527-4185-be0e-a0ea-18b31a781c90",
     },
     "Cavalier Bucky": {
         "Level 1": "b6a089dd-4616-be48-4f28-d8b2a539c0a5",
@@ -1964,6 +2009,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "f35f6e13-4b7b-da38-c0de-5c91fffd584b",
         "Level 2": "6958fbf5-4708-f97e-92e1-c7abdf6724b1",
     },
+    "Panoramic Classic": {
+        "Level 1": "d8bf97ac-4bc6-4896-1ca0-48b6545a64ab",
+    },
     "Sakura Classic": {
         "Level 1": "df639108-4e9d-7fc1-51da-4dbb810ba011",
     },
@@ -2096,6 +2144,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Standard Ghost": {
         "Level 1": "0a7e786c-444e-6a80-8bda-e2b714d68332",
     },
+    "Freehand Ghost": {
+        "Level 1": "21f136ee-4fd6-22dd-56c9-a9869ef31dda",
+    },
     "Gridcrash Ghost": {
         "Level 1": "232f93cb-4c6e-512c-9961-db9b90929400",
     },
@@ -2143,6 +2194,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Abyssal Sheriff": {
         "Level 1": "ae3986a0-4a43-7218-218f-63b8c5c7c63b",
+    },
+    "Imperium Sheriff": {
+        "Level 1": "e63cee8f-47b4-1d3d-6eb2-5b9a59f1aa2a",
+        "Level 2": "8885877c-48a2-77f3-d038-35bf3ad83799",
+        "Level 3": "3db719ca-4c71-114f-9b40-81b6f0604dc1",
+        "Level 4": "33152c61-44b1-89f1-634b-c484ae960ec1",
     },
     "Singularity Sheriff": {
         "Level 1": "4276d2b5-4b1c-b636-aff0-4ea579d875d7",
@@ -2324,6 +2381,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Hue Shift Shorty": {
         "Level 1": "31629ef7-47ac-908e-369b-16beabc02c5b",
     },
+    "Transition Shorty": {
+        "Level 1": "42a5b584-468b-0812-3041-7cb8b36cc0f8",
+    },
     "Standard Shorty": {
         "Level 1": "a7f92a1c-4465-5ea3-7745-bd876117f4a7",
     },
@@ -2396,6 +2456,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "ea7094b7-4f29-2570-0003-14a9b872fc19",
         "Level 3": "02567ece-47a2-a68b-7853-668f45ab0ab0",
         "Level 4": "41ad7696-47bf-cd88-115b-9cb17ad77919",
+    },
+    "Imperium Operator": {
+        "Level 1": "176e6fa8-472d-9eb1-a474-11a3080c4053",
+        "Level 2": "10cd5891-4025-3152-f818-dd82284bebe9",
+        "Level 3": "d6bec3eb-4ab9-1cd3-a0d9-20aeb58e625c",
+        "Level 4": "3e7b40a8-45da-bac9-3389-399a7448910b",
     },
     "Nitro Operator": {
         "Level 1": "f49ac94f-4965-1e13-e293-a9838b042a83",
@@ -2611,6 +2677,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Jigsaw Guardian": {
         "Level 1": "cf06c0d6-4c0c-1e8a-0553-999a45a53ae1",
     },
+    "Panoramic Guardian": {
+        "Level 1": "a8c576f3-4c82-f631-6d2d-9fb99f2053fa",
+    },
     "Reaver Guardian": {
         "Level 1": "c9f0ea7f-4bed-b10e-62d2-0394444feed1",
         "Level 2": "ad0e9e83-4658-0a02-a912-21b41df87c38",
@@ -2739,6 +2808,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Standard Marshal": {
         "Level 1": "f0389390-49eb-a43e-27fa-fc9f9f8aa9de",
+    },
+    "Freehand Marshal": {
+        "Level 1": "30240598-46fb-8f6d-4923-1c957f468718",
     },
     "Wasteland Marshal": {
         "Level 1": "4049dc82-495b-cecc-8e34-4dbf35753129",
@@ -2904,6 +2976,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Standard Spectre": {
         "Level 1": "1dc45e18-4a07-c85f-0020-6da4db1486ce",
     },
+    "Freehand Spectre": {
+        "Level 1": "607e86c7-4ddf-4fa7-4fdb-c5a6013a90f8",
+    },
     "Tigris Spectre": {
         "Level 1": "e041ba88-452e-d907-1a83-f6b7631cd053",
     },
@@ -2986,6 +3061,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Lycan's Bane Stinger": {
         "Level 1": "7ffbef55-4108-945e-6bc9-7b897f386d1b",
+    },
+    "Transition Stinger": {
+        "Level 1": "066522e1-4d71-d514-2943-70a1df85badf",
     },
     "Sovereign Stinger": {
         "Level 1": "9bc535dd-4d91-3421-2cd0-7a8fdad3478b",
@@ -3117,6 +3195,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Elderflame Dagger": {
         "Level 1": "f3594bcc-43a9-4a74-8c40-98a4e4a4569a",
         "Level 2": "ef028ac5-40a2-bc8e-582b-c4abf4ed0ef3",
+    },
+    "Blades of Imperium": {
+        "Level 1": "1d7449fe-4bba-e213-c0c2-39816ca1043f",
+        "Level 2": "b57ee3c1-4a9e-137a-b706-9bb62d9d4e2f",
     },
     "Singularity Knife": {
         "Level 1": "ea441610-42da-e46f-8d7b-1b9759c105cd",
@@ -3279,6 +3361,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "315e8e49-4dc4-9769-2382-3ba5f7af87da",
         "Level 2": "19a14e33-4597-412e-ed84-489113968a58",
     },
+    "Transition Knife": {
+        "Level 1": "45159daa-423b-200a-c043-babdec9d0fd8",
+    },
     "Snowfall Wand": {
         "Level 1": "155ba654-4afa-1029-9e71-e0b6962d5410",
     },
@@ -3411,6 +3496,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Standard Odin": {
         Default: "2f93861d-4b2f-2175-af0c-3ba0c736e257",
+    },
+    "Freehand Odin": {
+        Default: "818aa4aa-4e44-606d-bfe7-3abf3fca62ea",
     },
     "Aerosol Odin": {
         Default: "309941f1-48b5-edc2-5e07-eaa7a435fedc",
@@ -3627,6 +3715,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Blue: "6fb459fa-4368-7d20-106a-629db9825a2b",
         Dark: "403f7d3e-4e96-6566-42f3-01b7a803d660",
     },
+    "Imperium Vandal": {
+        Default: "45ae6708-4dd0-4d01-3a5c-eab3764a5807",
+        Ruby: "ead7a187-4031-a20f-a4fb-f1a311dd839e",
+        Pearl: "48ca3867-4d0a-669c-cab4-398f0db4e18f",
+        Obsidian: "f1e3a354-4685-edf2-fb6b-9baee0a2e394",
+    },
     "Sarmad Vandal": {
         Default: "8b1098f4-41d0-043d-382a-19a2dff966bb",
     },
@@ -3737,6 +3831,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Lycan's Bane Vandal": {
         Default: "5d259a89-4b32-f15c-4ddc-0e83ce3130d2",
+    },
+    "Transition Vandal": {
+        Default: "31333054-467b-1d01-64ae-da8899495da4",
+        Blue: "56311cae-4ee3-81e2-5895-61b192bcfe86",
+        Orange: "21f48f0a-45b7-66fa-d1bf-7485d35dadec",
+        Green: "15373cc2-40a7-fd5a-5365-06849477a233",
     },
     "Reaver Vandal": {
         Default: "2bd28382-48c6-8579-83e8-e9b64b783de3",
@@ -3882,6 +3982,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Premiere Collision Bulldog": {
         Default: "69906458-4876-9061-0980-20a0dc06a52e",
+    },
+    "Transition Bulldog": {
+        Default: "1898e524-40b0-9e4b-5863-90b40a146958",
+        Blue: "ccb9095f-43dd-78b5-fe04-f79c09c448e6",
+        Orange: "3d569f1c-4a8a-aa43-8ea1-5da4b6b69e5a",
+        Green: "612cbf80-4aca-f842-5b7e-f7b4188a5dd3",
     },
     "Infinity Bulldog": {
         Default: "01f3fffe-4306-7b4b-9cb8-afb0027f4cf9",
@@ -4047,6 +4153,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Daydreams Phantom": {
         Default: "acc7cfc9-43b7-900c-263b-adafd69635e5",
     },
+    "RDVR Phantom": {
+        Default: "c37f2b0e-4499-d5dc-619d-81b35cec4b9f",
+    },
     "Celestial Phantom": {
         Default: "f78791cf-4084-55c2-9205-9aa2533284a8",
     },
@@ -4175,6 +4284,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "87e27487-4705-8060-5d07-c6a6dc927f09",
         Blue: "ede643c7-4b83-0fd4-13d1-1c9ddb4d34cd",
         Dark: "ec9caa7a-43ff-8f04-52a7-27a46de24f6e",
+    },
+    "Imperium Judge": {
+        Default: "ae25b648-4886-86ba-edd2-8b94f4f74e12",
+        Ruby: "c3312a1b-4f3f-4b83-14a1-aea21274877c",
+        Pearl: "5fe2ab9a-406d-e69c-9e1f-d7ab8f9629a6",
+        Obsidian: "72bb1c5c-4fe3-76c3-fcc2-90b415fc3ef8",
     },
     "Rush Judge": {
         Default: "d770df24-4aab-3377-a790-a2afd30010e7",
@@ -4377,6 +4492,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Chrome: "822401fe-4388-c203-3784-a0958885be07",
         Black: "5f9ccde4-456a-67eb-0a7b-d1b8fd0b0258",
         "Red/Blue": "af2c044e-4c83-04a4-bc7a-42a16be55796",
+    },
+    "Panoramic Bucky": {
+        Default: "dc27fea0-4ede-34e3-58fa-9586c46058b2",
     },
     "Cavalier Bucky": {
         Default: "dfc525fb-4515-1d0d-3292-959326cc86de",
@@ -4655,6 +4773,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Black: "39d5da8e-4e4e-e2a2-30a9-e8b7785225e4",
         "Red/Blue": "bf7a6ba8-4e33-9499-f829-dc9230d458de",
     },
+    "Panoramic Classic": {
+        Default: "6c3207af-4c4a-13d6-9ff4-7db41894e63e",
+    },
     "Sakura Classic": {
         Default: "1bcfd66f-4eff-e119-387e-94868ad48a29",
     },
@@ -4801,6 +4922,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Standard Ghost": {
         Default: "947a28b6-4e0f-61fb-e795-bc9a5e7b7129",
     },
+    "Freehand Ghost": {
+        Default: "f9f14faa-4246-f575-1d8a-f69af302f82c",
+    },
     "Gridcrash Ghost": {
         Default: "914f4435-4abc-e89d-e698-369cae3a8a4c",
     },
@@ -4854,6 +4978,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Abyssal Sheriff": {
         Default: "87c3afad-40e7-c6bb-7124-6088f961ffc2",
+    },
+    "Imperium Sheriff": {
+        Default: "78793f1f-4ac6-2441-e46c-58a56366de58",
+        Ruby: "1bb40fbe-44b3-6958-3105-3f848c8c4789",
+        Pearl: "51ccb865-412b-3dfd-1a8e-2ab92a08acd0",
+        Obsidian: "7d0edaa2-4e45-8985-ea10-97aa5437e2ed",
     },
     "Singularity Sheriff": {
         Default: "00831706-4e60-d5f9-b600-e38be89828d0",
@@ -5041,6 +5171,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Hue Shift Shorty": {
         Default: "73db26ce-42da-5971-7d83-8ba0fb998612",
     },
+    "Transition Shorty": {
+        Default: "0aff787a-46ef-4197-2e11-938d58bbd764",
+        Blue: "f5e43893-461f-f057-7419-81be02163f95",
+        Orange: "27cd4e6f-480a-9a90-9e43-eab89c8bff19",
+        Green: "95e181ba-4355-c07e-d13a-84bb655da638",
+    },
     "Standard Shorty": {
         Default: "95608504-4c8b-1408-1612-0f8200421c49",
     },
@@ -5117,6 +5253,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "a8b125e5-4e33-953d-d02c-37ad9e284b6a",
         Blue: "37cca29b-4468-a01e-e31b-8f8978a81eef",
         Dark: "296dcddb-4fbf-8834-bc01-44acac66dc60",
+    },
+    "Imperium Operator": {
+        Default: "4ab4116b-4fec-351b-3984-1d99bcd997dd",
+        Ruby: "af71d32c-4ce9-c3f5-92c0-89a69a11c6cc",
+        Pearl: "3db129b5-4ab9-d424-bcd3-31ad3f2d82e7",
+        Obsidian: "87799304-434e-e8a4-a4eb-dcb99e3951d5",
     },
     "Nitro Operator": {
         Default: "3116414a-47d5-da50-b27f-a4be014a7951",
@@ -5346,6 +5488,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Killjoy: "58acb270-4351-c064-24d1-b5803b4f9358",
         Yoru: "5dec1781-4491-897e-e4b6-969c1736882b",
     },
+    "Panoramic Guardian": {
+        Default: "3816271c-4c65-d218-f8b6-c79c7048b607",
+    },
     "Reaver Guardian": {
         Default: "bb9f9fb7-46ca-4ddf-1b83-b8b1fc0401d9",
         Red: "13276940-43e7-9ece-8661-dca6e8707847",
@@ -5485,6 +5630,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Standard Marshal": {
         Default: "1afec971-4170-f29b-1c94-07a0eff270ab",
+    },
+    "Freehand Marshal": {
+        Default: "36b8ef20-4618-9d72-1b94-428373dae618",
     },
     "Wasteland Marshal": {
         Default: "6e4dceba-441b-2fc5-5992-80ab4d779922",
@@ -5665,6 +5813,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Standard Spectre": {
         Default: "a9aaccca-4cdc-02ea-1d7e-89bbacecc0e2",
     },
+    "Freehand Spectre": {
+        Default: "4bc81f65-48ee-58c0-eb45-a7a0573ce4b7",
+    },
     "Tigris Spectre": {
         Default: "976c0258-41df-b35c-e053-87b501278957",
     },
@@ -5756,6 +5907,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Lycan's Bane Stinger": {
         Default: "ae6627fb-4b8b-a6b1-7625-e1a2f5b86918",
+    },
+    "Transition Stinger": {
+        Default: "6b1cb349-4255-1571-dd54-1e9a4d7b0f45",
+        Blue: "78c9021d-45a4-7bb9-d447-00b826c56cb8",
+        Orange: "6cf16dac-4006-2cce-a34e-27ae7d48b13c",
+        Green: "2fe45f29-4c87-71fa-951f-6ba664765cb0",
     },
     "Sovereign Stinger": {
         Default: "1d42a0ab-4748-674f-c181-798a1ac5c63a",
@@ -5881,6 +6038,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Elderflame Dagger": {
         Default: "d74171bf-4f3a-7dd7-76b9-04afeaeb72c0",
+    },
+    "Blades of Imperium": {
+        Default: "5b064653-4ace-2427-7255-05826786200e",
+        Ruby: "36180cf3-4f03-bf3e-3250-9292ad10361a",
+        Pearl: "42029903-48df-d4d9-a36e-448f827830a0",
+        Obsidian: "d9aab0b4-4354-f647-f801-1d986d7b5010",
     },
     "Singularity Knife": {
         Default: "a42d1c90-4fcf-b6f5-4889-41b6805c0214",
@@ -6049,6 +6212,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Pink: "54d0f235-4bef-94ae-6772-c59cb4e8e352",
         "Red/Green": "4cbf1d8c-4144-a224-c93c-1680b2a28b8a",
         "Blue/Purple": "1bd34c76-4cf5-f2a7-7b01-69a60f910941",
+    },
+    "Transition Knife": {
+        Default: "450082a2-4dce-7b5e-c19a-adbe61ff60b2",
+        Blue: "085bd989-4bb3-b52a-1f4e-0c8e921f6383",
+        Orange: "5eb1dfc5-4534-03c6-6016-9e8ee41d4cb2",
+        Green: "9243eefc-4834-1f7b-cda4-86b5f6eb65c3",
     },
     "Snowfall Wand": {
         Default: "29dd7a19-4654-af07-59bb-14b11db66e1a",
