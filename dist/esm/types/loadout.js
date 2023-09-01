@@ -1,0 +1,21 @@
+export const guns = [
+    "Odin",
+    "Ares",
+    "Vandal",
+    "Bulldog",
+    "Phantom",
+    "Judge",
+    "Bucky",
+    "Frenzy",
+    "Classic",
+    "Ghost",
+    "Sheriff",
+    "Shorty",
+    "Operator",
+    "Guardian",
+    "Marshal",
+    "Spectre",
+    "Stinger",
+    "Knife",
+];
+//# sourceMappingURL=loadout.js.map

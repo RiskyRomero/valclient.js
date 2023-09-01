@@ -1,0 +1,9 @@
+export declare type Regions = "na" | "eu" | "latam" | "br" | "ap" | "kr" | "pbe";
+export declare type CustomGameMapsName = "Foxtrot/Foxtrot" | "Port/Port" | "Triad/Triad" | "Ascent/Ascent" | "Bonsai/Bonsai" | "Canyon/Canyon" | "Duality/Duality";
+export declare type CustomGameModes = "Bomb/BombGameMode.BombGameMode_C" | "Deathmatch/DeathmatchGameMode.DeathmatchGameMode_C" | "OneForAll/OneForAll_GameMode.OneForAll_GameMode_C" | "QuickBomb/QuickBombGameMode.QuickBombGameMode_C";
+export declare type Maps = "Breeze" | "Icebox" | "Heaven" | "Ascent" | "Bind" | "Fracture" | "Split";
+export declare type GameModes = "Bomb" | "Deathmatch" | "OneForAll" | "QuickBomb";
+export declare type Locale = "ar-AE" | "de-DE" | "en-US" | "es-ES" | "es-MX" | "fr-FR" | "id-ID" | "it-IT" | "ja-JP" | "ko-KR" | "pl-PL" | "pt-BR" | "ru-RU" | "th-TH" | "tr-TR" | "vi-VN" | "zh-CN" | "zh-TW";
+export declare type RiotServers = "aresriot.aws-rclusterprod-sae1-1.br-gp-saopaulo-1";
+export declare type Queues = "competitive" | "deathmatch" | "ggteam" | "snowball" | "spikerush" | "unrated" | "onefa" | "newmap" | "null";
+//# sourceMappingURL=resources.d.ts.map
