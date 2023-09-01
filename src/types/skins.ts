@@ -14,7 +14,6 @@ export type OdinSkin =
     | "Smite Odin"
     | "Coalition: Cobra Odin"
     | "Lightwave Odin"
-    | "Sensation Odin"
     | "Schema Odin"
     | "Lycan's Bane Odin"
     | "Reaver Odin"
