@@ -321,6 +321,7 @@ export type FrenzySkin =
 export type ClassicSkin =
     | "Resolution Classic"
     | "RGX 11z Pro Classic"
+    | "Intergrade Classic"
     | "VALORANT GO! Vol. 2 Classic"
     | "Spectrum Classic"
     | "Pistolinha Classic"
@@ -470,6 +471,7 @@ export type ShortySkin =
 
 export type OperatorSkin =
     | "RGX 11z Pro Operator"
+    | "Intergrade Operator"
     | "VALORANT GO! Vol. 2 Operator"
     | "Araxys Operator"
     | "Radiant Entertainment System Operator"
@@ -514,6 +516,7 @@ export type OperatorSkin =
 export type GuardianSkin =
     | "Immortalized Guardian"
     | "RGX 11z Pro Guardian"
+    | "Intergrade Guardian"
     | "VALORANT GO! Vol. 1 Guardian"
     | "Neptune Guardian"
     | "Gaia's Vengeance Guardian"
@@ -585,6 +588,7 @@ export type MarshalSkin =
 export type SpectreSkin =
     | "Task Force 809 Spectre"
     | "RGX 11z Pro Spectre"
+    | "Intergrade Spectre"
     | "VALORANT GO! Vol. 1 Spectre"
     | "Neptune Spectre"
     | "Striker Spectre"
@@ -665,6 +669,7 @@ export type KnifeSkin =
     | "RGX 11z Pro Firefly"
     | "Altitude Knuckle Knife"
     | "Xenohunter Knife"
+    | "Intergrade Blade"
     | "VALORANT GO! Vol. 1 Knife"
     | "Yoru's Stylish Butterfly Comb"
     | "Araxys Bio Harvester"
