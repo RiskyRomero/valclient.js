@@ -322,6 +322,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     Classic: {
         "Resolution Classic": "ea9da25c-422d-d256-a970-cbaeb55542bf",
         "RGX 11z Pro Classic": "111680fd-4562-f658-af1c-ed8f9cfe9f9c",
+        "Intergrade Classic": "5077ebbc-4adb-bb8e-762e-6cb6cc9262f4",
         "VALORANT GO! Vol. 2 Classic": "b06e13ff-4f19-c750-ffcd-8084dfc3bbf5",
         "Spectrum Classic": "46f32f75-4fc8-7121-8a77-db8db43afc67",
         "Pistolinha Classic": "34919680-4f00-554b-0c2b-95acca7d0d36",
@@ -471,6 +472,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     },
     Operator: {
         "RGX 11z Pro Operator": "2e1936ed-4582-628f-da9c-25a7f47323cc",
+        "Intergrade Operator": "a7f9dccd-43ad-0574-5d5f-1ab4950014e1",
         "VALORANT GO! Vol. 2 Operator": "4a1e0934-46ae-fa2a-a009-05ade5d43402",
         "Araxys Operator": "6db556e4-4255-6c2c-6a80-8a9dfac96aa9",
         "Radiant Entertainment System Operator": "507330d3-4311-e010-183b-aba00a0705f1",
@@ -515,6 +517,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     Guardian: {
         "Immortalized Guardian": "6558fd5d-4dc7-90f7-beea-ba9303551c3b",
         "RGX 11z Pro Guardian": "da29ce1e-43bb-c043-9cbc-34850517dc23",
+        "Intergrade Guardian": "d8498f5f-4687-2eee-755e-00ae72f4ca94",
         "VALORANT GO! Vol. 1 Guardian": "2c32d9e3-42a1-7387-35ef-0c8eefacee1c",
         "Neptune Guardian": "1082032a-4f20-12db-93ea-549332f91ddf",
         "Gaia's Vengeance Guardian": "abd5415f-4851-244f-4b8b-31af8e268822",
@@ -586,6 +589,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     Spectre: {
         "Task Force 809 Spectre": "e78fb82c-4800-e102-b7a6-33946fa2f199",
         "RGX 11z Pro Spectre": "4f0c9544-469c-0c62-df2e-95b15d6f2333",
+        "Intergrade Spectre": "646b7e79-4164-598c-56d1-c991d74ce695",
         "VALORANT GO! Vol. 1 Spectre": "89b78398-4c56-6371-cad7-8eb78ee3f550",
         "Neptune Spectre": "55153919-4598-cb0f-4759-7ea546c6d121",
         "Striker Spectre": "dbe2c9ea-41c4-522c-9204-dab09bac84d0",
@@ -666,6 +670,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "RGX 11z Pro Firefly": "03de6b1a-4497-72e8-ae0c-2984b2e7e2b9",
         "Altitude Knuckle Knife": "1bc43715-4679-3f9d-ffc1-d69b373407cc",
         "Xenohunter Knife": "c5482640-4652-6948-29c6-769e8198db27",
+        "Intergrade Blade": "050aa35d-41b7-241c-d0b5-23b53ab0769a",
         "VALORANT GO! Vol. 1 Knife": "9103fdf7-4361-5ac5-37ae-7cb51f13f45d",
         "Yoru's Stylish Butterfly Comb": "d034911c-45a6-1ce4-e6f5-4cbe57e9d4f1",
         "Araxys Bio Harvester": "a486efac-4415-1bfa-68d1-19bca9968101",
@@ -1901,6 +1906,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 4": "44fb2542-45e5-f504-fdb5-fdb075ece7af",
         "Level 5": "4c741d16-4ab3-873f-99e0-7ab0c0643f08",
     },
+    "Intergrade Classic": {
+        "Level 1": "f48b4fa1-41d5-085f-4d0c-f3a1f9555cc9",
+    },
     "VALORANT GO! Vol. 2 Classic": {
         "Level 1": "68ee5c6c-4424-e95a-f46f-c08ec2dfeb97",
     },
@@ -2409,6 +2417,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 4": "2f1221b2-4e99-a2e7-4f63-0e9c6dab5b62",
         "Level 5": "2084911a-479d-14e5-13b4-b3856a39885e",
     },
+    "Intergrade Operator": {
+        "Level 1": "d9171b32-4521-046b-662f-0cb9826e58f0",
+    },
     "VALORANT GO! Vol. 2 Operator": {
         "Level 1": "68811d2b-4a6d-cbdc-39d3-f580aa97a297",
     },
@@ -2577,6 +2588,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "7205c0e1-481c-a95d-61ee-f5a1f2de86a4",
         "Level 4": "39f873a7-4fff-d29e-45ab-e8ac8823cdd1",
         "Level 5": "3595b261-40e6-a344-5689-a7a28128895b",
+    },
+    "Intergrade Guardian": {
+        "Level 1": "b99310b3-4c0b-d6b5-e92d-e087d7275269",
     },
     "VALORANT GO! Vol. 1 Guardian": {
         "Level 1": "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c",
@@ -2827,6 +2841,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "b5614b64-47f4-9cb7-71d2-f99afb43a131",
         "Level 4": "6aef9ce2-4938-7050-a9d0-fe830cc8b5b7",
         "Level 5": "66a49dfe-414c-e55c-4961-51885b097521",
+    },
+    "Intergrade Spectre": {
+        "Level 1": "9e0e4eab-4fbc-a14d-c4dd-aeb8212f093f",
     },
     "VALORANT GO! Vol. 1 Spectre": {
         "Level 1": "291cb44a-410d-b035-4d0b-608a92c2cd91",
@@ -3106,6 +3123,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Xenohunter Knife": {
         "Level 1": "8e9f610a-41ea-ff48-d102-c7a0e5614c84",
         "Level 2": "ba8b620a-4a51-8ed6-d1a7-cb9a4b3d99bd",
+    },
+    "Intergrade Blade": {
+        "Level 1": "7f980c1c-4a80-21e8-bf3e-77bf4c5f1d4b",
     },
     "VALORANT GO! Vol. 1 Knife": {
         "Level 1": "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9",
@@ -4651,6 +4671,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Blue: "63091ee5-47d9-f252-f7ad-09bb049c8673",
         Yellow: "bd0feedc-4571-773b-0f94-6dad613537d1",
     },
+    "Intergrade Classic": {
+        Default: "c1c90d77-4bf4-89af-8675-69971b388086",
+    },
     "VALORANT GO! Vol. 2 Classic": {
         Default: "21189635-4f65-c3a5-adb5-d1b7bb609c56",
     },
@@ -5204,6 +5227,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Blue: "b3faf521-48ed-8829-14fc-12b662021f10",
         Yellow: "3375e955-493f-479f-8937-2db8dbd9e516",
     },
+    "Intergrade Operator": {
+        Default: "04ef7313-44fd-889d-d2de-b988da9b4681",
+    },
     "VALORANT GO! Vol. 2 Operator": {
         Default: "5220f477-4fbb-cfb6-60ce-ddb7bd215a66",
     },
@@ -5378,6 +5404,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "78736e18-4ccc-d804-665f-8799aeb0600f",
         Blue: "c438dbb7-4ade-8240-90b5-b88b33aa5be4",
         Yellow: "39914e93-4b2a-d52b-2259-718535b08379",
+    },
+    "Intergrade Guardian": {
+        Default: "a72a6c05-42f2-76d3-2c45-37869ac2e891",
     },
     "VALORANT GO! Vol. 1 Guardian": {
         Default: "3628cc8a-4153-9561-74a3-ea8f1ac7e0e4",
@@ -5648,6 +5677,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "1910433c-48ec-fe93-0798-a1bf1639e42c",
         Blue: "47cd4c1c-4c8d-d262-a9f0-359206bf40dc",
         Yellow: "e1cc60c3-4031-6111-0179-ceb150458419",
+    },
+    "Intergrade Spectre": {
+        Default: "d9c82538-4a18-419f-f71f-8aa5d0c46214",
     },
     "VALORANT GO! Vol. 1 Spectre": {
         Default: "09d52346-42ba-8832-5981-c98db65774b8",
@@ -5955,6 +5987,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Xenohunter Knife": {
         Default: "37714c64-482b-d68d-f704-139156a2577c",
+    },
+    "Intergrade Blade": {
+        Default: "80ebe390-4eec-ecb9-9a29-e58c35c0aacb",
     },
     "VALORANT GO! Vol. 1 Knife": {
         Default: "2aebc30d-43d9-4501-69a6-b28648c2e4f6",
