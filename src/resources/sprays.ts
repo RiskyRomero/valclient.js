@@ -37,6 +37,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Dance Fever Spray": "852a4e5f-4965-27e5-01ac-76896c216801",
     "K.nock O.ut!! Spray": "4cf0fafa-4f29-48c7-7495-47b5ac483514",
     "Gaia's Vengeance Spray": "8b7154e2-4453-2515-0867-62a1075b03ad",
+    "Gaia's Vengeance, Ep 7 Spray": "a418d89e-49af-141e-4edd-de9ec79c34da",
     "Spectrum Spray": "a5ecf58a-44ce-75f6-abf7-bfb616c12f59",
     "Boom! Spray": "35d8fb90-49a9-641e-ff08-b4bc20421908",
     "Fade Spray": "e42f668f-4829-10af-02ca-4abf7fa74fb5",
@@ -575,6 +576,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Gaia's Vengeance Spray": {
         "1": "6ccd421a-4fc6-4be8-ae1d-799ca0c46d75",
+    },
+    "Gaia's Vengeance, Ep 7 Spray": {
+        "1": "bc610e75-4371-b271-1dbb-b7af3f2c1470",
     },
     "Spectrum Spray": {
         "1": "8262b1a6-488b-e567-35fb-cd84309092dd",

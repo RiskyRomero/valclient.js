@@ -29,6 +29,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     Ares: {
         "VALORANT GO! Vol. 2 Ares": "e9fce399-4abc-bb3c-8992-f887918ce327",
         "Aristocrat Ares": "8b9855f2-4cc6-0c44-3e7c-d0b2a32c6950",
+        "Gaia's Vengeance Ares": "1e5ee5bf-43d5-28ee-b2f7-96a53b783dc2",
         "Endeavour Ares": "bb004222-4ecd-e109-e875-069c820548fa",
         "Nebula Ares": "ac65b631-4bd1-b0fa-3313-0da74d4eba9d",
         "Doodle Buds Ares": "35beb433-425e-7072-7ac3-9ca95d1d1fd9",
@@ -166,6 +167,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "RGX 11z Pro Phantom": "499acf05-4f79-e345-3714-57bf7aa163ea",
         "VALORANT GO! Vol. 1 Phantom": "0acbabbe-4f4c-f643-284b-f69029abb54e",
         "Radiant Entertainment System Phantom": "4eb45d71-4fa4-be4f-7409-cf92123f1d22",
+        "Gaia's Vengeance Phantom": "7ae63121-4cf0-b4db-00ed-eb8ef05572b1",
         "Spectrum Phantom": "980fa063-436e-e51f-c38d-70a5b93a0f1c",
         "Piedra del Sol Phantom": "d556b1c2-46fa-fca4-0516-5c887fd2352a",
         "Composite Phantom": "052a0ba8-48a5-acd4-f989-87b067140b35",
@@ -260,6 +262,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
     Bucky: {
         "Altitude Bucky": "613152c2-47cf-be72-9b45-b6958117b220",
         "Xenohunter Bucky": "0666931c-4580-efd0-af47-afb9f2f72e55",
+        "Gaia's Vengeance Bucky": "892b5053-4c0b-149e-38d0-c3a8d6f24384",
         "Piedra del Sol Bucky": "001e4ce2-4b30-8203-365a-828e2e3a5826",
         "Origin Bucky": "96495eb3-40db-cb5b-1c69-17a3dde58ee3",
         "Radiant Crisis 001 Bucky": "31072cda-4041-b4f0-119a-3692ea598321",
@@ -452,6 +455,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Sidekick Shorty": "b454bb93-4dd5-5a7c-6720-38afd82bfd78",
         "Araxys Shorty": "4e98f273-472c-3376-7195-46a1f81402cc",
         "Neptune Shorty": "646e713f-4999-6c56-094c-dd9114bdb35a",
+        "Gaia's Vengeance Shorty": "4c583a37-42d7-23db-5e38-1eafe96f2b9d",
         "Karabasan Shorty": "0581fb92-4b2d-0ede-6bfc-8d93fde11f74",
         "Rune Stone Shorty": "acedb6db-407b-5d62-9c27-07bbb2313fe3",
         "Prelude to Chaos Shorty": "c9572061-4ee1-ff7d-b60c-ebac198d3706",
@@ -682,6 +686,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Neptune Anchor": "c3f1c9d6-441b-7def-1bf2-2c82719a4de8",
         "Power Fist": "f0ba8044-4964-ba1f-7f0f-e68dc2118d42",
         "Gaia's Wrath": "f91a1dd8-4f5f-bce4-f01d-4da95322c485",
+        "Gaia's Fury": "4fc1bb49-4847-7262-8cfe-fcaf0f62f0d1",
         Waveform: "400bb847-4f4f-a39e-cd52-589f00b2204f",
         Obsidiana: "8330a4c0-4e98-1cb7-9695-6b998b77138d",
         "Composite Knife": "093e3c69-4e14-6f75-1ee4-fc92efb91f9a",
@@ -854,6 +859,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Aristocrat Ares": {
         "Level 1": "a2045403-40f7-2926-f955-028b6867c79a",
+    },
+    "Gaia's Vengeance Ares": {
+        "Level 1": "0767c288-4ac6-4a8c-6f76-be8ca91e2991",
+        "Level 2": "5d07b5f8-4f20-b0f5-a4a3-7297a27d0e95",
+        "Level 3": "cd281fde-40b1-2073-8c1c-afba2b3dbb39",
+        "Level 4": "fb45bedd-4596-43dc-19cf-c99863cf83d0",
     },
     "Endeavour Ares": {
         "Level 1": "433e7f5e-4aaa-940e-4003-99bc0df92c17",
@@ -1346,6 +1357,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "6f0098d9-4809-a69e-334e-19b68fac39a2",
         "Level 4": "fc3f7834-495b-30c2-d341-4d8ff3101ee6",
     },
+    "Gaia's Vengeance Phantom": {
+        "Level 1": "b0c661cd-47e6-9857-8831-ef92b880a7b3",
+        "Level 2": "5111dc25-43cf-e80a-606c-75a7d612d2bc",
+        "Level 3": "522a20b9-4116-37f0-58df-a6bab69bdfec",
+        "Level 4": "f70b3465-4e62-976a-cc10-02a10dcae2f9",
+    },
     "Spectrum Phantom": {
         "Level 1": "82db01d1-4192-167b-9f53-78ba374c39ac",
         "Level 2": "8021e6d9-4916-32a9-e2cd-ff9c947a96c5",
@@ -1679,6 +1696,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Xenohunter Bucky": {
         "Level 1": "01a984b8-4b91-ab61-60b9-1bb9ce54bd04",
         "Level 2": "a3073107-4927-808c-acce-e0972543f75a",
+    },
+    "Gaia's Vengeance Bucky": {
+        "Level 1": "89e2e0cf-4456-5acd-c55a-5cb3f6ff2041",
+        "Level 2": "d68983e7-40f3-41b4-bce7-5ca3d734f34d",
+        "Level 3": "f02c5863-4e9a-0fd6-feef-6bb69ecf128e",
+        "Level 4": "0c2e78dc-4c97-5c9b-8175-938bc1e4f355",
     },
     "Piedra del Sol Bucky": {
         "Level 1": "154dea46-45a7-828d-5e0a-b9b3e4f7d7e3",
@@ -2350,6 +2373,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "93266c2b-400f-da62-24a0-739f51d33cc1",
         "Level 2": "e40ba2a2-4b91-8144-0b62-7c8ede15bced",
         "Level 3": "e70308c1-437a-d393-5c9a-7386bf8a7e28",
+    },
+    "Gaia's Vengeance Shorty": {
+        "Level 1": "f6e05633-45d6-461e-3c04-6cb03fa644aa",
+        "Level 2": "c75140b4-4b4f-01b1-5311-cbb3830b38eb",
+        "Level 3": "71396d13-4117-6319-49b3-0a857b655569",
+        "Level 4": "32947f14-47c0-a983-c9a7-d8b5e39d306e",
     },
     "Karabasan Shorty": {
         "Level 1": "f1f9cde8-4810-86a0-1c95-4ab214d4f6b8",
@@ -3165,6 +3194,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "f353f65b-4764-cfc5-df01-8db85ab28199",
         "Level 2": "9d399e15-452f-1880-9cc1-c79b04c862fe",
     },
+    "Gaia's Fury": {
+        "Level 1": "11c1c7fb-4fe7-1f6f-e4c4-47a9f46f7ea2",
+        "Level 2": "aa681713-4f0e-f4b5-17e6-909562012cef",
+    },
     Waveform: {
         "Level 1": "f58e7da3-4567-707f-cb1e-3a9add422481",
         "Level 2": "fe57fe97-4b0b-4a97-3050-2eb0a236f564",
@@ -3551,6 +3584,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Aristocrat Ares": {
         Default: "45b00d43-4b76-8953-a87d-50b43c309d98",
+    },
+    "Gaia's Vengeance Ares": {
+        Default: "88d5c68f-4f03-d276-705d-84981eff0c71",
+        Blue: "9a1234a0-4167-a3c9-ec45-da8dbbf30f11",
+        Green: "b4a9316d-4a84-d75b-bc59-5cb41841b4ca",
+        Orange: "be415d39-4460-0f90-4e63-e8b0ae7b6008",
     },
     "Endeavour Ares": {
         Default: "2e38d5d2-4bbb-69c3-1a90-688164dcf2f6",
@@ -4076,6 +4115,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         DanceFever: "a9aa0b3b-4f6b-52eb-ce5c-4fae5eb240ab",
         "K.nockO.ut!!": "91e9bfbe-4de0-03d1-d1ea-1d8fcea4a7ab",
     },
+    "Gaia's Vengeance Phantom": {
+        Default: "c48c2bad-4bbb-cb8c-6400-5c9a3942077e",
+        Blue: "c47f27d1-42dd-73e3-d066-b38b8ce243c1",
+        Green: "a02bd544-4729-8a11-b3af-4383175b6e69",
+        Orange: "bf33812d-4420-b1be-05cb-91843bdb25b7",
+    },
     "Spectrum Phantom": {
         Default: "e9014a77-4a74-4ea7-999c-44b0d0f84daa",
         Black: "e924a97d-46aa-3c3e-ec39-9abfeb811f2b",
@@ -4442,6 +4487,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Xenohunter Bucky": {
         Default: "d956ffba-4d51-9f09-bfe4-f8bc171ea164",
+    },
+    "Gaia's Vengeance Bucky": {
+        Default: "d0b93627-4ba0-f16b-7ccb-529d7066eebd",
+        Blue: "5d6ee097-457f-67ef-5a35-d79e109095d6",
+        Green: "daa45ca4-4fc0-4579-d8fd-a588183751c8",
+        Orange: "fa3668ce-4bcc-a909-eafa-589bd6aa47d8",
     },
     "Piedra del Sol Bucky": {
         Default: "a3722498-4a7d-5e61-d4d4-07b9e242b424",
@@ -5160,6 +5211,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Neptune Shorty": {
         Default: "90e6f275-4d58-7a80-cdaa-bdbeca6712a3",
         Black: "d7f15e4a-446f-88bd-9daa-49b26d121ab3",
+    },
+    "Gaia's Vengeance Shorty": {
+        Default: "17448e46-4be1-6f91-ba25-1a9f74a988c6",
+        Blue: "fe757a99-4ba2-1c52-e662-36b0db5de65f",
+        Green: "3e8d5260-4fbd-fb24-a5eb-58bc3f6d84fe",
+        Orange: "9952adbc-40da-7620-b970-608e12f02db4",
     },
     "Karabasan Shorty": {
         Default: "74019079-43d3-2757-bf40-9792c930034e",
@@ -6033,6 +6090,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Gaia's Wrath": {
         Default: "deb72528-49ed-1943-4aed-da9248663a5a",
+    },
+    "Gaia's Fury": {
+        Default: "488b19bd-497f-81c8-6155-8b870e5dfd1a",
+        Blue: "f9df7507-4460-c1a9-5466-9d8fc991441b",
+        Green: "8fe6c3e7-4357-582e-bc9e-1d9bc68bb380",
+        Orange: "971a4642-4f9b-4a85-5fc5-dfb3334bbc3c",
     },
     Waveform: {
         Default: "84eafd91-4e6b-0720-7c55-6484cbb732b8",

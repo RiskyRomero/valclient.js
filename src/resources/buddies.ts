@@ -15,6 +15,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Epilogue: Apple a Day Buddy": "f59ac578-411a-98a2-8c9d-22a58b352ebd",
     "Neptune Buddy": "f5e10416-436e-5ca1-89ce-feb1ea81ca1a",
     "Gaia's Vengeance Buddy": "d6c38282-4f11-822b-8fe1-dd9ad9045514",
+    "Gaia's Vengeance, Ep 7 Buddy": "6bdc0477-4b5a-94ed-b944-f284de3b4bd8",
     "Zedd Buddy": "70963a6d-45b7-8fd4-c6aa-62b2155715aa",
     "Get Carried Buddy": "452194fb-4ebd-353a-2ff7-0e90cf5523f9",
     "Composite Buddy": "49d304e1-4e20-4a0b-ede3-698422dc8cde",
@@ -420,6 +421,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Gaia's Vengeance Buddy": {
         "1": "7c2881fb-4bd3-3d98-4e5b-72a939eb2cac",
+    },
+    "Gaia's Vengeance, Ep 7 Buddy": {
+        "1": "86a0929b-45c8-b0ad-b321-39a61b7edfcc",
     },
     "Zedd Buddy": {
         "1": "2211e6ea-48f3-43cb-b6c0-a49c0a2d3341",
