@@ -18,6 +18,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Coalition: Cobra Odin": "5c13101a-45e4-d568-aade-d6b0dadedcd1",
         "Lightwave Odin": "57523cf0-4574-968b-9f17-168e3bdb6d0d",
         "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
+        "Orion Odin": "3bb7e1cd-4774-3b84-ab13-3fa8ca182f20",
         "Schema Odin": "02cce94a-4dc2-d11a-33cf-d8aba4e36202",
         "Lycan's Bane Odin": "468fdc95-443f-f1c2-bd22-fc8e1af0de39",
         "Reaver Odin": "8dda01a6-4237-f430-ac70-c3ba677963e9",
@@ -107,6 +108,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Cryostasis Vandal": "f328add7-4710-ab8d-95bb-409bc8278a35",
         "Luna Vandal": "04d8cc84-468a-b696-85ae-a193077838ed",
         "Sensation Vandal": "72c1e90b-40ca-4304-02eb-28bb2aea4ed2",
+        "Orion Vandal": "5e080cdf-408c-a193-1eb9-7fa3af301f00",
         "Sentinels of Light Vandal": "e8df3725-40de-b8ec-77bd-62a989685a85",
         "Sakura Vandal": "f946ef5c-46ab-e146-a712-1d99a1651356",
         "Schema Vandal": "9a6c6db7-4f56-12d6-8339-6386f12090e8",
@@ -212,6 +214,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Artisan Phantom": "909daea4-49ab-7b99-46fb-aa8c9e6fd837",
         "Protocol 781-A Phantom": "9877d50b-43b1-837a-802a-bf8a3b98e2dd",
         "Lightwave Phantom": "29665396-4dc8-c409-5e38-228949690f1e",
+        "Orion Phantom": "8588c8ff-47a5-3900-0518-d6a80b31ba35",
         "Snowfall Phantom": "a74f77fd-4e69-f16e-b1eb-ceb5198f423d",
         "Reaver Phantom": "044b28ba-4c3b-d315-140d-d9a249da5567",
         "Recon Phantom": "d67b929f-4431-61c0-286e-3ebf3d11c4af",
@@ -321,6 +324,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Divine Swine Frenzy": "fa0bb312-4446-a061-9b06-ee88314e07fa",
         "Lightwave Frenzy": "f67d4d78-4567-f8ca-010b-18919c49aa05",
         "Sensation Frenzy": "531135cc-48cb-68bf-8c99-149e46670c80",
+        "Orion Frenzy": "d02d21e4-4b57-945e-c504-e8af1bdd488c",
         "Titanmail Frenzy": "324c837d-4e55-a259-0852-92bc27e724da",
         "Live Wire Frenzy": "f7fc6f86-4599-e131-e392-d6b2dfabd8cb",
         "Standard Frenzy": "f06657f3-48b6-6314-7235-a9a2749df5b9",
@@ -750,6 +754,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Luna's Descent": "07409307-46cc-98db-ec92-ceb04a865f73",
         "Random Favorite Skin": "b5f42a00-425a-6fdf-61af-bb9a564c3d79",
         "Gravitational Uranium Neuroblaster Baton": "0357caf1-41a9-cb1c-c080-38aab13d9a7e",
+        "Orion Sword": "d78eef32-4531-0f68-f2d2-d28c52ecea38",
         "Relic of the Sentinel": "6fd8cc46-48b3-f02c-46e3-cba372e7a328",
         "Transition Knife": "4e2fd704-4372-a082-8423-c4a1da4d62f1",
         "Snowfall Wand": "52a1647c-42d9-b40e-16cf-a7821566ad81",
@@ -826,6 +831,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Random Favorite Skin": {
         "Level 1": "059c9307-4d19-00f3-c0e5-49b8bc66bd40",
+    },
+    "Orion Odin": {
+        "Level 1": "10b34c7e-42cb-45bb-ec20-63b8b8332e6e",
     },
     "Schema Odin": {
         "Level 1": "15a5516d-412f-2db0-6bb3-3cbe40a2355f",
@@ -1155,6 +1163,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Sensation Vandal": {
         "Level 1": "f4bfff96-487a-cf9e-08cc-d590d962c4e6",
+    },
+    "Orion Vandal": {
+        "Level 1": "c871822c-431b-c8fd-2c3f-9c8cc79ee186",
     },
     "Sentinels of Light Vandal": {
         "Level 1": "968efd06-4549-65f4-9fb1-3f90d612e428",
@@ -1536,6 +1547,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Lightwave Phantom": {
         "Level 1": "1452386a-47ab-bd8a-775d-9194020ca52d",
     },
+    "Orion Phantom": {
+        "Level 1": "b737c20d-43f8-16ff-c2fd-07a45fa7beaf",
+    },
     "Snowfall Phantom": {
         "Level 1": "00eb5b5b-4697-44b5-a926-7e86b730e812",
     },
@@ -1911,6 +1925,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Sensation Frenzy": {
         "Level 1": "5a773352-456e-ef0b-35ab-c99ead159264",
+    },
+    "Orion Frenzy": {
+        "Level 1": "c58a2e59-4b5a-87a9-c8c4-2e92640bae4d",
     },
     "Titanmail Frenzy": {
         "Level 1": "47ee5cb6-4059-df8b-6d40-5daaa01ff49f",
@@ -3424,6 +3441,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "3710f62c-4e0c-65fd-848d-8da25d2fb833",
         "Level 2": "7ef7ed92-463e-2e0c-859f-b88de57f2fb4",
     },
+    "Orion Sword": {
+        "Level 1": "dcb0b818-4db1-c3f8-6055-d1ab2a0ae55a",
+    },
     "Relic of the Sentinel": {
         "Level 1": "315e8e49-4dc4-9769-2382-3ba5f7af87da",
         "Level 2": "19a14e33-4597-412e-ed84-489113968a58",
@@ -3551,6 +3571,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Random Favorite Skin": {
         Default: "d1d33fe3-444e-3391-cd3f-92ae4c15c3cd",
+    },
+    "Orion Odin": {
+        Default: "2e9873e7-4fe8-e38f-76c8-2f8e30f626d6",
     },
     "Schema Odin": {
         Default: "46afaf58-410c-661b-85d1-9eaafb4185b2",
@@ -3892,6 +3915,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Sensation Vandal": {
         Default: "e5ca1ad8-4548-43f8-13b3-a89cc50aa319",
+    },
+    "Orion Vandal": {
+        Default: "4bcbe4b3-4009-8408-5345-ea8f926625a7",
     },
     "Sentinels of Light Vandal": {
         Default: "6f337971-40b7-c94d-0f24-36869af654c6",
@@ -4307,6 +4333,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "751ab7e7-4299-963c-fa36-eb83243ae0b2",
         Gray: "150083fd-4769-0133-f35d-fc850f84bac1",
     },
+    "Orion Phantom": {
+        Default: "20252a18-4c4a-4ffd-ad4d-33a329b1955c",
+    },
     "Snowfall Phantom": {
         Default: "2e170ea2-434d-5a0f-dc28-3aada990a266",
     },
@@ -4717,6 +4746,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Sensation Frenzy": {
         Default: "b5c7c3d6-4242-c174-470c-7b9bc1d188c4",
+    },
+    "Orion Frenzy": {
+        Default: "d6b1f479-480a-a606-20ec-2f9b239549ce",
     },
     "Titanmail Frenzy": {
         Default: "066caa0b-48ae-8d2c-f526-6081f2491cf0",
@@ -6327,6 +6359,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Gravitational Uranium Neuroblaster Baton": {
         Default: "d5aa2665-4381-e982-4fd7-6ab0c2ce920b",
+    },
+    "Orion Sword": {
+        Default: "ee9cf8f6-4b9a-7997-e3b3-c48f4eb5bf30",
     },
     "Relic of the Sentinel": {
         Default: "ab3d2950-426a-9b94-193d-65b53348386a",

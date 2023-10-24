@@ -251,6 +251,11 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Rubber Ducky Buddy": "9930bb0d-449e-d786-df6f-2bb97795edec",
     "Artisan Buddy": "3275436e-4b32-5d1f-6056-2d80132c88f8",
     "Take on the Tundra Buddy": "f2b96400-4663-c2cf-699d-029e8b52836f",
+    "Premier Launch Champion // Adv Buddy": "8d6f45c8-4031-7104-6079-1f934c30917e",
+    "Premier Launch Champion // Ctd Buddy": "ffde61af-4686-0d77-11c2-9ea357381b87",
+    "Premier Launch Champion // Elt Buddy ": "a1bc1340-4884-7eb2-ceeb-aebea6ff5e3b",
+    "Premier Launch Champion // Int Buddy": "8ef76df3-4f31-4a8b-534b-b29be6f68bed",
+    "Premier Launch Champion // Opn Buddy": "d3a6c031-4090-e50e-03a4-b2b4afbf141e",
     "Pay Respects Buddy": "839c6e7d-4821-157b-fd38-71b3debc874f",
     "One Direction Buddy": "ce82d434-477f-43a3-963b-95b6657c46b6",
     "Pride Buddy": "2e7eaec5-4acd-6d51-4e73-a9bb30450480",
@@ -1130,6 +1135,21 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Take on the Tundra Buddy": {
         "1": "c1c9ca0a-477f-3388-7198-6cb90c36e6ae",
+    },
+    "Premier Launch Champion // Adv Buddy": {
+        "1": "d5a90b21-401c-bc02-cd9f-2ba9292d6f4d",
+    },
+    "Premier Launch Champion // Ctd Buddy": {
+        "1": "d65186f8-430f-d3d5-3281-94bb27992cf7",
+    },
+    "Premier Launch Champion // Elt Buddy ": {
+        "1": "4f489072-4d22-c8d2-94fa-009ea740567a",
+    },
+    "Premier Launch Champion // Int Buddy": {
+        "1": "71e3b812-4fc8-2acd-a728-498b763bba4f",
+    },
+    "Premier Launch Champion // Opn Buddy": {
+        "1": "98eb0dc3-4613-7630-04e7-419d05a67988",
     },
     "Pay Respects Buddy": {
         "1": "56f98991-43f8-dcc8-189e-08b7ae6c42ad",
