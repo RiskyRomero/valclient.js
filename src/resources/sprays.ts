@@ -333,6 +333,21 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Defuse Deception Spray": "b85c679a-496a-2188-df96-7ba134422121",
     "Freehand Spray": "964ab501-499d-872d-66a3-14aacb5d3d42",
     "Power Punch Spray": "d7e96c11-403c-8c0e-782e-239546be7c9e",
+    "There is Only One Truth Spray": "cf8410ec-49cd-18c1-adf0-bb8b28e32fab",
+    "Updraft Scare Spray": "208fb08d-4765-7378-2b0f-39b55c8ffaab",
+    "Ego Boost Spray": "51dc5786-4f73-8a5b-fd04-8eb6e78b9d74",
+    "Spark Shock Spray": "8990d3d8-4952-00cb-1951-518d4ebd5eed",
+    "Splash Zone Spray": "fb3cc952-486b-323e-4076-cf9485f0aff6",
+    "The Big Bet Spray": "310eea7d-42fd-9ef4-6968-d68d3e752ecd",
+    "Fragger's Fall Spray": "ef3977c1-4e22-e53e-d571-4ea8ed6e5fc9",
+    "Libretto Spray": "ed787a44-4667-de20-5faf-f09a5da18c32",
+    "Penalty Call Spray": "fad2dc6b-4f97-33c0-3ecd-b19b17655bc8",
+    "One Last Bite Spray": "fc848c44-4472-8f1b-4887-4783043869f1",
+    "Silhouette Spray": "75ac6543-4372-a9a9-cdcf-05af2ebb54ab",
+    "Keep Your Paws Off Spray": "a2610dd4-47f6-df18-fbe3-1fae99ab6a62",
+    "Sandswept Spray": "31545bf9-44c9-ec09-5a03-e2bbf3efa9b2",
+    "Hide'n Peek Spray": "c5e3c41a-4663-c59f-9d84-2d932312ed96",
+    "Break Time Spray": "78750707-4ec3-75c2-54a1-e99d25b00a07",
     "Champions 2022 Jett Diff Spray": "556008f0-41bb-d752-3747-1aabc73499c8",
     "VCT 2021 Spark Spray": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
     "Fakeout Spray": "076630c8-4bc9-d953-eb13-6e81e341840c",
@@ -391,6 +406,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Predicament Pals Spray": "770cbcca-40bd-0c68-0aae-b2a98747c8f0",
     "Tag! You're Dead! Spray": "7c3771b2-4ea7-9188-bfd4-c08feeca3984",
     "Crimsonbeast Spray": "13aa2012-4149-e57a-b21d-a8a795cdb131",
+    "Valiant Hero Spray": "3baa428b-4e8e-df38-e50f-1e86f2f9584f",
     "Nice One Spray": "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe",
     "Octo Attack 2 Spray": "cd3d4242-4282-9210-f34f-9998e8b1f9e0",
     "Pick Your Poison Spray": "145dc009-4f60-0872-0f81-69957d520317",
@@ -400,6 +416,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Claim the Crown Spray": "13cc701a-4321-e105-3b66-01affe7da31a",
     "Spotlight Spray": "1024275a-4673-8d84-e796-dbbabf611614",
     "Too Easy Spray": "476820f7-4c57-41ca-ebb8-54a2828b4371",
+    "Pocket Sage Spray": "b1c901c2-48fe-9524-25ed-52a31e6e7b89",
     "Protocol 781-A Spray": "e428e9d5-4912-ffac-031b-f293375cd14d",
     "Clutch Spray": "890c4f6d-4794-3d88-617b-1b906c7a8ea6",
     "Astral Plane Spray": "3650047b-416a-589e-c28e-dea10e89ef59",
@@ -409,6 +426,9 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Brimstone Spray": "be343d37-465e-1878-e6d0-9aba467d7cca",
     "The Big One Spray": "b16024b9-4f5e-6dfa-c229-7d9c620c24d0",
     "Getting Reps Spray": "50bc437d-46c4-e58f-e479-848becfb48fd",
+    "Don't Ask Spray": "edb80d08-4512-625a-ce84-ee9eade74790",
+    "Iso Spray": "76b238c0-4109-b292-6a9d-a09239f5679e",
+    "In the Zone Spray": "b709c77b-4914-b61d-d586-7485130d6ae6",
     "Loose Cannon Spray": "47575563-4d43-96fb-1586-849d35c7ddd5",
     "VALORANT GO! Vol. 1 Cypher Spray": "290565e7-4540-5764-31da-758846dc2a5a",
     "VALORANT GO! Vol. 1 Jett Spray": "31ba7f82-4fcb-4cbb-a719-06a3beef8603",
@@ -453,6 +473,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Sharp Spray": "bc8917ee-4e11-0286-ff49-77b1e5b12fcb",
     "Yoru Spray": "fe84089e-45cf-0c99-0cdf-1aa5b3296117",
     "200 IQ Spray": "7da0141a-4f39-33c9-8e0b-a8b44bc59a36",
+    "Sip n' Spray": "94ccd7e7-4ddc-553e-d9e2-5a8afc1d3a5b",
     "Tactibear Spray": "bf2188f1-4b0a-a55f-c631-67a54ac1ccc5",
     "Sage Spray": "2cf3c29c-49ec-7297-93f8-35988fce5ca6",
     "All Good Spray": "d16b0b8c-4106-493b-f231-ac9b4d56372f",
@@ -1465,6 +1486,51 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Power Punch Spray": {
         "1": "95c5016d-4242-caf6-c54d-8ea380e7eedf",
     },
+    "There is Only One Truth Spray": {
+        "1": "bff21c81-418e-8aae-568e-55a9c13622cb",
+    },
+    "Updraft Scare Spray": {
+        "1": "f417d841-4bca-b767-7c7e-b896cb49554f",
+    },
+    "Ego Boost Spray": {
+        "1": "22aabd14-41d9-a3d2-e31c-8ab2201b8e81",
+    },
+    "Spark Shock Spray": {
+        "1": "102ddeba-4d55-e43a-7880-83a1b394a3f2",
+    },
+    "Splash Zone Spray": {
+        "1": "35f4c3ad-459c-a420-a69b-8bafeac3b47e",
+    },
+    "The Big Bet Spray": {
+        "1": "52d76dc3-42f9-9365-b7ca-61a32ce452f5",
+    },
+    "Fragger's Fall Spray": {
+        "1": "3a4c63bc-4b3d-1f1e-5dfd-5fa0c820a32d",
+    },
+    "Libretto Spray": {
+        "1": "297405af-4b2b-e8b0-2581-2eaab4ee80c8",
+    },
+    "Penalty Call Spray": {
+        "1": "bad70ce1-43a9-84e0-151d-d4b323525eaa",
+    },
+    "One Last Bite Spray": {
+        "1": "a67e83df-4346-a868-3f90-2da6252ba161",
+    },
+    "Silhouette Spray": {
+        "1": "f466bda3-4e94-10ee-3405-ad8cb70145b6",
+    },
+    "Keep Your Paws Off Spray": {
+        "1": "8551d49d-4a50-8635-1fe7-c7b654994a2e",
+    },
+    "Sandswept Spray": {
+        "1": "524a1f75-4ef3-102f-4e10-c08e42ce52d1",
+    },
+    "Hide'n Peek Spray": {
+        "1": "b95e67a8-4171-9b6a-f08b-9bbf6d7a4104",
+    },
+    "Break Time Spray": {
+        "1": "64f64ce7-4712-ab9b-83db-d1996fa87862",
+    },
     "Champions 2022 Jett Diff Spray": {
         "1": "39ee62f9-4aa1-6331-85d1-fe8c9116c960",
     },
@@ -1639,6 +1705,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Crimsonbeast Spray": {
         "1": "4687d7dd-4cce-4ffd-37ae-a795d55214f0",
     },
+    "Valiant Hero Spray": {
+        "1": "16b1934f-49fe-91d9-3825-5fafc20ed6c0",
+    },
     "Nice One Spray": {
         "1": "8626c534-4d7b-c8f1-2ef2-629fc199ddbb",
     },
@@ -1666,6 +1735,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Too Easy Spray": {
         "1": "2b72a735-44d7-e76f-ada8-d39166bdcfff",
     },
+    "Pocket Sage Spray": {
+        "1": "da65497f-465d-0c79-8ed7-b19d423e0c87",
+    },
     "Protocol 781-A Spray": {
         "1": "519573ae-4af3-54f8-1563-2cb6035f2e01",
     },
@@ -1692,6 +1764,15 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Getting Reps Spray": {
         "1": "27d9d9df-4778-58bb-0514-1e922861c30e",
+    },
+    "Don't Ask Spray": {
+        "1": "e9ee9e65-4693-124e-b312-6286db21c022",
+    },
+    "Iso Spray": {
+        "1": "e3ec535e-4f02-c8e5-7f5a-6e8778ed5798",
+    },
+    "In the Zone Spray": {
+        "1": "7682c042-4b5b-0f5a-5d2e-4d8ab8bb8650",
     },
     "Loose Cannon Spray": {
         "1": "d37bd5cd-451d-936a-0a85-b98157c73ca7",
@@ -1824,6 +1905,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "200 IQ Spray": {
         "1": "4b81be92-459f-2fee-14d1-a1906632d637",
+    },
+    "Sip n' Spray": {
+        "1": "964fc6c6-4d08-9dc1-e4b1-8eb5a4060c70",
     },
     "Tactibear Spray": {
         "1": "406cb253-4823-872a-ea7d-bcba8378499a",
