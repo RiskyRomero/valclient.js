@@ -19,6 +19,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Lightwave Odin": "57523cf0-4574-968b-9f17-168e3bdb6d0d",
         "Sensation Odin": "65baa0cd-42ec-f99d-54a0-338d795b5824",
         "Orion Odin": "3bb7e1cd-4774-3b84-ab13-3fa8ca182f20",
+        "Sentinels of Light Odin": "67fb338a-4b21-ed70-7c2a-46bef4742b4f",
         "Schema Odin": "02cce94a-4dc2-d11a-33cf-d8aba4e36202",
         "Lycan's Bane Odin": "468fdc95-443f-f1c2-bd22-fc8e1af0de39",
         "Reaver Odin": "8dda01a6-4237-f430-ac70-c3ba677963e9",
@@ -140,6 +141,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Undercity Bulldog": "4be8d0e7-48e0-eaa3-1db4-85a14094f369",
         "Glitchpop Bulldog": "285c6731-4451-b930-7a3d-c5a736d00f5e",
         "Rush Bulldog": "23399beb-4828-0d03-ae24-aaa62b08f796",
+        "Chromedek Bulldog": "e7a07081-4e80-7195-9df5-6d9ddbe597f9",
         "Velocity Bulldog": "706dcacc-432b-47e5-3cf7-2db432a8afe6",
         "Shimmer Bulldog": "cc8ad3b2-4b0f-6e8d-eae0-c98cc55d002f",
         "Digihex Bulldog": "0f2da2b0-41cc-2162-cb46-adad9ae4fdd1",
@@ -189,6 +191,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Singularity Phantom": "5eec4ce6-443d-e9b5-4c5b-2b967d426bd3",
         "Sarmad Phantom": "cd07ba8f-4dae-0410-582e-71acdef102ce",
         "Rush Phantom": "8db507b5-4d57-96e0-000e-2d8c8af79550",
+        "Chromedek Phantom": "4b73b610-4096-60c1-1969-f2b05b53fa43",
         "Velocity Phantom": "a17d4eeb-46e5-a041-ae7b-a2841ac6b36e",
         "Team Ace Phantom": "f7a779db-4835-6561-ce1a-d1921a24de46",
         "Topotek Phantom": "d34edafc-4e48-b2d7-6163-08bf054d3d80",
@@ -220,6 +223,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Protocol 781-A Phantom": "9877d50b-43b1-837a-802a-bf8a3b98e2dd",
         "Lightwave Phantom": "29665396-4dc8-c409-5e38-228949690f1e",
         "Orion Phantom": "8588c8ff-47a5-3900-0518-d6a80b31ba35",
+        "Sentinels of Light Phantom": "a8652d02-458c-461c-8aa8-b7a520455023",
         "Snowfall Phantom": "a74f77fd-4e69-f16e-b1eb-ceb5198f423d",
         "Reaver Phantom": "044b28ba-4c3b-d315-140d-d9a249da5567",
         "Recon Phantom": "d67b929f-4431-61c0-286e-3ebf3d11c4af",
@@ -476,6 +480,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Prelude to Chaos Shorty": "c9572061-4ee1-ff7d-b60c-ebac198d3706",
         "Karabasan Shorty": "0581fb92-4b2d-0ede-6bfc-8d93fde11f74",
         "Doodle Buds Shorty": "9a37b09b-4768-b368-52ef-58ac62564637",
+        "Chromedek Shorty": "da41a901-493c-80f7-955b-dfa0c69629fd",
         "Hivemind Shorty": "3a921c7b-4e8f-8543-bee8-01ba6da86874",
         "Velocity Shorty": "15588213-4d09-344b-c7e1-28af37374c82",
         "Ruin Shorty": "1064fbd1-416c-bf00-0e30-a282a359847f",
@@ -486,6 +491,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Oni Shorty": "b36dad11-4105-6c08-0486-17ba96d0f2a4",
         "Snakebite Shorty": "9428e52d-4611-c8ff-1b63-7b8e386fe8cb",
         "Hue Shift Shorty": "df0e23fe-4529-a9d5-c4c6-eaae086bda65",
+        "Sentinels of Light Shorty": "160d661d-4152-6914-8069-c393914759cb",
         "Transition Shorty": "73ade1d7-47d1-680b-defe-268df2ad073b",
         "Standard Shorty": "48ad078a-4dae-2b85-a945-f4b6d1efecbb",
         "Aerosol Shorty": "a39bd1bb-4b17-4d57-c505-7eb15caffa4d",
@@ -588,6 +594,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Rune Stone Marshal": "db3bf2d9-449e-cd8a-950e-018ca893d404",
         "Doodle Buds Marshal": "6250b40a-43a4-55d8-79d4-f6838d58151d",
         "Songsteel Marshal": "51da27fe-4a3f-016a-d18d-b68a47545f6f",
+        "Chromedek Marshal": "fefdedbe-447d-b86a-b7dd-dab6d605cf6a",
         "Venturi Marshal": "f037ea38-4be9-0f3d-003c-6f958a71e04b",
         "Ruin Marshal": "027a5d7f-4bfc-7c41-a012-24b8c6720fda",
         "Neo Frontier Marshal": "d70d33ff-4a88-bf66-f256-bcb05fa9bd60",
@@ -652,6 +659,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Protocol 781-A Spectre": "eaa73ab9-4688-0c40-09ad-85b535a50723",
         "Luna Spectre": "f45824e7-4573-d473-0e70-959b76fc4dab",
         "Gravitational Uranium Neuroblaster Spectre": "4a8e8ff6-44f2-0ebf-6fa8-a5af76b628ee",
+        "Sentinels of Light Spectre": "7c232164-4b8c-7a8f-7ae5-42987cbfb14f",
         "Reaver Spectre": "1cb1ab52-4c7d-0775-77f4-eaac99968261",
         "Recon Spectre": "26b1c794-4370-f354-ff4d-3a8b95edff79",
         "Infinity Spectre": "53ab2a6a-46c5-32b9-e045-6781e677d7ff",
@@ -729,6 +737,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Singularity Knife": "151ee26c-4e82-e7ca-dad1-099e7fb34774",
         "Blade of Serket": "6417e12d-4f03-13d4-8704-20bf3a1bcb5b",
         Songsteel: "45129867-4977-e2a5-bead-cb828101b623",
+        "Chromedek Gauntlet": "1f81e40e-460a-75fd-fb38-5f90b6fbb596",
         "VCT LOCK//IN Misericórdia": "9a98f7dd-426c-603e-0569-e9b317c25ee4",
         "Hivemind Sword": "24cf2882-48c7-f287-155a-a4b6b083baa4",
         "Venturi Knife": "2640e9a6-415f-4c3e-cac0-16a24edb41c0",
@@ -774,6 +783,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Gravitational Uranium Neuroblaster Baton": "0357caf1-41a9-cb1c-c080-38aab13d9a7e",
         "Orion Sword": "d78eef32-4531-0f68-f2d2-d28c52ecea38",
         "Relic of the Sentinel": "6fd8cc46-48b3-f02c-46e3-cba372e7a328",
+        "Relic Stone Daggers": "a03598b3-4879-3380-eb4c-d6b2d29dd565",
         "Transition Knife": "4e2fd704-4372-a082-8423-c4a1da4d62f1",
         "Snowfall Wand": "52a1647c-42d9-b40e-16cf-a7821566ad81",
         "Reaver Knife": "0aecb2b8-49cc-560e-42c7-6cbce44f05cf",
@@ -853,6 +863,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Orion Odin": {
         "Level 1": "10b34c7e-42cb-45bb-ec20-63b8b8332e6e",
+    },
+    "Sentinels of Light Odin": {
+        "Level 1": "e96f3e84-471a-b20f-a3c8-39b3a607c9c8",
+        "Level 2": "4e847ff2-46c6-d5fc-4b0c-b8ac66f08734",
+        "Level 3": "4961c412-433c-0996-c6b3-718957df2cc8",
+        "Level 4": "e8310f27-41e9-360a-55e7-1f887802ca68",
     },
     "Schema Odin": {
         "Level 1": "15a5516d-412f-2db0-6bb3-3cbe40a2355f",
@@ -1297,6 +1313,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Rush Bulldog": {
         "Level 1": "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1",
     },
+    "Chromedek Bulldog": {
+        "Level 1": "5939a264-43a1-caf8-cddf-f8ad017f8787",
+    },
     "Velocity Bulldog": {
         "Level 1": "7561a8e0-4cc4-8644-a88b-48a88790b36f",
     },
@@ -1474,6 +1493,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Rush Phantom": {
         "Level 1": "d39a4263-49d3-f2e0-2c13-c299f8644518",
     },
+    "Chromedek Phantom": {
+        "Level 1": "c084073b-4dee-9aaa-470e-3abe99057050",
+    },
     "Velocity Phantom": {
         "Level 1": "4707bae8-4938-71b5-ce5c-52aad3f24d21",
     },
@@ -1589,6 +1611,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Orion Phantom": {
         "Level 1": "b737c20d-43f8-16ff-c2fd-07a45fa7beaf",
+    },
+    "Sentinels of Light Phantom": {
+        "Level 1": "83108c64-4b66-87bc-b4e0-db822cd466c7",
+        "Level 2": "083f662a-48fc-2ccd-7ed6-47810e4c2a55",
+        "Level 3": "55ae40ad-4276-445b-9229-b8858c9435da",
+        "Level 4": "580d0841-45b5-d4fc-18a8-25a53e300196",
     },
     "Snowfall Phantom": {
         "Level 1": "00eb5b5b-4697-44b5-a926-7e86b730e812",
@@ -2474,6 +2502,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "deb200a8-447c-0e47-5b92-e8aeb9cd5525",
         "Level 2": "ba0193f6-4c7d-1b7f-b9dc-4e883a6ba21a",
     },
+    "Chromedek Shorty": {
+        "Level 1": "6ecbfb9c-4e04-fce3-3f1f-da914439235d",
+    },
     "Hivemind Shorty": {
         "Level 1": "d0a95805-4adb-95f7-3955-339d89769bec",
     },
@@ -2506,6 +2537,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Hue Shift Shorty": {
         "Level 1": "31629ef7-47ac-908e-369b-16beabc02c5b",
+    },
+    "Sentinels of Light Shorty": {
+        "Level 1": "6e81e078-46db-2314-07da-10b7326071b1",
+        "Level 2": "062da487-44f0-5adb-69d1-368e0af713e7",
+        "Level 3": "682ebe29-4312-e006-0ebc-309ad02dcfd6",
+        "Level 4": "8a8e330b-419d-a1d5-2c17-03bd37772ca1",
     },
     "Transition Shorty": {
         "Level 1": "42a5b584-468b-0812-3041-7cb8b36cc0f8",
@@ -2879,6 +2916,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Songsteel Marshal": {
         "Level 1": "3e0a3431-4e78-89d1-ee57-d9837e324ee0",
     },
+    "Chromedek Marshal": {
+        "Level 1": "4d511d8d-43af-f3ce-d46b-f58956664176",
+    },
     "Venturi Marshal": {
         "Level 1": "90ef24e4-4b7a-f6c6-ca55-abb5379fda34",
     },
@@ -3107,6 +3147,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Gravitational Uranium Neuroblaster Spectre": {
         "Level 1": "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4",
         "Level 2": "984fa47b-4c3f-cb2a-3fdb-098e342a52f3",
+    },
+    "Sentinels of Light Spectre": {
+        "Level 1": "bbb9a521-4460-1e77-536b-49b87d3954e0",
+        "Level 2": "f42f43fe-4d73-e2b4-c5cd-b8819b7e20cb",
+        "Level 3": "aa10c34a-418d-805a-fb26-2fa8d7c1f9da",
+        "Level 4": "cd4d5db8-4512-d0c8-86cf-1ea2e1255a61",
     },
     "Reaver Spectre": {
         "Level 1": "0a0237d3-4d57-0ed2-ab65-c898a7bc755b",
@@ -3374,6 +3420,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     Songsteel: {
         "Level 1": "e701b267-43bb-7862-cebb-9695590b68ac",
     },
+    "Chromedek Gauntlet": {
+        "Level 1": "582533ed-43cb-67da-7c1e-0999304cc7cf",
+    },
     "VCT LOCK//IN Misericórdia": {
         "Level 1": "e98461ab-4e29-3bbe-513b-0b82f3013050",
         "Level 2": "210e40cd-4537-a726-b181-86a61842ebb4",
@@ -3531,6 +3580,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 1": "315e8e49-4dc4-9769-2382-3ba5f7af87da",
         "Level 2": "19a14e33-4597-412e-ed84-489113968a58",
     },
+    "Relic Stone Daggers": {
+        "Level 1": "97899f63-4b47-a315-7ef4-f39b6d46bb37",
+        "Level 2": "ee40f34f-484e-6350-4212-e089f563f240",
+    },
     "Transition Knife": {
         "Level 1": "45159daa-423b-200a-c043-babdec9d0fd8",
     },
@@ -3660,6 +3713,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Orion Odin": {
         Default: "2e9873e7-4fe8-e38f-76c8-2f8e30f626d6",
+    },
+    "Sentinels of Light Odin": {
+        Default: "0b07deb9-4add-5c51-b381-3c8a1dd02cf2",
+        Pink: "a77bf207-4e2d-1a73-de52-2ebf528dbf6a",
+        "Red/Green": "d1738425-47ab-28f3-26c9-a3bb7a90c2c1",
+        "Blue/Purple": "c252d117-477c-138c-80e4-a2bab8d80c0c",
     },
     "Schema Odin": {
         Default: "46afaf58-410c-661b-85d1-9eaafb4185b2",
@@ -4127,6 +4186,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Rush Bulldog": {
         Default: "f9ec80f9-498b-fab1-cc27-9c867aa1de49",
     },
+    "Chromedek Bulldog": {
+        Default: "f396b220-4a4e-b81b-663d-aaac2cf0c2dd",
+    },
     "Velocity Bulldog": {
         Default: "e4e3aa91-444c-38d4-f485-e9a562d32d95",
         Yellow: "9699b440-42d0-e152-c5fc-6682e11bdc5c",
@@ -4313,6 +4375,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Rush Phantom": {
         Default: "2e3b98b6-46e9-e233-1e1b-269ebd84598a",
     },
+    "Chromedek Phantom": {
+        Default: "41563a1b-445a-ea50-814b-98a4793412d1",
+    },
     "Velocity Phantom": {
         Default: "c95606ea-47a0-9a37-2d4c-9ab1f90f68bd",
         Yellow: "c4e149cd-49a7-acf1-5a31-708e5c89a8c3",
@@ -4445,6 +4510,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Orion Phantom": {
         Default: "20252a18-4c4a-4ffd-ad4d-33a329b1955c",
+    },
+    "Sentinels of Light Phantom": {
+        Default: "271066c7-4cc5-9530-b696-bd89c12c97ee",
+        Pink: "25bfeb8c-40d8-34c7-3b39-adb9d3ac5f0a",
+        "Red/Green": "e64da239-4ce1-eb1d-90f0-aca5be5e24da",
+        "Blue/Purple": "6fb34f8a-4a01-378d-fa3a-ba8a19d9eb8b",
     },
     "Snowfall Phantom": {
         Default: "2e170ea2-434d-5a0f-dc28-3aada990a266",
@@ -5404,6 +5475,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Tactifriends: "acb87714-4ea5-18b6-0d2a-fb8754340943",
         LeagueofLegends: "a92fcaf4-4828-dea4-c00b-26b549011699",
     },
+    "Chromedek Shorty": {
+        Default: "d48011de-4ccc-18e8-6352-e18cd9d02b6c",
+    },
     "Hivemind Shorty": {
         Default: "abd361b4-43a6-728c-376a-529b1f599ab9",
     },
@@ -5439,6 +5513,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Hue Shift Shorty": {
         Default: "73db26ce-42da-5971-7d83-8ba0fb998612",
+    },
+    "Sentinels of Light Shorty": {
+        Default: "8d6c9af5-4827-d46c-5245-49a7287f225c",
+        Pink: "2f095b09-4bae-3868-bf00-678748f7c083",
+        "Red/Green": "104c561d-448d-59d9-9b42-bda69469122f",
+        "Blue/Purple": "46e88e9f-46b0-89ea-5874-f7b8a9666a91",
     },
     "Transition Shorty": {
         Default: "0aff787a-46ef-4197-2e11-938d58bbd764",
@@ -5840,6 +5920,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Songsteel Marshal": {
         Default: "4156c0b0-44b8-7ea9-6707-75aec36ec5fb",
     },
+    "Chromedek Marshal": {
+        Default: "01187f24-41a0-0f97-7fd9-749953668cf3",
+    },
     "Venturi Marshal": {
         Default: "711d9160-42bd-1de7-9b8c-d5bd485d6208",
     },
@@ -6087,6 +6170,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Chrome: "74b5a7a2-43b5-4343-2dc8-c2801230e288",
         Black: "22f733f9-4fb3-20f9-e032-f194d22c3d9a",
         "Red/Blue": "4de533bf-44d1-d8d2-9969-168e5a22d910",
+    },
+    "Sentinels of Light Spectre": {
+        Default: "0ecb515f-4db2-258b-35c9-79ad415320e6",
+        Pink: "4e32e513-46e5-ee39-3f33-f582639799f0",
+        "Red/Green": "2055d845-41ba-626a-3eda-d4b13b4c54e0",
+        "Blue/Purple": "1d707dcc-4f78-0830-dfb7-2e88f0d8f3c1",
     },
     "Reaver Spectre": {
         Default: "1cb0fe08-40f8-431c-0cde-129fcd217cc4",
@@ -6368,6 +6457,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     Songsteel: {
         Default: "db9cbc78-43a8-cc55-22c0-f9abd8f48c9e",
     },
+    "Chromedek Gauntlet": {
+        Default: "153e56f6-458c-e97f-5a11-f2abdf5bfb93",
+    },
     "VCT LOCK//IN Misericórdia": {
         Default: "465c23f5-457b-e7ea-a59a-23993c087581",
         Pacific: "b997c0f0-48d9-c9e8-3fc1-cb8dfa6d0099",
@@ -6535,6 +6627,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Pink: "54d0f235-4bef-94ae-6772-c59cb4e8e352",
         "Red/Green": "4cbf1d8c-4144-a224-c93c-1680b2a28b8a",
         "Blue/Purple": "1bd34c76-4cf5-f2a7-7b01-69a60f910941",
+    },
+    "Relic Stone Daggers": {
+        Default: "733cc417-4f08-6f0b-0db8-bfa4416112e6",
+        Pink: "ea189498-44ee-db41-d6ad-65b67a6d0584",
+        "Red/Green": "72cb332b-4f18-bf0b-4fa1-69aa8c758eb1",
+        "Blue/Purple": "526ce516-45aa-9e5c-d878-56a42779f1d5",
     },
     "Transition Knife": {
         Default: "450082a2-4dce-7b5e-c19a-adbe61ff60b2",

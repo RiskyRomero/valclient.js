@@ -361,6 +361,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "GLHF Spray": "6983ae7c-4cb5-835c-8f62-b7affbaae20e",
     "Give Back // 2022 Spray": "777dd75b-4de9-1c2f-a645-e2a6df175838",
     "Give Back // 2023 Spray": "78cc63ef-4789-3a69-49f6-f7b43b07b29d",
+    "Drop It Spray": "41450726-4566-aca7-6b98-8d9fcd9105d7",
     "Googly Moogly Spray": "85637987-4961-177a-28f0-f3acf8facb6a",
     "KAY/O Spray": "0abec7c8-4fc7-4fc2-af4c-22ad4802b937",
     "Drained Spray": "e1f79c8d-4dd1-0541-e5f1-75a5c1e8e7cd",
@@ -422,6 +423,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Astral Plane Spray": "3650047b-416a-589e-c28e-dea10e89ef59",
     "Astra Spray": "b58494ef-4b11-64e2-1d36-36853a74ad0c",
     "Galaxy Brain Spray": "15c876dd-4961-54ec-fbe0-d2b3a36f90e2",
+    "Sentinels of Light, Ep 7 Spray": "0736596a-4ec0-7330-1f74-44843b6d0663",
     "Salt Shaker Spray": "eece70be-4f84-facb-49b0-fe95290eff67",
     "Brimstone Spray": "be343d37-465e-1878-e6d0-9aba467d7cca",
     "The Big One Spray": "b16024b9-4f5e-6dfa-c229-7d9c620c24d0",
@@ -1570,6 +1572,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Give Back // 2023 Spray": {
         "1": "c5d7aa3c-4972-43f8-4edb-6694de865e57",
     },
+    "Drop It Spray": {
+        "1": "18625ba0-4242-d570-4244-d297ddfaad52",
+    },
     "Googly Moogly Spray": {
         "1": "b7bb11d4-46af-31db-737e-308d128a14e4",
     },
@@ -1752,6 +1757,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Galaxy Brain Spray": {
         "1": "5226c029-4fd9-3efb-6b3f-f99a96cae509",
+    },
+    "Sentinels of Light, Ep 7 Spray": {
+        "1": "0fc083fe-4de9-32e1-3497-668563834d8f",
     },
     "Salt Shaker Spray": {
         "1": "1a4e85a1-4ca6-c95a-93ba-0185d321380a",

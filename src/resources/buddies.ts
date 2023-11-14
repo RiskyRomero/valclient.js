@@ -332,11 +332,13 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Robotic Companion Buddy": "473cd7c2-4c12-9289-3a5a-949f4ea3b06c",
     "Root Beer Buddy": "2128c60c-4bd0-a707-aa88-7da65c6b4f4e",
     "Immortal Rose Buddy": "1a838fd4-43c3-dad7-ad30-37b9240c1ce1",
+    "Sentinels of Light, Ep 7 Buddy": "d655890d-47fb-9f93-73a0-e2bd661f9c45",
     "Salt Shaker Buddy": "1ab94e60-428a-0037-53ba-c3b9da93a36b",
     "Epilogue: Salt Shaker Buddy": "1c54de09-444d-61c3-11a8-47b94f22c05e",
     "Ancient Inheritance Buddy": "721dd4f3-4217-7e78-4a02-b99097f4d457",
     "Dog Tags Buddy": "affee4fe-4b57-dddd-beb2-deaf0a641b25",
     "Sunset Scoot Buddy": "7e48cfb7-4ca8-c978-06a9-28aefa84c69a",
+    "Seal of Approval Buddy": "6364afb1-4ae0-3c71-f5a8-89b7f863c14e",
     "Peripherals Buddy": "d34fcca1-45af-0ca9-27ec-0ba76d16fc80",
     "Silhouette Buddy": "225b7810-4455-117d-8b41-a8b74a136301",
     "Fishbones Buddy": "912110cb-4f40-ada7-e338-518244fff9b2",
@@ -1393,6 +1395,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Immortal Rose Buddy": {
         "1": "9ea89ec3-4cb5-40f1-27af-f3983af8ab4d",
     },
+    "Sentinels of Light, Ep 7 Buddy": {
+        "1": "cc12019a-4bc9-34e9-8d94-8eb9df5d7f35",
+    },
     "Salt Shaker Buddy": {
         "1": "cc03fd3e-470a-7d06-47ce-f3a01eee15c2",
     },
@@ -1407,6 +1412,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Sunset Scoot Buddy": {
         "1": "0e30240f-4c0f-556d-3d6a-0cb102fa912f",
+    },
+    "Seal of Approval Buddy": {
+        "1": "6b981487-4df3-7483-8048-5c922ea71b6b",
     },
     "Peripherals Buddy": {
         "1": "1b948058-4696-d07b-4078-48a62004269c",
