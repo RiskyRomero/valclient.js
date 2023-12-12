@@ -400,12 +400,14 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Just Business Spray": "40cc1645-43f4-4db3-ebb2-fdb46f8e9bf3",
     "Sic' Em Spray": "166a3fb6-492c-9437-417d-b8852128f73c",
     "Give Back Spray": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
+    "All Yuck, No Yum Spray": "fb5a3e47-42dd-c876-bd7d-0197d2b3d009",
     "Ego or Eco Spray": "5a328cd4-4cb5-4e64-60c2-6487281390ff",
     "Secret Sequence Spray": "174b7f71-40a2-f090-3806-008f25d38d30",
     "Shreddy Teddy Spray": "6aff01b3-443c-d98c-820e-05852efc075f",
     "Pity Party Spray": "2d9be381-4686-b392-310e-8bb2a6707f7e",
     "Predicament Pals Spray": "770cbcca-40bd-0c68-0aae-b2a98747c8f0",
     "Tag! You're Dead! Spray": "7c3771b2-4ea7-9188-bfd4-c08feeca3984",
+    "Overdrive Spray": "983d6cf0-43d5-900e-ca43-5298f44378af",
     "Crimsonbeast Spray": "13aa2012-4149-e57a-b21d-a8a795cdb131",
     "Valiant Hero Spray": "3baa428b-4e8e-df38-e50f-1e86f2f9584f",
     "Nice One Spray": "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe",
@@ -1689,6 +1691,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Give Back Spray": {
         "1": "28e9f3d3-4bb8-87a4-e894-beb57f95de45",
     },
+    "All Yuck, No Yum Spray": {
+        "1": "ec8d1114-465c-6844-6635-98ab035bed14",
+    },
     "Ego or Eco Spray": {
         "1": "72bf87ce-46b7-6666-5bcf-e1af202bba38",
     },
@@ -1706,6 +1711,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Tag! You're Dead! Spray": {
         "1": "3b28b078-4575-e117-9f2f-04bca5882b4f",
+    },
+    "Overdrive Spray": {
+        "1": "f8a7c392-4dbe-89d2-981d-6e9f2e4e1c4d",
     },
     "Crimsonbeast Spray": {
         "1": "4687d7dd-4cce-4ffd-37ae-a795d55214f0",

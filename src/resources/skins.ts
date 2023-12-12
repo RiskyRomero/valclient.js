@@ -105,6 +105,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Luxe Vandal": "30fd16af-4560-b2e2-7780-ee8148a0946a",
         "Magepunk Vandal": "148d7f02-4259-9c17-a1a4-6fa220a56551",
         "Valiant Hero Vandal": "c2c7746c-496a-6372-bd7a-3186276db2d1",
+        "Overdrive Vandal": "bbd3a52f-411e-3475-a6aa-ea88b54de53c",
         "Silvanus Vandal": "d758abc0-4d99-62d3-b22b-0db0e57de881",
         "Crimsonbeast Vandal": "8b688de6-42d3-9430-8f38-32b0b3d1c2c6",
         "Ion Vandal": "596ce51d-40e3-dc21-b02d-b08d070a7883",
@@ -291,6 +292,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Kingdom Bucky": "75e55415-45ce-b48b-b471-84bef2368e33",
         "Iridian Thorn Bucky": "d95fe9cc-4b39-6f54-1912-d796b5912481",
         "Magepunk Bucky": "5ac14aef-41cc-a0c8-895f-e1a69b33aeff",
+        "Overdrive Bucky": "4fca7cd4-48b6-130f-01fc-fa87974bb622",
         "Galleria Bucky": "2a0700dc-4181-ae19-2b49-818b24dceacb",
         "Genesis Bucky": "daf3c0d8-4c6f-23c0-20cc-96b0386b548f",
         "Ion Bucky": "31f6f214-4379-749a-9285-04a5561e2d03",
@@ -449,6 +451,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Magepunk Sheriff": "6460edbf-458d-bf61-7519-519305ba5da2",
         "Signature Sheriff": "cb89c7bb-445e-dfec-ad4a-b0ba37271329",
         "Minima Sheriff": "46ffe3ea-4fb5-7773-6242-f5b57bf53ef8",
+        "Overdrive Sheriff": "208bdc02-451d-60e5-196c-47ae67f150fc",
         "Silvanus Sheriff": "721ab58c-4ba2-b7ae-c571-0993d9799fc5",
         "Crimsonbeast Sheriff": "97a3cdc4-4f3a-ed26-02d6-6dbf6c1380d0",
         "Ion Sheriff": "83778c03-45a3-67a2-3c89-6b8598327d58",
@@ -686,6 +689,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Prism II Stinger": "338e3ee3-4927-733f-32b6-bcac795d23ac",
         "Couture Stinger": "598bb272-4bfd-ae82-0242-6490cc6f721e",
         "Signature Stinger": "cfbcbbcb-4d51-94cb-2efb-9fbb0d655b45",
+        "Overdrive Stinger": "7fa8b218-4943-e745-f62f-a9b666bdc10b",
         "Silvanus Stinger": "847fe9da-45cc-21d4-0138-7aa4d8b31d8e",
         "Moondash Stinger": "92f1dd4b-47f5-2088-9370-f89857962bc2",
         "Libretto Stinger": "2b7f65f7-4e85-becc-5f3d-39961f937b79",
@@ -769,6 +773,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Magepunk Sparkswitch": "6029ac35-4eca-8428-26d5-0896013e4c63",
         "Spline Dagger": "f6cfd500-4eab-3c1d-9eeb-188e90731692",
         "Ruyi Staff": "62a52d27-4c08-104c-3bd0-22be86848cc3",
+        "Overdrive Blade": "6bea8564-48a8-5011-dbf7-a2856713de08",
         "Crimsonbeast Hammer": "ec04e1a4-4067-bb9c-c18b-46a80e5f3f1f",
         "Genesis Arc": "3209e2af-4703-088b-ebef-8da89b4cef87",
         "Ion Energy Sword": "46664f5b-49ca-3e09-4fe5-56bdef536335",
@@ -1183,6 +1188,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "bb6826ae-4cbd-39b7-ed24-0a9244011706",
         "Level 3": "c877dded-4ef5-47af-37c2-87b63093f145",
         "Level 4": "ceb1f4e4-4011-5c21-3327-dba62c1e0736",
+    },
+    "Overdrive Vandal": {
+        "Level 1": "6d627f56-4f0e-e217-d0ff-87b4fa6c66bb",
+        "Level 2": "3edfa19c-4b70-9e22-032c-39b6173628eb",
+        "Level 3": "d7c46b82-480d-fc5c-31ce-03a39c936af6",
+        "Level 4": "63de80a8-405b-df7c-0fd4-50856705df54",
     },
     "Silvanus Vandal": {
         "Level 1": "9d501eec-4084-5d44-32ef-6e8ed5b0ed49",
@@ -1844,6 +1855,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "e98fc056-4234-d1b9-7d0e-eeb0c41742ad",
         "Level 4": "3022b056-4d17-3b4a-a80d-22b096b977ec",
     },
+    "Overdrive Bucky": {
+        "Level 1": "1f962646-47ba-cce6-f138-e1a11c200b86",
+        "Level 2": "ca5c6274-4021-adc8-f7b6-c3b420a7bebf",
+        "Level 3": "71b35108-4b3a-a5dc-0514-c2b36427a8a6",
+        "Level 4": "46668a73-48a3-d79a-8ed0-be9f41396bfd",
+    },
     "Galleria Bucky": {
         "Level 1": "03e03718-4c65-8a47-fb8b-78ba233cecd1",
     },
@@ -2387,6 +2404,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     },
     "Minima Sheriff": {
         "Level 1": "75b110de-40e5-3e02-d700-2abda38817c5",
+    },
+    "Overdrive Sheriff": {
+        "Level 1": "3cce8de1-4800-9372-e5eb-50a8e12a4eb7",
+        "Level 2": "5aefb221-48f9-2e25-8d4c-9faf3cc689a9",
+        "Level 3": "b042e7a0-4db3-9ae6-2c10-d980856cd60e",
+        "Level 4": "8e164afe-4b1e-1eeb-9a04-d9a63e793682",
     },
     "Silvanus Sheriff": {
         "Level 1": "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781",
@@ -3243,6 +3266,12 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Signature Stinger": {
         "Level 1": "39ac9329-472e-809c-57c6-768963f4e92e",
     },
+    "Overdrive Stinger": {
+        "Level 1": "3aac74c8-4398-9179-d67d-c5a40863799b",
+        "Level 2": "3131d8a3-431c-59e5-c2cd-d0a992e4ffff",
+        "Level 3": "e6b93dec-49ab-5740-77fd-db840264c5ef",
+        "Level 4": "0113b7dc-471f-6866-b9e3-4dbf7ddd9860",
+    },
     "Silvanus Stinger": {
         "Level 1": "d547c575-4572-9d77-42e5-bea022e5f07b",
     },
@@ -3529,6 +3558,10 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Ruyi Staff": {
         "Level 1": "dd587e30-4932-6cd4-3437-a1a043dd6a78",
         "Level 2": "0996fc4e-48ae-8072-3962-ad99617015bc",
+    },
+    "Overdrive Blade": {
+        "Level 1": "2521e64e-4395-5fc0-d53b-0297f47f1294",
+        "Level 2": "69bdcc45-44a1-7ddf-02c4-2d998d628f68",
     },
     "Crimsonbeast Hammer": {
         "Level 1": "5a27fbea-4f1d-62f9-8e5f-f494b4f0d322",
@@ -4048,6 +4081,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Sunset: "2adcfe05-411d-e586-3dff-a6a201b7216b",
         Dusk: "7bcf9469-49ee-7962-f644-369f80299a8e",
         Night: "51a72cb8-466b-119c-7544-f892ca486801",
+    },
+    "Overdrive Vandal": {
+        Default: "048ab630-4117-a932-d26d-208aad284072",
+        Cobalt: "49d88aec-4f79-ab83-3ecb-f7a4250e03bb",
+        Bubblegum: "fd000d0b-4376-bfd0-14fa-e7b18ddf1c7a",
+        Onyx: "bc2ebd80-4da8-65db-2eb5-aebeac5a9ffe",
     },
     "Silvanus Vandal": {
         Default: "d5327938-46fb-929c-e117-59888b3516df",
@@ -4764,6 +4803,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Purple: "82972735-4ef9-15cb-92c6-d3b7416fd176",
         Orange: "3b65ac59-4d80-638b-98f2-e6b47b13b088",
     },
+    "Overdrive Bucky": {
+        Default: "8caa76fa-45af-3893-fbd3-a588fe33104f",
+        Cobalt: "c1c6684e-481b-ed62-c1b0-a1aa423b7732",
+        Bubblegum: "270fb15d-44ab-98e2-9780-cbb4656aee07",
+        Onyx: "454dbba3-4390-adf6-2ced-fd88aec44b4a",
+    },
     "Galleria Bucky": {
         Default: "2b9aaf1d-492a-fcb7-b22b-4c8ba8d67efa",
     },
@@ -5360,6 +5405,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     },
     "Minima Sheriff": {
         Default: "2eb7116a-4c34-ed9f-3b9d-d2bf89cfa04d",
+    },
+    "Overdrive Sheriff": {
+        Default: "2dfe5557-411f-a182-68b8-5a98d2d42c27",
+        Cobalt: "7cce920d-45fd-395e-2bf8-e4bd413dc4eb",
+        Bubblegum: "b007e232-41e4-676f-70a0-f89fe5810527",
+        Onyx: "c714b397-42dc-f111-971d-4fb88ac49994",
     },
     "Silvanus Sheriff": {
         Default: "38b2c658-45a5-e807-3be6-bbaebae3d5ce",
@@ -6281,6 +6332,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
     "Signature Stinger": {
         Default: "3fe99248-42d3-13d2-5c82-11aba62a391c",
     },
+    "Overdrive Stinger": {
+        Default: "405e2a39-41fe-c59a-541c-de85b348f1e1",
+        Cobalt: "e3c105de-4f69-9af6-3e8e-4a8d5bce11b2",
+        Bubblegum: "43a4e4ca-4e42-df89-2b13-988ae0faf55e",
+        Onyx: "8cd84ad5-4046-895e-2dce-7f8a034412e2",
+    },
     "Silvanus Stinger": {
         Default: "c754aa0d-4b6d-7d99-ea51-e49f902dd1a8",
     },
@@ -6576,6 +6633,12 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Sunset: "10728d9c-418a-e736-3a66-75b7ec146eaf",
         Dusk: "55170065-4c37-f235-e7fb-169b4f641f31",
         Night: "8740c9e6-4696-a04a-e65f-abb8f8bc6812",
+    },
+    "Overdrive Blade": {
+        Default: "559f6638-426d-8c57-7a0d-158dd339fc70",
+        Cobalt: "af803a35-40d2-2780-01b0-e19a46537570",
+        Bubblegum: "42044155-42c4-ce8e-4af3-ad80972943ee",
+        Onyx: "a4cf1a65-490a-ea97-cc10-468c91c11fa3",
     },
     "Crimsonbeast Hammer": {
         Default: "e740a207-4cd8-da88-84b3-11af53748fb6",

@@ -228,6 +228,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Drop the Hammer Buddy": "9fda7f76-4134-711d-edb9-e8ad97064f98",
     "Epilogue: Drop the Hammer Buddy": "01b8e9e0-4ccb-7603-2bba-b9ba952b0306",
     "Mid-Autumn Sweet Buddy": "639932bc-4391-ea01-ea96-cd8dcab7088a",
+    "Overdrive Buddy": "8b869090-4f20-f809-1932-67909dd92b1f",
     "Treble Clef Buddy": "7ef410ea-4c04-8f4e-8a8f-df91c04781e4",
     "Epilogue: Treble Clef Buddy": "5b9aa7c9-4f6a-28f2-1b81-af94e8158573",
     "Matryoshka Buddy": "3166a9a9-4778-5003-9dcf-8abfe5341d87",
@@ -261,6 +262,11 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Rubber Ducky Buddy": "9930bb0d-449e-d786-df6f-2bb97795edec",
     "Artisan Buddy": "3275436e-4b32-5d1f-6056-2d80132c88f8",
     "Take on the Tundra Buddy": "f2b96400-4663-c2cf-699d-029e8b52836f",
+    "PREMIER E7A3 CHAMPION // ADV BUDDY": "b13a445f-4ff4-fd0e-01fa-c786e00e1bdb",
+    "PREMIER E7A3 CHAMPION // CTD BUDDY": "deed2aa7-4466-4df9-3fd8-edb372871d51",
+    "PREMIER E7A3 CHAMPION // ELT BUDDY ": "a8834ead-4bba-4405-40ec-40b7c7d8d8e4",
+    "PREMIER E7A3 CHAMPION // INT BUDDY": "68f6dbbb-422b-428b-9ef0-3d926312e7cb",
+    "PREMIER E7A3 CHAMPION // OPN BUDDY": "46473ed2-4e80-0066-4a0d-a9b7905d93fa",
     "Premier Launch Champion // Adv Buddy": "8d6f45c8-4031-7104-6079-1f934c30917e",
     "Premier Launch Champion // Ctd Buddy": "ffde61af-4686-0d77-11c2-9ea357381b87",
     "Premier Launch Champion // Elt Buddy ": "a1bc1340-4884-7eb2-ceeb-aebea6ff5e3b",
@@ -1083,6 +1089,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Mid-Autumn Sweet Buddy": {
         "1": "d7f8bf54-4214-be5d-288c-cdafcb150795",
     },
+    "Overdrive Buddy": {
+        "1": "729b152a-4c50-1935-95c3-1683681200df",
+    },
     "Treble Clef Buddy": {
         "1": "97545c6d-4c5e-a2ad-5486-78811054965b",
     },
@@ -1181,6 +1190,21 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Take on the Tundra Buddy": {
         "1": "c1c9ca0a-477f-3388-7198-6cb90c36e6ae",
+    },
+    "PREMIER E7A3 CHAMPION // ADV BUDDY": {
+        "1": "57500a19-44ee-3500-0d59-c18b86551a47",
+    },
+    "PREMIER E7A3 CHAMPION // CTD BUDDY": {
+        "1": "a0cd0286-4d3c-256f-fc9b-cc9c064f7b2c",
+    },
+    "PREMIER E7A3 CHAMPION // ELT BUDDY ": {
+        "1": "f48e04e9-43ff-4ba0-4283-4cb55b445837",
+    },
+    "PREMIER E7A3 CHAMPION // INT BUDDY": {
+        "1": "b8656cc5-48c0-84f9-d48b-9f83d80e01d0",
+    },
+    "PREMIER E7A3 CHAMPION // OPN BUDDY": {
+        "1": "604c9f96-41cf-c03b-8fb3-c29763b369f6",
     },
     "Premier Launch Champion // Adv Buddy": {
         "1": "d5a90b21-401c-bc02-cd9f-2ba9292d6f4d",
