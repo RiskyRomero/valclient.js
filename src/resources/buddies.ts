@@ -87,6 +87,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Ep 7 // 1 Coin Buddy": "23511e47-44f8-a1b2-34da-09b2962693e5",
     "Ep 7 // 2 Coin Buddy": "72229aec-40b8-7117-0a17-b38be68c9e46",
     "Ep 7 // 3 Coin Buddy": "52e28e6c-46f1-c370-1ab1-c89ab5f060fa",
+    "Ep 8 // 1 Coin Buddy": "f72bfb46-4b57-bb2e-0cfe-bfa9c5089eb3",
     "Follow Me Buddy": "bf01e45d-4c06-ee19-f66e-b1b5acf073c4",
     "Shell Song Buddy": "1bdf2eac-4db6-de1f-7ade-d5bdac4d9d69",
     "Epilogue: Shell Song Buddy": "b8fec641-431a-f6a2-32c4-20b18ad9d261",
@@ -102,6 +103,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Arcane Cupcake Buddy": "2092c352-47d8-be17-724c-14807ea7041a",
     "Electric Love Buddy": "bba270f1-4dc9-cae1-1e30-2dbf504a1d83",
     "Divine Swine Buddy": "e643ce87-4d21-e8ae-4fd4-f4870eea33c7",
+    "Potted Pal Buddy": "0baed110-4723-10bb-aba5-1d90b8a24d09",
     "Glitchpop Buddy": "c5bee9f1-4548-03c3-f88d-d7bf38d1943e",
     "Glitchpop, EP 2 Buddy": "faca42f0-47d9-0fcb-116f-9e9b37060bd1",
     "Champions 2022 Dad Hat Buddy": "9a6231c0-41e5-c42d-9745-cc9010877fdc",
@@ -110,22 +112,28 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Dance Fever Buddy": "29372ece-48ee-8b64-d0e7-98afe80e4244",
     "Dalgona Coffee Buddy": "a1e75ddf-47ab-ae85-e223-90b94563c702",
     "Danger Lizard Buddy": "d5b10115-43ea-42e7-8843-5bb5c1e73c6e",
+    "Shoot Here Buddy": "f674accd-43be-712e-8fed-fd88b6438841",
     "Daruma Charm Buddy": "b3066549-4b2a-f7d4-d655-3784181db732",
     "Prelude to Chaos Buddy": "cd1500f0-470c-9753-1cb9-43924c98fc84",
     "Lucky Dice Buddy": "b0e6b3db-45fe-f622-52f2-51811650560e",
     "Discotech Buddy": "42afb96b-4d11-e465-55a4-0b87bdfbf244",
     "Epilogue: Discotech Buddy": "910ea2d6-4578-c826-2b06-1594769766fb",
+    "Outlaw Buddy": "67592092-4c30-79b7-1a03-bc83deeadd59",
     "Donut Buddy": "26d1b452-461d-8d6f-526b-658c692e0f9e",
     "Elderflame Buddy": "38a10a3b-495c-eeff-b8af-c3b2b5cdc3f9",
     "Ion, Ep5 Buddy": "6d145c4a-42c5-1f21-6142-cd9da00c3794",
     "VLT/R Buddy": "45b67ec9-4f33-6ba7-625a-36b81016297a",
     "Ragna-Rock Out Buddy": "54bdfb80-4e4d-50eb-6db6-74b284a76835",
+    "Ducky on Swing Buddy": "10b65214-4c78-ae60-2b74-429b395a9cbe",
     "Happy Dumpling Buddy": "0911b78d-48a7-fb01-3ccd-0ca9a3996f75",
     "Dumpster Fire Buddy": "5e4482b8-4c85-d570-d9b6-929a8d6094d5",
     "Epilogue: Dumpster Fire Buddy": "6e7d4b62-402b-9e2a-c531-58b5091d8dc8",
     "Imperium Buddy": "8f32610e-48f1-4d6f-46ad-90911845dad3",
     "Egg in a Basket Buddy": "8cb83ad7-4e5b-73a1-173d-dc970951af9b",
     "Singularity Buddy": "2de08c48-4aa1-0c32-138d-4b834c21aee2",
+    "Sunny Side Buddy": "b681672d-497d-9d2b-10e7-3dbfd8a759c4",
+    "Epilogue: Sunny Side Buddy": "8ce61688-4069-ed20-c21b-6eba4b8daf01",
+    "Music Electric Buddy": "ed3f2ce6-44e4-8583-840d-df8ab46933da",
     "Songsteel Buddy": "3c9bfa19-4688-39ff-5377-3cac9d396a32",
     "Together Forever Buddy": "149f276c-474d-2171-43b3-41a6fc43dcc7",
     "Champions Cube Buddy": "94d60045-461f-94b0-5f7b-1385c8c93118",
@@ -202,6 +210,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Perfect Pattern Buddy": "25c6099b-411e-573e-673c-b594cba84c10",
     "Bumble Stitch Buddy": "28092460-423b-42eb-1709-6b98df39ccac",
     "Kohaku & Matsuba Buddy": "e052f69c-48e2-4d3f-6616-6695d419a3e7",
+    "Miss Spots Buddy": "b4d8dba9-4658-93ae-d972-1283e953c150",
     "Dance of Luck Buddy": "90b6b7eb-4960-5a26-7d49-7cbab0d7cfb2",
     "Blush Buddy": "89d92aa5-4d95-d65a-c515-a1aee5b64657",
     "Daydreams Buddy": "343f1f02-4cf8-271c-9f35-82b9aa06cc0d",
@@ -235,6 +244,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Genesis Buddy": "6e3f8dad-46ca-9f83-1fee-a7a258ff9537",
     "Salmon Nigiri Buddy": "ea9729a1-4c95-4a3b-62c8-1684cdc2568e",
     "Moondash Buddy": "46103935-4de3-15d9-2924-d0a05e5c39b7",
+    "Kuronami Buddy": "f57762a3-423c-70f7-c8d5-14bf97d0093e",
     "Deadly Precision Buddy": "1f2bf8a7-45a9-9969-7a55-01833ce34fb1",
     "Libretto Buddy": "a539f04e-4752-5524-c4a2-ccb4b5ae77c3",
     "Ion Buddy": "2d28fbc9-4518-3432-d90d-de8bba571a93",
@@ -331,11 +341,21 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "EP6: Platinum Buddy": "299c52e2-4e57-8ef1-4783-9cbc82504fa3",
     "EP6: Radiant Buddy": "a518656d-4ce2-b818-e6c9-91a9a96e78e7",
     "EP6: Silver Buddy": "cf881b03-4f5d-307a-23eb-eebc254e3dc3",
+    "EP7: Ascendant Buddy": "71d922b1-43b0-af0e-89e3-4aa3ac55ae0f",
+    "EP7: Bronze Buddy": "7a839c2b-4f5b-1d6f-e40f-df9c4abf4c16",
+    "EP7: Diamond Buddy": "e9795982-4878-4c15-f448-7dbd83ea432a",
+    "EP7: Gold Buddy": "8ca0dc82-49b7-a6c0-2036-868d820a6c12",
+    "EP7: Immortal Buddy": "5150e1c4-4b18-12ec-d520-d498db81a61b",
+    "EP7: Iron Buddy": "68e21f22-4c1c-d2f2-91a7-9090d34a818b",
+    "EP7: Platinum Buddy": "60ea5778-480c-a4a8-e36a-858f67fb63db",
+    "EP7: Radiant Buddy": "02931851-4925-d4a4-0eb7-3b91adb411b9",
+    "EP7: Silver Buddy": "68178772-4fff-7ec7-07f5-378488810a08",
     "Gravitational Uranium Neuroblaster Buddy": "90356707-45e1-5d0b-2b34-2d9aadf78b4e",
     "Slay Ride Buddy": "759b4a69-4742-cdf9-4211-4c867cdcabd7",
     "Panoramic Buddy": "304808a0-425b-452d-cf63-3abd74138964",
     "Stardust Buddy": "a1907073-46c5-6a62-17bb-a186d437a728",
     "Robotic Companion Buddy": "473cd7c2-4c12-9289-3a5a-949f4ea3b06c",
+    "Flash Blades Buddy": "9b0e438c-4fd0-64bd-7056-00bf5460b244",
     "Root Beer Buddy": "2128c60c-4bd0-a707-aa88-7da65c6b4f4e",
     "Immortal Rose Buddy": "1a838fd4-43c3-dad7-ad30-37b9240c1ce1",
     "Sentinels of Light, Ep 7 Buddy": "d655890d-47fb-9f93-73a0-e2bd661f9c45",
@@ -377,6 +397,7 @@ export const buddyIdMappedByName: BuddyIdMappedByName = {
     "Cheesed Buddy": "5de7339f-40fc-df25-1cf4-d3a5255ba1f7",
     "On The Low Buddy": "2a987627-4645-23d1-364e-79aad4915073",
     "Bear Tactics Buddy": "2fbe33aa-4e7a-b601-5fa8-ce8fb6511113",
+    "Hula Bear Buddy": "e667ab9c-4dd4-73ec-b89e-9da01e3afa6f",
     "Bunny Tactics Buddy": "e645bf64-49c1-de39-d8d4-48bd11e0b7e0",
     "UltraBright Torch Buddy": "4231564e-4354-3120-66c6-e6a3d9abab70",
     "Cat Tactics Buddy": "e0df1664-43ed-0652-85df-2dbdc5af7037",
@@ -665,6 +686,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Ep 7 // 3 Coin Buddy": {
         "1": "1d3e6a02-450c-870a-0a0c-1aafdfb75083",
     },
+    "Ep 8 // 1 Coin Buddy": {
+        "1": "df9d2766-4586-67cc-7997-b0b76baa269c",
+    },
     "Follow Me Buddy": {
         "1": "c5f4c423-43de-9553-456d-fbb809cfb74c",
     },
@@ -710,6 +734,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Divine Swine Buddy": {
         "1": "a29338b0-4882-6bc6-14a9-5eb7cc4778c2",
     },
+    "Potted Pal Buddy": {
+        "1": "9273af2c-456b-39dd-7529-43af3e4132ca",
+    },
     "Glitchpop Buddy": {
         "1": "e6eee5ec-4f6f-e764-1c4d-048ce271be27",
     },
@@ -735,6 +762,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Danger Lizard Buddy": {
         "1": "28227664-476a-72db-adaa-159084fbd149",
     },
+    "Shoot Here Buddy": {
+        "1": "c7dc8b9d-4eaa-12a3-711c-ca9b53c1011c",
+    },
     "Daruma Charm Buddy": {
         "1": "23ac846f-4a76-b338-94e6-d9bed52f07ce",
     },
@@ -750,6 +780,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Epilogue: Discotech Buddy": {
         "1": "8fae3ccd-44e0-42e6-d60c-a39e1471cdc9",
     },
+    "Outlaw Buddy": {
+        "1": "843d042c-4695-a011-583d-e5bf8f42e6b3",
+    },
     "Donut Buddy": {
         "1": "f3a3c59b-4bf3-461c-f956-d0bc7d95a742",
     },
@@ -764,6 +797,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Ragna-Rock Out Buddy": {
         "1": "cdff7783-4977-f912-1b88-92be8883fc7a",
+    },
+    "Ducky on Swing Buddy": {
+        "1": "944f916d-4154-3887-c480-e7a0db70c360",
     },
     "Happy Dumpling Buddy": {
         "1": "a4e3fe97-4de9-c133-7dd0-f2b294a2ead2",
@@ -782,6 +818,15 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Singularity Buddy": {
         "1": "ed95e342-4116-f07c-88b9-368a5fadb224",
+    },
+    "Sunny Side Buddy": {
+        "1": "84880a2a-41bd-1ab2-e1a9-f4aa884fb045",
+    },
+    "Epilogue: Sunny Side Buddy": {
+        "1": "5450c6cc-4339-b525-f615-4a9b403ce3b3",
+    },
+    "Music Electric Buddy": {
+        "1": "5ad3fe44-4f9b-c837-8f61-4da350c2a772",
     },
     "Songsteel Buddy": {
         "1": "05b6bc52-4bc1-6568-1c1b-53830b2cf57e",
@@ -1011,6 +1056,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "Kohaku & Matsuba Buddy": {
         "1": "98442884-4d6e-65d8-3295-69bde3315d92",
     },
+    "Miss Spots Buddy": {
+        "1": "46fab3f0-4dd5-4636-fb76-1a85ff231c9e",
+    },
     "Dance of Luck Buddy": {
         "1": "fdc908cf-493d-4b1d-bdbd-0da7e7525520",
     },
@@ -1109,6 +1157,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Moondash Buddy": {
         "1": "86957a8b-42e1-66c0-e4e2-c19112ba9dee",
+    },
+    "Kuronami Buddy": {
+        "1": "15ec0de5-4d3e-8342-fa72-6d964e348104",
     },
     "Deadly Precision Buddy": {
         "1": "7d6fc129-4d33-11ae-3e1e-faba40f7b77f",
@@ -1398,6 +1449,33 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     "EP6: Silver Buddy": {
         "1": "c77ca32b-4d9f-3cdd-aaec-87a2109a5d9f",
     },
+    "EP7: Ascendant Buddy": {
+        "1": "2409a363-4051-7265-da7d-a5a676122524",
+    },
+    "EP7: Bronze Buddy": {
+        "1": "6eee4aec-4afb-8a63-6377-e9abccba2695",
+    },
+    "EP7: Diamond Buddy": {
+        "1": "84b42115-4c99-db7c-4ef2-c687103ba4e4",
+    },
+    "EP7: Gold Buddy": {
+        "1": "69f341d7-4bc1-9ca2-6c43-cbbaee3ec249",
+    },
+    "EP7: Immortal Buddy": {
+        "1": "1c96922e-4203-a20f-c8cc-2da239f52df4",
+    },
+    "EP7: Iron Buddy": {
+        "1": "f0f09a8b-49ed-b1c6-9f14-0ca4c8be5ae8",
+    },
+    "EP7: Platinum Buddy": {
+        "1": "a087581c-4be5-5609-915c-738a2c1e4d35",
+    },
+    "EP7: Radiant Buddy": {
+        "1": "b4983ecc-4dc5-b7e3-49fb-e3aebb22b29b",
+    },
+    "EP7: Silver Buddy": {
+        "1": "d22356b6-44d9-aecb-35d7-b18a7a9ffe49",
+    },
     "Gravitational Uranium Neuroblaster Buddy": {
         "1": "2484e328-45e9-a5c0-960f-ad8b0f620d0e",
     },
@@ -1412,6 +1490,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Robotic Companion Buddy": {
         "1": "914ae03f-43fe-775c-124b-0bb485fa7a54",
+    },
+    "Flash Blades Buddy": {
+        "1": "1b9f88ea-41cc-a541-1ae5-56a138aacdb2",
     },
     "Root Beer Buddy": {
         "1": "71532330-4d73-4950-b7e0-2b9a00faa2ff",
@@ -1535,6 +1616,9 @@ export const buddyLevelIdMappedByName: BuddyLevelIdMappedByName = {
     },
     "Bear Tactics Buddy": {
         "1": "5224eeaf-4387-0750-eb5c-0da41a9b243c",
+    },
+    "Hula Bear Buddy": {
+        "1": "8bc45f31-4543-f77f-23f0-2a9cca2ac393",
     },
     "Bunny Tactics Buddy": {
         "1": "c44c3d43-45f4-1841-ec58-1885ef6fbcd5",

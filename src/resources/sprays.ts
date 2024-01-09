@@ -348,6 +348,21 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Sandswept Spray": "31545bf9-44c9-ec09-5a03-e2bbf3efa9b2",
     "Hide'n Peek Spray": "c5e3c41a-4663-c59f-9d84-2d932312ed96",
     "Break Time Spray": "78750707-4ec3-75c2-54a1-e99d25b00a07",
+    "Journey Bear Spray": "086b736c-409b-f04d-52bf-80bea716cab5",
+    "Tactiplay Spray": "6ae4b80c-44a1-41a1-c240-fa97e9d2247e",
+    "Just Another Wave Spray ": "d5102a0d-4693-e217-98c3-0e86dcf80123",
+    "Cup O' Crown Spray": "ca080c7c-4071-4211-d46d-5c8396aa04f4",
+    "Did You Drop This? Spray": "8f82bdb1-4cf4-e69e-ae58-bb96a1e67a8b",
+    "Another Dream Team Spray": "c746b2d3-491b-62f1-a40a-a4b77aa57f05",
+    "Savory Spice Spray": "e82fcdaf-4153-3ad1-5c83-2cb67ca7bd29",
+    "Scribble Blade Storm Spray ": "7479471f-434c-d608-7e41-0eb9fc7e4df3",
+    "Let's Rotate Spray": "ece10c9a-4318-ad80-e1f0-6b9f974a4e66",
+    "Make It Rain Spray ": "c16f59ba-400c-fcac-9337-a4a5c57487a4",
+    "Hearts Array Spray": "3910377e-4449-0f51-ceff-2b8e62d23241",
+    "Shocked Spark Spray ": "fc3c5d31-42c4-2073-f871-3f830c61c25b",
+    "Cuteness Overload Spray": "8266fb6b-4cc1-e160-5d66-d382287df830",
+    "Hold Back Spray ": "de5772ba-4da8-0c50-a73f-46ae20ac0e3b",
+    "Elegant Evade Spray ": "0ca3fdd8-455f-22d6-e853-5f9a04379d42",
     "Champions 2022 Jett Diff Spray": "556008f0-41bb-d752-3747-1aabc73499c8",
     "VCT 2021 Spark Spray": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
     "Fakeout Spray": "076630c8-4bc9-d953-eb13-6e81e341840c",
@@ -398,8 +413,10 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Flames in my Veins Spray": "f677065c-449d-dd91-78ef-6fa7d95ded8d",
     "Runnin' on Empty Spray": "3085ca2f-4e7a-25a5-909d-33940b0148e2",
     "Just Business Spray": "40cc1645-43f4-4db3-ebb2-fdb46f8e9bf3",
+    "Outlaw Spray": "b9acb0d5-458f-14db-6a7c-829379727fbd",
     "Sic' Em Spray": "166a3fb6-492c-9437-417d-b8852128f73c",
     "Give Back Spray": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
+    "Party's Here Spray": "67481014-423a-3175-4f5e-d0ba9422f887",
     "All Yuck, No Yum Spray": "fb5a3e47-42dd-c876-bd7d-0197d2b3d009",
     "Ego or Eco Spray": "5a328cd4-4cb5-4e64-60c2-6487281390ff",
     "Secret Sequence Spray": "174b7f71-40a2-f090-3806-008f25d38d30",
@@ -411,6 +428,7 @@ export const sprayIdMappedByName: SprayIdMappedByName = {
     "Crimsonbeast Spray": "13aa2012-4149-e57a-b21d-a8a795cdb131",
     "Valiant Hero Spray": "3baa428b-4e8e-df38-e50f-1e86f2f9584f",
     "Nice One Spray": "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe",
+    "Kuronami Spray": "515a130a-4a2e-e0a4-9a73-c784f8f16e2a",
     "Octo Attack 2 Spray": "cd3d4242-4282-9210-f34f-9998e8b1f9e0",
     "Pick Your Poison Spray": "145dc009-4f60-0872-0f81-69957d520317",
     "Deadly Venom Spray": "9eaaec2b-4a81-5691-9a14-2684ab242949",
@@ -1535,6 +1553,51 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Break Time Spray": {
         "1": "64f64ce7-4712-ab9b-83db-d1996fa87862",
     },
+    "Journey Bear Spray": {
+        "1": "91ca63e0-447a-1da2-f3e6-4da268b00ed0",
+    },
+    "Tactiplay Spray": {
+        "1": "745d628b-4ba0-99a2-fcf1-9a9b32af0c79",
+    },
+    "Just Another Wave Spray ": {
+        "1": "a92d4dbb-4512-1b02-2c85-f995b928ccdf",
+    },
+    "Cup O' Crown Spray": {
+        "1": "1c3ffab8-4fee-e470-c81b-97ad5852077f",
+    },
+    "Did You Drop This? Spray": {
+        "1": "ad1570d2-4d2d-5e82-e4d0-cba251d97f34",
+    },
+    "Another Dream Team Spray": {
+        "1": "164e102c-4405-e4db-0339-e1af347d5173",
+    },
+    "Savory Spice Spray": {
+        "1": "a9c09851-4473-43d9-6715-749d5d08e096",
+    },
+    "Scribble Blade Storm Spray ": {
+        "1": "f2200a9d-42ca-58cc-d9e8-39bb9c4df47a",
+    },
+    "Let's Rotate Spray": {
+        "1": "c40c4795-46cc-5ce5-4c4a-668f2d3a0734",
+    },
+    "Make It Rain Spray ": {
+        "1": "833d2ce1-41fd-537b-9ed5-ada4b42a3516",
+    },
+    "Hearts Array Spray": {
+        "1": "3bc4a738-4101-1f3a-2af8-d99e723edcfc",
+    },
+    "Shocked Spark Spray ": {
+        "1": "c623e58d-4967-6f8f-7620-3b950ae772ff",
+    },
+    "Cuteness Overload Spray": {
+        "1": "2b27798c-42c5-8d2e-163e-6888fcb2e36e",
+    },
+    "Hold Back Spray ": {
+        "1": "cd0bcd27-4a46-6620-866f-c8b9d8ce9cc4",
+    },
+    "Elegant Evade Spray ": {
+        "1": "fb2474c4-4fe5-6233-190f-13982b7392c1",
+    },
     "Champions 2022 Jett Diff Spray": {
         "1": "39ee62f9-4aa1-6331-85d1-fe8c9116c960",
     },
@@ -1685,11 +1748,17 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     "Just Business Spray": {
         "1": "406a5f6b-4361-eea0-05c2-be95e4881fa5",
     },
+    "Outlaw Spray": {
+        "1": "441c493b-4535-8a23-eb4c-5188c679ef86",
+    },
     "Sic' Em Spray": {
         "1": "2048c47c-4dd1-9248-1d14-6c9e78286866",
     },
     "Give Back Spray": {
         "1": "28e9f3d3-4bb8-87a4-e894-beb57f95de45",
+    },
+    "Party's Here Spray": {
+        "1": "ec00e30b-48ac-8570-0cb6-e68aa0ac8ae9",
     },
     "All Yuck, No Yum Spray": {
         "1": "ec8d1114-465c-6844-6635-98ab035bed14",
@@ -1723,6 +1792,9 @@ export const sprayLevelIdMappedByName: SprayLevelIdMappedByName = {
     },
     "Nice One Spray": {
         "1": "8626c534-4d7b-c8f1-2ef2-629fc199ddbb",
+    },
+    "Kuronami Spray": {
+        "1": "09ed5203-417e-6fdc-33bb-538210fd2291",
     },
     "Octo Attack 2 Spray": {
         "1": "7ce49058-493e-c18c-d906-0583d1e876f9",
