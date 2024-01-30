@@ -145,6 +145,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Rune Stone Bulldog": "8594c025-4c96-e258-13da-53a2f747bca2",
         "Undercity Bulldog": "4be8d0e7-48e0-eaa3-1db4-85a14094f369",
         "Glitchpop Bulldog": "285c6731-4451-b930-7a3d-c5a736d00f5e",
+        "Emberclad Bulldog": "8a50f044-4b00-0baa-c088-9eb666b4699d",
         "Rush Bulldog": "23399beb-4828-0d03-ae24-aaa62b08f796",
         "Chromedek Bulldog": "e7a07081-4e80-7195-9df5-6d9ddbe597f9",
         "Velocity Bulldog": "706dcacc-432b-47e5-3cf7-2db432a8afe6",
@@ -192,6 +193,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Undercity Phantom": "ed3ac995-4fd1-3079-27aa-4aab84447833",
         "Glitchpop Phantom": "25a7f0f2-4bce-7e45-b4b0-ca9264f5dfcc",
         "ChronoVoid Phantom": "2aac8bb3-4cfa-b806-21e4-5a8e9904caa4",
+        "Emberclad Phantom": "43da7fa1-4b01-7e91-d68c-85b0f63c0d8f",
         "Abyssal Phantom": "2d1472fd-458c-515a-c4e4-ceaa50c84187",
         "Doodle Buds Phantom": "3a091315-4e87-31d5-7cdb-27804a177fd2",
         "Singularity Phantom": "5eec4ce6-443d-e9b5-4c5b-2b967d426bd3",
@@ -318,6 +320,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "RagnaRocker Frenzy": "7d05d1ce-4bf2-fa96-d8f4-dca86052e3d2",
         "Origin Frenzy": "cceb25d7-41e7-1944-515f-2eb5695fd5cc",
         "Glitchpop Frenzy": "5596d764-4b62-210b-59db-7982e9d4c23f",
+        "Emberclad Frenzy": "e208b1f1-41bc-9750-35c9-448cbdd4c200",
         "Elderflame Frenzy": "4fb9ea7d-45a6-9154-7a46-648781b081c4",
         "Sarmad Frenzy": "3fd33106-4816-c257-d27f-2b86c5d76c66",
         "Rush Frenzy": "a010c5fc-4343-067d-4dfb-ee836ec0a45f",
@@ -647,6 +650,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Striker Spectre": "dbe2c9ea-41c4-522c-9204-dab09bac84d0",
         "Radiant Crisis 001 Spectre": "780a93e6-46aa-50c7-5e73-b885c5f6a141",
         "Starlit Odyssey Spectre": "1e473101-488a-e8ab-41cd-c6ad9d53443a",
+        "Emberclad Spectre": "e655b7f1-499f-fcc9-fb44-20af54f3c701",
         "Abyssal Spectre": "3aebc432-4946-b9dc-ae50-59a6afa68c0d",
         "Singularity Spectre": "0eab3e5c-4de4-e221-34fb-2ab435c89eb6",
         "Sarmad Spectre": "5137dacb-4df6-b513-765b-96b9ecfc435c",
@@ -750,6 +754,7 @@ export const skinsIdMappedByGunName: SkinsIdMappedByGunName = {
         "Glitchpop Dagger": "ddc025b2-475f-889a-2800-80b4215582bc",
         "Glitchpop Axe": "f0c42e14-4a92-132d-dfd4-cbbef103340c",
         "Terminus A Quo": "1b8de6d7-4f37-7170-acd7-e78829f7959a",
+        "Emberclad Hammer": "4b66c44e-4b97-aa19-5c9c-fe837abaa95a",
         Caeruleus: "cd6ce089-43fa-c4dc-3f8f-0391cb604b5d",
         "Blade of Chaos": "6e0496c1-4c98-7abe-16c4-7ca3653e5cd8",
         "Elderflame Dagger": "94b40026-4efb-39ea-69d7-fca60be39c56",
@@ -1354,6 +1359,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 3": "49ea5740-4731-01c5-a68e-cba6b86b1049",
         "Level 4": "d83d2283-4c50-ee72-3a8b-51b6a05aed15",
     },
+    "Emberclad Bulldog": {
+        "Level 1": "f526405d-4f14-88f3-ea25-d092ba8da95e",
+    },
     "Rush Bulldog": {
         "Level 1": "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1",
     },
@@ -1520,6 +1528,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "fb9ba36e-4901-e621-cc0b-dba82ba9eded",
         "Level 3": "78f1af5d-45f3-544f-3aec-0bb5f6b0efcf",
         "Level 4": "cf09f992-4a76-aeb4-7ca6-35b5d823ec81",
+    },
+    "Emberclad Phantom": {
+        "Level 1": "bd51353c-4f7a-b20f-0e5f-8c8d1be2aa51",
     },
     "Abyssal Phantom": {
         "Level 1": "4163056e-40e8-b075-1b9e-2cbe1752c376",
@@ -1968,6 +1979,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
         "Level 2": "eddc294e-45f1-026e-1362-70b4e1f1f03a",
         "Level 3": "d89c07d2-4eab-3776-fa3e-d6abb0e18188",
         "Level 4": "71af2fc6-4a39-7c34-158f-abbd0eeb97e5",
+    },
+    "Emberclad Frenzy": {
+        "Level 1": "a74d6653-47da-acba-de35-e3808d6f241c",
     },
     "Elderflame Frenzy": {
         "Level 1": "ea65ba94-468d-39a8-5ded-98820d72d19f",
@@ -3138,6 +3152,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Starlit Odyssey Spectre": {
         "Level 1": "a9e8ca5e-405e-db36-b240-bbb43dca41b1",
     },
+    "Emberclad Spectre": {
+        "Level 1": "6f28d8f2-4fcc-0bff-7fb6-798b138be75f",
+    },
     "Abyssal Spectre": {
         "Level 1": "7dd3f419-4a8e-22e1-f546-b1b83ac20f47",
     },
@@ -3509,6 +3526,9 @@ export const skinsLevelMappedByName: SkinsLevelsMapped = {
     "Terminus A Quo": {
         "Level 1": "96fe45cd-448d-890f-f3f6-86b25516c1a0",
         "Level 2": "4840c1fc-4570-d487-1dff-68977a0d6e67",
+    },
+    "Emberclad Hammer": {
+        "Level 1": "088c0da1-4130-0ebe-ac0c-30a237a0df10",
     },
     Caeruleus: {
         "Level 1": "901425cd-405a-d189-3516-ba954965e559",
@@ -4331,6 +4351,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Red: "0d00f717-409f-abb7-b5e1-9cbd3dcd2752",
         Gold: "293d9ddb-41ef-387f-3d71-908384b6ad87",
     },
+    "Emberclad Bulldog": {
+        Default: "a5211ecf-4bac-2dc7-c70f-339039c973e9",
+    },
     "Rush Bulldog": {
         Default: "f9ec80f9-498b-fab1-cc27-9c867aa1de49",
     },
@@ -4505,6 +4528,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Purple: "048ae1e3-48e5-c5dd-65ef-01b962267db2",
         Red: "765c1e64-4e53-f855-a0f9-c7bb0254d4e5",
         Black: "62228fbd-418d-a7d6-e44a-06885debdef5",
+    },
+    "Emberclad Phantom": {
+        Default: "e7816472-414c-651f-3cd6-66a7d8c39859",
     },
     "Abyssal Phantom": {
         Default: "8be317ca-466a-cd33-3e17-799b4be479fa",
@@ -4995,6 +5021,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Blue: "3b04c752-4564-e7c4-cdf6-7f9c741e3587",
         Red: "ab6e58b2-49a3-e0e8-1240-df94230393d5",
         Gold: "b923bcc8-4cb8-2a19-070e-588686aae090",
+    },
+    "Emberclad Frenzy": {
+        Default: "3f76b033-436b-c277-15a2-8db7b7113df8",
     },
     "Elderflame Frenzy": {
         Default: "eee0c458-474a-b80f-871c-c188f3929a79",
@@ -6273,6 +6302,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Sunset: "c41c4849-41f6-1905-8a35-58a6e5f2404a",
         Midnight: "33b432fd-4766-e358-9b71-89bc6a98719c",
     },
+    "Emberclad Spectre": {
+        Default: "60282271-4086-c2ca-9df1-ca8bac664b3b",
+    },
     "Abyssal Spectre": {
         Default: "45bfac23-4e59-1f99-2e4c-9fa9c9ead038",
     },
@@ -6667,6 +6699,9 @@ export const skinsChromasMappedByName: SkinsVariantsMapped = {
         Purple: "e07b0750-4eb5-c92c-f863-838f159ac23e",
         Red: "8d257fcd-4fd0-a428-2566-a0b8b3332ac7",
         Black: "3c8953f2-4c99-0dbd-e06b-0abfadd5ec99",
+    },
+    "Emberclad Hammer": {
+        Default: "6db9c932-47e0-61cc-66c2-1daa6d55f4ea",
     },
     Caeruleus: {
         Default: "6593259b-43f1-ab4a-5cb9-a0977fb3750f",
