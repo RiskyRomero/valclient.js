@@ -1,5 +1,4 @@
 import axios from "axios";
-import { mocked } from "ts-jest/utils";
 
 import { HttpService } from "@app/http";
 
@@ -22,7 +21,7 @@ const httpService = new HttpService(axios);
 
 jest.mock("axios");
 
-const mockedAxios = mocked(axios, true);
+const mockedAxios = jest.mocked(axios);
 
 beforeAll(async () => {
     mockedAxios.get.mockResolvedValue(returnData);

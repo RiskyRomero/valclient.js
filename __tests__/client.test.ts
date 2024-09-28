@@ -3,7 +3,6 @@ import { addAuthHeaders, addLocalHeaders, ValClient } from "@app/client";
 import fs from "fs";
 import axios from "axios";
 
-import { mocked } from "ts-jest/utils";
 import { SystemNotSupported } from "@errors/systemNotSupported";
 import { ValorantNotRunning } from "@errors/valorantNotRunning";
 import { AuthenticationFailed } from "@errors/authenticationFailed";
@@ -62,8 +61,8 @@ const mockedLockFile = "name:pid:port:password:protocol";
 const realPlatform = Object.getOwnPropertyDescriptor(process, "platform");
 const env = Object.getOwnPropertyDescriptor(process, "env");
 
-const mockedFS = mocked(fs, true);
-const mockedAxios = mocked(axios, true);
+const mockedFS = jest.mocked(fs, { shallow: true });
+const mockedAxios = jest.mocked(axios);
 
 let valClient: ValClient;
 

@@ -1,10 +1,9 @@
 import { getConfigurationPath, parseQueryString } from "@utils";
-import { mocked } from "ts-jest/utils";
 
 jest.mock("@utils");
 
-const mockedGetConfigurationPath = mocked(getConfigurationPath, true);
-const mockedParseQueryString = mocked(parseQueryString);
+const mockedGetConfigurationPath = jest.mocked(getConfigurationPath, { shallow: true });
+const mockedParseQueryString = jest.mocked(parseQueryString);
 
 describe("Configuration Path", () => {
     afterEach(() => {

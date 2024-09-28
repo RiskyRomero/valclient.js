@@ -12,12 +12,11 @@ import { sprayIdMappedByName } from "@resources/sprays";
 import axios, { AxiosInstance } from "axios";
 
 import { mock } from "jest-mock-extended";
-import { mocked } from "ts-jest/utils";
 
 const httpService = mock<IHttp>();
 const store = mock<IStore>();
 
-const valorantApi = mocked(axios, true);
+const valorantApi = jest.mocked(axios);
 const puuid = "puuid";
 const skinLevelId = "newlevel-gun-id Level 4";
 const variant = "variant-gun-id Level 4";
