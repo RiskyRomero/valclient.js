@@ -61,7 +61,7 @@ const mockedLockFile = "name:pid:port:password:protocol";
 const realPlatform = Object.getOwnPropertyDescriptor(process, "platform");
 const env = Object.getOwnPropertyDescriptor(process, "env");
 
-const mockedFS = jest.mocked(fs, { shallow: true });
+const mockedFS = jest.mocked(fs);
 const mockedAxios = jest.mocked(axios);
 
 let valClient: ValClient;
@@ -192,7 +192,7 @@ describe("Try to iniciate client", () => {
             value: "linux",
         });
 
-        expect(valClient.init({ region: "br" })).rejects.toThrowError(SystemNotSupported);
+        expect(valClient.init({ region: "br" })).rejects.toThrow(SystemNotSupported);
     });
 
     test("valorant is not running (launcher is logged), throw a ValorantNotRunning", async () => {
@@ -201,7 +201,7 @@ describe("Try to iniciate client", () => {
             value: "win32",
         });
 
-        expect(valClient.init({ region: "br" })).rejects.toThrowError(ValorantNotRunning);
+        expect(valClient.init({ region: "br" })).rejects.toThrow(ValorantNotRunning);
     });
 });
 
