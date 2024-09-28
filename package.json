@@ -1,75 +1,75 @@
 {
-  "name": "valclient.js",
-  "version": "1.2.0",
-  "description": "Valorant Client API Wrapper in NodeJS",
-  "main": "dist/cjs/index.js",
-  "module": "dist/esm/index.js",
-  "files": [
-    "dist"
-  ],
-  "keywords": [
-    "typescript",
-    "valorant",
-    "valorant-api",
-    "api",
-    "wrapper",
-    "nodejs",
-    "riot",
-    "npm"
-  ],
-  "scripts": {
-    "lint": "eslint src/**/*.ts --quiet --fix",
-    "test": "jest",
-    "prepare": "husky install",
-    "start": "cross-env NODE_ENV=development nodemon --watch src -r tsconfig-paths/register src/index.ts",
-    "update:types": "ts-node -r tsconfig-paths/register src/utils/updateTypes.ts && yarn lint",
-    "build": "ttsc -P ./tsconfig-build.json && ttsc -P ./tsconfig-cjs.json",
-    "prepublishOnly": "yarn build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/igorwessel/valclient.js.git"
-  },
-  "author": "Igor Wessel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/igorwessel/valclient.js/issues"
-  },
-  "homepage": "https://github.com/igorwessel/valclient.js#readme",
-  "dependencies": {
-    "axios": "0.21.4",
-    "axios-cookiejar-support": "1.0.1",
-    "tough-cookie": "4.0.0"
-  },
-  "devDependencies": {
-    "@types/jest": "^29.5.13",
-    "@types/node": "^22.7.4",
-    "@types/tough-cookie": "^4.0.5",
-    "@typescript-eslint/eslint-plugin": "^8.7.0",
-    "@typescript-eslint/parser": "^8.7.0",
-    "@zerollup/ts-transform-paths": "^1.7.18",
-    "cross-env": "^7.0.3",
-    "dotenv": "^16.4.5",
-    "eslint": "^9.11.1",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "husky": "^9.1.6",
-    "istanbul-badges-readme": "^1.9.0",
-    "jest": "^29.7.0",
-    "jest-mock-extended": "^4.0.0-beta1",
-    "lint-staged": "^15.2.10",
-    "nodemon": "^3.1.7",
-    "prettier": "^3.3.3",
-    "ts-jest": "^29.2.5",
-    "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
-    "ttypescript": "^1.5.15",
-    "typescript": "^5.6.2"
-  },
-  "lint-staged": {
-    "*.ts": [
-      "eslint --fix"
+    "name": "valclient.js",
+    "version": "1.2.0",
+    "description": "Valorant Client API Wrapper in NodeJS",
+    "main": "dist/cjs/index.js",
+    "module": "dist/esm/index.js",
+    "files": [
+        "dist"
     ],
-    "*.js": "eslint --cache --fix"
-  }
+    "keywords": [
+        "typescript",
+        "valorant",
+        "valorant-api",
+        "api",
+        "wrapper",
+        "nodejs",
+        "riot",
+        "npm"
+    ],
+    "scripts": {
+        "lint": "eslint src/**/*.ts --quiet --fix",
+        "test": "jest",
+        "prepare": "husky",
+        "start": "cross-env NODE_ENV=development nodemon --watch src -r tsconfig-paths/register src/index.ts",
+        "update:types": "ts-node -r tsconfig-paths/register src/utils/updateTypes.ts && yarn lint",
+        "build": "ttsc -P ./tsconfig-build.json && ttsc -P ./tsconfig-cjs.json",
+        "prepublishOnly": "yarn build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/igorwessel/valclient.js.git"
+    },
+    "author": "Igor Wessel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/igorwessel/valclient.js/issues"
+    },
+    "homepage": "https://github.com/igorwessel/valclient.js#readme",
+    "dependencies": {
+        "axios": "0.21.4",
+        "axios-cookiejar-support": "1.0.1",
+        "tough-cookie": "4.0.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^29.5.13",
+        "@types/node": "^22.7.4",
+        "@types/tough-cookie": "^4.0.5",
+        "@typescript-eslint/eslint-plugin": "^8.7.0",
+        "@typescript-eslint/parser": "^8.7.0",
+        "@zerollup/ts-transform-paths": "^1.7.18",
+        "cross-env": "^7.0.3",
+        "dotenv": "^16.4.5",
+        "eslint": "^9.11.1",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "husky": "^9.1.6",
+        "istanbul-badges-readme": "^1.9.0",
+        "jest": "^29.7.0",
+        "jest-mock-extended": "^4.0.0-beta1",
+        "lint-staged": "^15.2.10",
+        "nodemon": "^3.1.7",
+        "prettier": "^3.3.3",
+        "ts-jest": "^29.2.5",
+        "ts-node": "^10.9.2",
+        "tsconfig-paths": "^4.2.0",
+        "ttypescript": "^1.5.15",
+        "typescript": "^5.6.2"
+    },
+    "lint-staged": {
+        "*.ts": [
+            "eslint --fix"
+        ],
+        "*.js": "eslint --cache --fix"
+    }
 }
